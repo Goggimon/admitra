@@ -1,0 +1,98 @@
+[
+  {
+    "id": "exam_jeem",
+    "short_code": "JEEM",
+    "official_name": "JEE Main",
+    "authority": "National Testing Agency (NTA)",
+    "official_url": "https://jeemain.nta.nic.in/",
+    "notices_url": "https://jeemain.nta.nic.in/public-notices/",
+    "registration_state": "announced",
+    "monitoring_status": "active",
+    "verification_status": "announced",
+    "last_verified_at": "2026-11-23T18:20:00.000Z"
+  },
+  {
+    "id": "exam_jeea",
+    "short_code": "JEEA",
+    "official_name": "JEE Advanced",
+    "authority": "IIT Joint Admission Board",
+    "official_url": "https://jeeadv.ac.in/",
+    "notices_url": "UNKNOWN",
+    "registration_state": "unknown",
+    "monitoring_status": "paused",
+    "verification_status": "unverified",
+    "last_verified_at": null
+  },
+  {
+    "id": "exam_bitsat",
+    "short_code": "BITSAT",
+    "official_name": "BITSAT",
+    "authority": "BITS Pilani",
+    "official_url": "https://www.bitsadmission.com/",
+    "notices_url": "UNKNOWN",
+    "registration_state": "unknown",
+    "monitoring_status": "paused",
+    "verification_status": "unverified",
+    "last_verified_at": null
+  },
+  {
+    "id": "exam_viteee",
+    "short_code": "VITEEE",
+    "official_name": "VITEEE",
+    "authority": "Vellore Institute of Technology",
+    "official_url": "https://viteee.vit.ac.in/",
+    "notices_url": "UNKNOWN",
+    "registration_state": "unknown",
+    "monitoring_status": "paused",
+    "verification_status": "unverified",
+    "last_verified_at": null
+  },
+  {
+    "id": "exam_met",
+    "short_code": "MET",
+    "official_name": "Manipal Entrance Test (MET)",
+    "authority": "MAHE Manipal",
+    "official_url": "https://www.manipal.edu/",
+    "notices_url": "UNKNOWN",
+    "registration_state": "unknown",
+    "monitoring_status": "paused",
+    "verification_status": "unverified",
+    "last_verified_at": null
+  },
+  {
+    "id": "exam_srmjeee",
+    "short_code": "SRMJEEE",
+    "official_name": "SRMJEEE",
+    "authority": "SRMIST",
+    "official_url": "https://www.srmist.edu.in/",
+    "notices_url": "UNKNOWN",
+    "registration_state": "unknown",
+    "monitoring_status": "paused",
+    "verification_status": "unverified",
+    "last_verified_at": null
+  },
+  {
+    "id": "exam_comedk",
+    "short_code": "COMEDK",
+    "official_name": "COMEDK UGET",
+    "authority": "COMEDK",
+    "official_url": "https://www.comedk.org/",
+    "notices_url": "UNKNOWN",
+    "registration_state": "unknown",
+    "monitoring_status": "paused",
+    "verification_status": "unverified",
+    "last_verified_at": null
+  },
+  {
+    "id": "exam_iat",
+    "short_code": "IAT",
+    "official_name": "IISER Aptitude Test (IAT)",
+    "authority": "IISER Admissions",
+    "official_url": "https://iiseradmission.in/",
+    "notices_url": "UNKNOWN",
+    "registration_state": "unknown",
+    "monitoring_status": "paused",
+    "verification_status": "unverified",
+    "last_verified_at": null
+  }
+]

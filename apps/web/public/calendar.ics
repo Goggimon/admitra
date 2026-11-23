@@ -1,0 +1,59 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ADMITRA//Admissions & Examination Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ADMITRA Admissions & Exams
+X-WR-TIMEZONE:Asia/Kolkata
+X-WR-CALDESC:Verified and announced university admissions deadlines and entrance examination dates tracked by ADMITRA.
+BEGIN:VEVENT
+UID:admitra-dl_unsw_t1_2027_offshore@admitra.app
+DTSTAMP:20261123T191757Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:[VERIFIED] UNSW Term 1 2027 Offshore Application Closing Date
+DESCRIPTION:Institution/Exam: UNSW Sydney\nCategory: application_deadline\nVerification: VERIFIED\nOriginal Timezone: Australia/Sydney\nOfficial Source: https://www.unsw.edu.au/study/international-students/admissions-info
+URL:https://www.unsw.edu.au/study/international-students/admissions-info
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:admitra-dl_unsw_t2_2027_offshore@admitra.app
+DTSTAMP:20261123T191757Z
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270226
+SUMMARY:[VERIFIED] UNSW Term 2 2027 Offshore Application Closing Date
+DESCRIPTION:Institution/Exam: UNSW Sydney\nCategory: application_deadline\nVerification: VERIFIED\nOriginal Timezone: Australia/Sydney\nOfficial Source: https://www.unsw.edu.au/study/international-students/admissions-info
+URL:https://www.unsw.edu.au/study/international-students/admissions-info
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:admitra-dl_unsw_t3_2027_offshore@admitra.app
+DTSTAMP:20261123T191757Z
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270611
+SUMMARY:[VERIFIED] UNSW Term 3 2027 Offshore Application Closing Date
+DESCRIPTION:Institution/Exam: UNSW Sydney\nCategory: application_deadline\nVerification: VERIFIED\nOriginal Timezone: Australia/Sydney\nOfficial Source: https://www.unsw.edu.au/study/international-students/admissions-info
+URL:https://www.unsw.edu.au/study/international-students/admissions-info
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:admitra-evt_unsw_2027_open@admitra.app
+DTSTAMP:20261123T191757Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:[VERIFIED] UNSW Sydney 2027 International Applications Open (All Terms)
+DESCRIPTION:Entity: UNSW Sydney\nEvent Type: application_opened\nVerification: VERIFIED\nEvidence: Applications to study at UNSW Sydney across all 2027 terms are now open.\nOfficial Source: https://www.unsw.edu.au/study/international-students/admissions-info
+URL:https://www.unsw.edu.au/study/international-students/admissions-info
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:admitra-evt_jeem_2027_s1_notices@admitra.app
+DTSTAMP:20261123T191757Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:[ANNOUNCED] NTA JEE (Main) 2027 Session 1 Online Application Notices Published
+DESCRIPTION:Entity: JEE Main\nEvent Type: reg_dates_announced\nVerification: ANNOUNCED\nEvidence: Inviting Online Application form for the Joint Entrance Examination (JEE)-2027 (Session 1) - Reg. (Last Updated: Nov 20\, 2026)\nOfficial Source: https://jeemain.nta.nic.in/public-notices/
+URL:https://jeemain.nta.nic.in/public-notices/
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR

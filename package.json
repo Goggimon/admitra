@@ -1,0 +1,14 @@
+{
+  "name": "admitra",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "ADMITRA — Standalone GitHub-Native Admissions & Examination Intelligence Platform (₹0/month)",
+  "scripts": {
+    "dev": "npm --prefix apps/web run dev",
+    "build": "node --experimental-strip-types scripts/update.ts --sync-only && npm --prefix apps/web run build",
+    "update": "node --experimental-strip-types scripts/update.ts",
+    "validate": "node --experimental-strip-types scripts/validate.ts",
+    "test": "node --experimental-strip-types --test monitoring/changeDetector.test.ts"
+  }
+}

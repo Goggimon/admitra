@@ -1,0 +1,40 @@
+{
+  "last_run": {
+    "started_at": "2026-11-23T19:16:59.374Z",
+    "finished_at": "2026-11-23T19:16:59.772Z",
+    "duration_ms": 398,
+    "sources_checked": 2,
+    "sources_failed": 0,
+    "changes_detected": 0
+  },
+  "events": [
+    {
+      "id": "evt_unsw_2027_open",
+      "entity_type": "university",
+      "entity_id": "uni_unsw",
+      "entity_name": "UNSW Sydney",
+      "event_type": "application_opened",
+      "title": "UNSW Sydney 2027 International Applications Open (All Terms)",
+      "date": "2026-11-23",
+      "date_only": true,
+      "verification_status": "verified",
+      "source_url": "https://www.unsw.edu.au/study/international-students/admissions-info",
+      "evidence": "Applications to study at UNSW Sydney across all 2027 terms are now open.",
+      "detected_at": "2026-11-23T18:20:00.000Z"
+    },
+    {
+      "id": "evt_jeem_2027_s1_notices",
+      "entity_type": "examination",
+      "entity_id": "exam_jeem",
+      "entity_name": "JEE Main",
+      "event_type": "reg_dates_announced",
+      "title": "NTA JEE (Main) 2027 Session 1 Online Application Notices Published",
+      "date": "2026-11-20",
+      "date_only": true,
+      "verification_status": "announced",
+      "source_url": "https://jeemain.nta.nic.in/public-notices/",
+      "evidence": "Inviting Online Application form for the Joint Entrance Examination (JEE)-2027 (Session 1) - Reg. (Last Updated: Nov 20, 2026)",
+      "detected_at": "2026-11-23T18:20:00.000Z"
+    }
+  ]
+}

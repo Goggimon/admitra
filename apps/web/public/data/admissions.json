@@ -1,0 +1,108 @@
+{
+  "schema_version": "1.0.0-github-native",
+  "generated_at": "2026-11-23T19:16:59.772Z",
+  "timezone": "Asia/Kolkata",
+  "sources": [
+    {
+      "source_id": "src_unsw_intl_admissions",
+      "entity_type": "university",
+      "entity_id": "uni_unsw",
+      "entity_name": "UNSW Sydney",
+      "title": "UNSW International Student Admissions & Key Dates",
+      "url": "https://www.unsw.edu.au/study/international-students/admissions-info",
+      "adapter": "unsw_intl_admissions",
+      "active": true,
+      "http_status": "200",
+      "content_hash": "4299a16ce1729fef068dba3d6fe23a4b38a83e5b2a849c27f6308074261fed53",
+      "last_excerpt": "2027 application dates</p>\n\">\n2027 application dates\nApplications to study at UNSW Sydney across all 2027 terms are now open. We encourage students who are interested in studying with us to apply early for their best chance to secure a place.\nApplicants are strongly encouraged to submit their applications and all required supporting documentation as early as possible to allow sufficient time for assessment. While we will make every effort to provide an admission outcome within the relevant offer timeframe, this cannot be guaranteed for applications submitted after the standard deadline or where outstanding documentation is provided late.\nApplications for both undergraduate and postgraduate programs\nUndergraduate and postgraduate coursework applications are accepted on an ongoing basis in accordance with Term application dates outlined below and offers are released on a rolling basis* (see below for indicative application processing times).\nTerm 1 2027 application and offer key dates</p>\n\">\nTerm 1 2027 application and offer key dates\nOffshore Onshore\nApplication closing date Sunday, 15 November 2026 Thursday, 14 January 2027\nLast day to receive an offer with  Genuine Student (GS) As",
+      "consecutive_failures": 0,
+      "last_error": null,
+      "verification_history": {
+        "last_successful_check": "2026-11-23T19:16:59.374Z",
+        "last_detected_change": null,
+        "previous_verified_date": null,
+        "current_verified_date": "2027-02-25"
+      }
+    },
+    {
+      "source_id": "src_jeem_public_notices",
+      "entity_type": "examination",
+      "entity_id": "exam_jeem",
+      "entity_name": "JEE Main",
+      "title": "NTA JEE Main Official Public Notices",
+      "url": "https://jeemain.nta.nic.in/public-notices/",
+      "adapter": "jee_main_public_notices",
+      "active": true,
+      "http_status": "200",
+      "content_hash": "0559c362afa8922a510e293e87237a951a634a356c25871c36800f6a241ecf4b",
+      "last_excerpt": "Inviting Online Application form for the Joint Entrance Examination (JEE)-2027 (Session 1) – Reg. | https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2026/10/20261024390682350.pdf",
+      "consecutive_failures": 0,
+      "last_error": null,
+      "verification_history": {
+        "last_successful_check": "2026-11-23T19:16:59.374Z",
+        "last_detected_change": null,
+        "previous_verified_date": null,
+        "current_verified_date": null
+      }
+    }
+  ],
+  "deadlines": [
+    {
+      "id": "dl_unsw_t1_2027_offshore",
+      "entity_type": "university",
+      "entity_id": "uni_unsw",
+      "entity_name": "UNSW Sydney",
+      "category": "application_deadline",
+      "title": "UNSW Term 1 2027 Offshore Application Closing Date",
+      "date": "2026-11-15",
+      "date_only": true,
+      "original_timezone": "Australia/Sydney",
+      "verification_status": "verified",
+      "source_url": "https://www.unsw.edu.au/study/international-students/admissions-info",
+      "verification_history": {
+        "last_successful_check": "2026-11-23T18:20:00.000Z",
+        "last_detected_change": null,
+        "previous_verified_date": null,
+        "current_verified_date": "2026-11-15"
+      }
+    },
+    {
+      "id": "dl_unsw_t2_2027_offshore",
+      "entity_type": "university",
+      "entity_id": "uni_unsw",
+      "entity_name": "UNSW Sydney",
+      "category": "application_deadline",
+      "title": "UNSW Term 2 2027 Offshore Application Closing Date",
+      "date": "2027-02-25",
+      "date_only": true,
+      "original_timezone": "Australia/Sydney",
+      "verification_status": "verified",
+      "source_url": "https://www.unsw.edu.au/study/international-students/admissions-info",
+      "verification_history": {
+        "last_successful_check": "2026-11-23T18:20:00.000Z",
+        "last_detected_change": null,
+        "previous_verified_date": null,
+        "current_verified_date": "2027-02-25"
+      }
+    },
+    {
+      "id": "dl_unsw_t3_2027_offshore",
+      "entity_type": "university",
+      "entity_id": "uni_unsw",
+      "entity_name": "UNSW Sydney",
+      "category": "application_deadline",
+      "title": "UNSW Term 3 2027 Offshore Application Closing Date",
+      "date": "2027-06-10",
+      "date_only": true,
+      "original_timezone": "Australia/Sydney",
+      "verification_status": "verified",
+      "source_url": "https://www.unsw.edu.au/study/international-students/admissions-info",
+      "verification_history": {
+        "last_successful_check": "2026-11-23T18:20:00.000Z",
+        "last_detected_change": null,
+        "previous_verified_date": null,
+        "current_verified_date": "2027-06-10"
+      }
+    }
+  ]
+}
