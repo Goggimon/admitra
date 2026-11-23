@@ -25,6 +25,11 @@ jobs:
         run: npm run update
       - name: Validate JSON database & calendar.ics
         run: npm run validate
+      - name: Send high-signal email alerts (if configured)
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          NOTIFY_EMAIL: ${{ secrets.NOTIFY_EMAIL }}
+        run: npm run notify
       - name: Commit updated public admissions data if changed
         run: |
           git config user.name "admitra-bot"

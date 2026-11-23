@@ -1,4 +1,4 @@
-import { copyFileSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs';
+import { copyFileSync, existsSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs';
 import { dirname, join, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import type { AdmissionsDatabase, EventsDatabase } from '../monitoring/sources.ts';
@@ -39,10 +39,21 @@ async function main() {
   const icsContent = generateIcsCalendar(admissions.deadlines, eventsDb.events);
   writeFileSync(join(PUBLIC_DIR, 'calendar.ics'), icsContent, 'utf8');
 
-  for (const filename of ['universities.json', 'examinations.json', 'admissions.json', 'events.json']) {
-    copyFileSync(join(DATA_DIR, filename), join(PUBLIC_DATA_DIR, filename));
+  const dataFiles = [
+    'profile.json',
+    'universities.json',
+    'examinations.json',
+    'supplementary.json',
+    'admissions.json',
+    'events.json'
+  ];
+  for (const filename of dataFiles) {
+    const srcPath = join(DATA_DIR, filename);
+    if (existsSync(srcPath)) {
+      copyFileSync(srcPath, join(PUBLIC_DATA_DIR, filename));
+    }
   }
-  console.log('[ADMITRA] Synced data/*.json and generated apps/web/public/calendar.ics');
+  console.log('[ADMITRA] Synced data/*.json (6 files) and generated apps/web/public/calendar.ics');
 }
 
 main().catch((err) => {

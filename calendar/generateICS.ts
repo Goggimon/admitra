@@ -46,9 +46,9 @@ export function generateIcsCalendar(
     'PRODID:-//ADMITRA//Admissions & Examination Calendar//EN',
     'CALSCALE:GREGORIAN',
     'METHOD:PUBLISH',
-    'X-WR-CALNAME:ADMITRA Admissions & Exams',
+    'X-WR-CALNAME:ADMITRA Fall 2027 Admissions & Exams',
     'X-WR-TIMEZONE:Asia/Kolkata',
-    'X-WR-CALDESC:Verified and announced university admissions deadlines and entrance examination dates tracked by ADMITRA.'
+    'X-WR-CALDESC:Verified and announced Fall 2027 university admissions deadlines, scholarships, entrance examinations, SAT, and CBSE Class 12 milestones tracked by ADMITRA.'
   ];
 
   const seenUids = new Set<string>();
@@ -78,6 +78,16 @@ export function generateIcsCalendar(
       `DESCRIPTION:${escapeIcsText(desc)}`,
       `URL:${dl.source_url}`,
       `STATUS:${dl.verification_status === 'verified' ? 'CONFIRMED' : 'TENTATIVE'}`,
+      'BEGIN:VALARM',
+      'ACTION:DISPLAY',
+      'TRIGGER:-P7D',
+      `DESCRIPTION:${escapeIcsText(`7 days remaining: ${dl.title}`)}`,
+      'END:VALARM',
+      'BEGIN:VALARM',
+      'ACTION:DISPLAY',
+      'TRIGGER:-P1D',
+      `DESCRIPTION:${escapeIcsText(`Tomorrow: ${dl.title}`)}`,
+      'END:VALARM',
       'END:VEVENT'
     );
   }

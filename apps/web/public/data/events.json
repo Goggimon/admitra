@@ -1,13 +1,27 @@
 {
   "last_run": {
-    "started_at": "2026-11-23T19:31:43.890Z",
-    "finished_at": "2026-11-23T19:31:45.422Z",
-    "duration_ms": 1532,
-    "sources_checked": 2,
+    "started_at": "2026-11-24T01:30:00.000Z",
+    "finished_at": "2026-11-24T01:30:02.000Z",
+    "duration_ms": 2000,
+    "sources_checked": 10,
     "sources_failed": 0,
     "changes_detected": 0
   },
   "events": [
+    {
+      "id": "evt_sat_dec2026_urgent",
+      "entity_type": "supplementary",
+      "entity_id": "supp_sat",
+      "entity_name": "SAT (College Board)",
+      "event_type": "deadline_approaching",
+      "title": "SAT Dec 5 Late Registration Closes Today (Final Sitting for Aalto/Oulu/US RD)",
+      "date": "2026-11-24",
+      "date_only": true,
+      "verification_status": "verified",
+      "source_url": "https://satsuite.collegeboard.org/sat/dates-deadlines",
+      "evidence": "Late registration for the December 5, 2026 SAT closes November 24, 2026 (11:59 PM ET).",
+      "detected_at": "2026-11-24T01:30:00.000Z"
+    },
     {
       "id": "evt_unsw_2027_open",
       "entity_type": "university",
@@ -19,22 +33,78 @@
       "date_only": true,
       "verification_status": "verified",
       "source_url": "https://www.unsw.edu.au/study/international-students/admissions-info",
-      "evidence": "Applications to study at UNSW Sydney across all 2027 terms are now open.",
+      "evidence": "Applications to study at UNSW Sydney across all 2027 terms are now open. Term 2 closes 2027-02-25; Term 3 closes 2027-06-10.",
       "detected_at": "2026-11-23T18:20:00.000Z"
     },
     {
-      "id": "evt_jeem_2027_s1_notices",
+      "id": "evt_nthu_r2_open",
+      "entity_type": "university",
+      "entity_id": "uni_nthu",
+      "entity_name": "National Tsing Hua University (NTHU)",
+      "event_type": "application_opened",
+      "title": "NTHU IBP Fall 2027 Round 2 Applications Open",
+      "date": "2026-11-23",
+      "date_only": true,
+      "verification_status": "verified",
+      "source_url": "https://ibp.nthu.edu.tw/news-132.html",
+      "evidence": "Round 1 closed 2026-11-23; Round 2 opened immediately and runs through 2027-03-03 (12:00 GMT+8).",
+      "detected_at": "2026-11-24T01:30:00.000Z"
+    },
+    {
+      "id": "evt_jeem_2027_s1_late_window",
       "entity_type": "examination",
       "entity_id": "exam_jeem",
       "entity_name": "JEE Main",
       "event_type": "reg_dates_announced",
-      "title": "NTA JEE (Main) 2027 Session 1 Online Application Notices Published",
-      "date": "2026-11-20",
+      "title": "JEE Main 2027 Session 1 Late-Fee Window Open (Nov 23–26) & Session 2 Dates Published",
+      "date": "2026-11-23",
       "date_only": true,
-      "verification_status": "announced",
-      "source_url": "https://jeemain.nta.nic.in/public-notices/",
-      "evidence": "Inviting Online Application form for the Joint Entrance Examination (JEE)-2027 (Session 1) - Reg. (Last Updated: Nov 20, 2026)",
-      "detected_at": "2026-11-23T18:20:00.000Z"
+      "verification_status": "verified",
+      "source_url": "https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2026/10/202610241890224107.pdf",
+      "evidence": "Regular S1 registration closed 2026-11-22; late fee (+₹500) open through 2026-11-26; S1 exams Jan 20–24 & 28; S2 exams Apr 2–7.",
+      "detected_at": "2026-11-24T01:30:00.000Z"
+    },
+    {
+      "id": "evt_jeea_2027_date_announced",
+      "entity_type": "examination",
+      "entity_id": "exam_jeea",
+      "entity_name": "JEE Advanced",
+      "event_type": "exam_date_announced",
+      "title": "IIT Delhi Announces JEE (Advanced) 2027 Date: May 23, 2027",
+      "date": "2026-11-13",
+      "date_only": true,
+      "verification_status": "verified",
+      "source_url": "https://jeeadv.ac.in/documents/JEEAdv2027PressRelease.pdf",
+      "evidence": "Official press release confirms exam on Sunday, May 23, 2027, with on-screen basic non-scientific calculator.",
+      "detected_at": "2026-11-24T01:30:00.000Z"
+    },
+    {
+      "id": "evt_cbse_2027_datesheet",
+      "entity_type": "supplementary",
+      "entity_id": "supp_cbse",
+      "entity_name": "CBSE Class 12",
+      "event_type": "exam_date_announced",
+      "title": "CBSE Publishes Official Class 12 2027 Main Date Sheet",
+      "date": "2026-11-06",
+      "date_only": true,
+      "verification_status": "verified",
+      "source_url": "https://www.cbse.gov.in/cbsenew/documents/Datesheet_ClassX%20_XII_2027_Main_06112026.pdf",
+      "evidence": "Physics Feb 16, Chemistry Feb 27, English Core Mar 5, Mathematics Mar 9, Computer Science Mar 31.",
+      "detected_at": "2026-11-24T01:30:00.000Z"
+    },
+    {
+      "id": "evt_viteee_2027_open",
+      "entity_type": "examination",
+      "entity_id": "exam_viteee",
+      "entity_name": "VITEEE",
+      "event_type": "reg_portal_opened",
+      "title": "VITEEE 2027 Applications Open (Oct 20, 2026 – Mar 31, 2027)",
+      "date": "2026-10-20",
+      "date_only": true,
+      "verification_status": "verified",
+      "source_url": "https://viteee.vit.ac.in/",
+      "evidence": "Single-attempt CBT scheduled tentatively for April 27 – May 2, 2027; application fee ₹1,450.",
+      "detected_at": "2026-11-24T01:30:00.000Z"
     }
   ]
 }

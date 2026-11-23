@@ -1,5 +1,5 @@
 export type VerificationStatus = 'verified' | 'announced' | 'unverified';
-export type EntityType = 'university' | 'examination';
+export type EntityType = 'university' | 'examination' | 'supplementary';
 
 export interface VerificationHistory {
   last_successful_check: string | null;
@@ -25,18 +25,36 @@ export interface MonitoredSource {
   verification_history: VerificationHistory;
 }
 
+export type DeadlineCategory =
+  | 'application_opening'
+  | 'application_deadline'
+  | 'registration_opening'
+  | 'registration_deadline'
+  | 'correction_window'
+  | 'admit_card'
+  | 'exam_date'
+  | 'result_date'
+  | 'scholarship_opening'
+  | 'scholarship_deadline'
+  | 'decision_date'
+  | 'offer_acceptance'
+  | 'board_exam'
+  | 'standardized_test';
+
 export interface DeadlineItem {
   id: string;
   entity_type: EntityType;
   entity_id: string;
   entity_name: string;
-  category: 'application_deadline' | 'registration_deadline' | 'exam_date' | 'result_date' | 'scholarship_deadline';
+  category: DeadlineCategory;
   title: string;
   date: string; // YYYY-MM-DD for date_only, or ISO string
   date_only: boolean;
   original_timezone: string;
   verification_status: VerificationStatus;
   source_url: string;
+  is_estimate?: boolean;
+  notes?: string;
   verification_history: VerificationHistory;
 }
 

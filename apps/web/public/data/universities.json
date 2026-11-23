@@ -7,11 +7,82 @@
     "official_url": "https://www.unsw.edu.au/",
     "admissions_url": "https://www.unsw.edu.au/study/international-students/admissions-info",
     "portal_url": "https://applyonline.unsw.edu.au/",
-    "program_name": "UNKNOWN (Phase 2)",
+    "program_name": "Bachelor of Engineering (Honours) (Telecommunications)",
     "monitoring_status": "active",
     "verification_status": "verified",
     "application_status": "open",
-    "last_verified_at": "2026-11-23T18:20:00.000Z"
+    "last_verified_at": "2026-11-24T01:30:00.000Z",
+    "programme": {
+      "official_name": "Bachelor of Engineering (Honours) (Telecommunications) [Code: 3707, CRICOS: 056835E]",
+      "degree_type": "BEng (Hons)",
+      "duration": "4 years full-time (192 UOC; includes 60 days industry training; UNSW shifts to Flex-Semester in 2028)",
+      "campus": "Kensington, Sydney, NSW",
+      "webpage_url": "https://www.unsw.edu.au/study/undergraduate/bachelor-of-engineering-honours-telecommunications",
+      "genuine_ece": true,
+      "ece_notes": "Dedicated Telecommunications Engineering specialisation (networks, radio, fibre optics, satellites, digital transmission); also offers Electrical Engineering (microelectronics, signal processing, photonics) and Computer Engineering.",
+      "ai_alternative_name": "Bachelor of Science (Computer Science — AI Specialisation) or BEng (Hons) / Computer Science Double Degree",
+      "ai_alternative_url": "https://www.unsw.edu.au/study/undergraduate/bachelor-of-computer-science"
+    },
+    "eligibility": {
+      "cbse_accepted": true,
+      "min_overall_percentage": "International ATAR 89.0 equivalent (average of English/Hindi + best 4 CBSE subjects). Indian citizens automatically receive +5 ATAR boost under IADP (min ATAR 75).",
+      "pcm_requirements": "Assumed knowledge: Mathematics Extension 1 equivalent and Physics.",
+      "math_physics_prerequisites": "CBSE Class 12 Mathematics and Physics (assumed knowledge).",
+      "sat_requirement": "Accepted (min SAT 1260 EBRW+Math). Meeting SAT 1260 allows a full offer ahead of final CBSE results with school expected-graduation letter.",
+      "english_proficiency": "IELTS 6.5 (min 6.0 each), TOEFL iBT 90 (23 W, 22 R/L/S — 'Taking TOEFL for Australia'), or PTE 64 (min 54).",
+      "cbse_english_exemption": "Yes — Grade C1 in CBSE Class 12 English Core (within 2 years).",
+      "india_conditions": "Genuine Student (GS) Assessment and Financial Declaration may be offer conditions."
+    },
+    "application": {
+      "intake_target": "Term 3 2027 (Sep 2027 — best post-CBSE fit); Term 2 (May 2027) also open",
+      "opening_date": null,
+      "deadline": "2027-06-10",
+      "portal_name": "UNSW Apply Online",
+      "portal_url": "https://applyonline.unsw.edu.au/",
+      "fee": "International application fee applies (exact 2027 AUD figure unverified on overview page)",
+      "required_documents": "Class 10/12 transcripts or predicted grades (+2 buffer on school letterhead), passport, English proof, SAT score + graduation letter if using SAT.",
+      "predicted_final_grades": "Accepts CBSE predicted grades (+2 point buffer above entry cutoff) for full offers; final results due by term start.",
+      "essays_sop": "Not required for BEng admission (brief motivation statement only if invited for ISA or Scientia scholarship).",
+      "recommendation_letters": "Not required",
+      "extracurriculars": "Not required for admission (assessed for Scientia scholarship)",
+      "interviews_portfolios": "Not required"
+    },
+    "financial": {
+      "tuition_annual": "AUD $63,840/yr (AUD $1,330/UOC × 48 UOC for 2027 Engineering; Science courses AUD $1,375/UOC)",
+      "additional_fees": "SSAF (2026 ref: AUD $373/yr; 2027 UG rate unverified) + mandatory OSHC for Subclass 500 visa.",
+      "scholarships": [
+        {
+          "name": "International Student Award (ISA)",
+          "amount": "20% tuition reduction every year (~AUD $51,072/yr net)",
+          "eligibility": "All Indian citizens commencing in 2027; combinable with other UNSW awards",
+          "deadline": "2027-06-18",
+          "url": "https://www.scholarships.unsw.edu.au/international-student-award"
+        },
+        {
+          "name": "International Scientia Coursework Scholarship",
+          "amount": "Full tuition or AUD $20,000/yr",
+          "eligibility": "Separate application; academic merit, leadership, extracurriculars",
+          "deadline": "2027-06-18",
+          "url": "https://www.unsw.edu.au/study/your-future/india-scholarships"
+        },
+        {
+          "name": "Australia's Global University Award",
+          "amount": "AUD $10,000 (1 year)",
+          "eligibility": "Automatic consideration on academic merit",
+          "deadline": null,
+          "url": "https://www.unsw.edu.au/study/your-future/india-scholarships"
+        }
+      ]
+    },
+    "milestones": [
+      { "label": "Term 2 2027 Offshore Application Closing", "date": "2027-02-25", "is_estimate": false, "verification_status": "verified", "source_url": "https://www.unsw.edu.au/study/international-students/admissions-info" },
+      { "label": "Term 2 2027 Scholarship Window Closes", "date": "2027-02-26", "is_estimate": false, "verification_status": "verified", "source_url": "https://www.scholarships.unsw.edu.au/faqs" },
+      { "label": "Term 3 2027 Scholarship Window Opens", "date": "2027-04-01", "is_estimate": false, "verification_status": "verified", "source_url": "https://www.scholarships.unsw.edu.au/faqs" },
+      { "label": "Term 3 2027 Offshore Application Closing", "date": "2027-06-10", "is_estimate": false, "verification_status": "verified", "source_url": "https://www.unsw.edu.au/study/international-students/admissions-info" },
+      { "label": "Term 3 2027 Scholarship Window Closes", "date": "2027-06-18", "is_estimate": false, "verification_status": "verified", "source_url": "https://www.scholarships.unsw.edu.au/faqs" },
+      { "label": "Term 3 2027 Docs / Conditions Deadline", "date": "2027-07-08", "is_estimate": false, "verification_status": "verified", "source_url": "https://www.unsw.edu.au/study/international-students/admissions-info" },
+      { "label": "Term 3 2027 Last Day to Accept Offer", "date": "2027-07-22", "is_estimate": false, "verification_status": "verified", "source_url": "https://www.unsw.edu.au/study/international-students/admissions-info" }
+    ]
   },
   {
     "id": "uni_unimelb",
@@ -19,27 +90,138 @@
     "country": "Australia",
     "region": "Australia",
     "official_url": "https://www.unimelb.edu.au/",
-    "admissions_url": "UNKNOWN",
-    "portal_url": "UNKNOWN",
-    "program_name": "UNKNOWN (Phase 2)",
-    "monitoring_status": "paused",
-    "verification_status": "unverified",
-    "application_status": "unknown",
-    "last_verified_at": null
+    "admissions_url": "https://study.unimelb.edu.au/how-to-apply/undergraduate-study/international-applications/applications",
+    "portal_url": "https://study.unimelb.edu.au/how-to-apply/undergraduate-study/international-applications/applications",
+    "program_name": "Bachelor of Science (Electrical Engineering Systems Major) + MEng Pathway",
+    "monitoring_status": "active",
+    "verification_status": "verified",
+    "application_status": "open",
+    "last_verified_at": "2026-11-24T01:30:00.000Z",
+    "programme": {
+      "official_name": "Bachelor of Science majoring in Electrical Engineering Systems (or Graduate Degree Package BSc + Master of Engineering)",
+      "degree_type": "BSc (3 yrs) + MEng (2 yrs) = 5 yrs for accredited Engineer status",
+      "duration": "3 years UG + 2 years MEng (Melbourne Model)",
+      "campus": "Parkville, Melbourne, VIC",
+      "webpage_url": "https://handbook.unimelb.edu.au/2027/components/b-sci-major-20",
+      "genuine_ece": false,
+      "ece_notes": "No standalone 4-year BEng/ECE degree. The 3-year BSc Electrical Engineering Systems major covers signals, systems, telecommunications, digital computing, and automation, leading into the accredited 2-year Master of Engineering.",
+      "ai_alternative_name": "Bachelor of Science (Computing and Software Systems Major) + MSc CS / Master of Data Science",
+      "ai_alternative_url": "https://study.unimelb.edu.au/find/courses/major/computing-and-software-systems/"
+    },
+    "eligibility": {
+      "cbse_accepted": true,
+      "min_overall_percentage": "Best 4 CBSE subjects average; 90%–95% indicative for Engineering Graduate Degree Package (standalone BSc ATAR 91.00).",
+      "pcm_requirements": "CBSE Class 12 Mathematics + Physics or Chemistry.",
+      "math_physics_prerequisites": "VCE Mathematical Methods equivalent (CBSE Maths) + Science.",
+      "sat_requirement": "Not used for Indian CBSE school leavers (assessed directly on CBSE XII).",
+      "english_proficiency": "IELTS 6.5 (UoM Level 1) or equivalent.",
+      "cbse_english_exemption": "Yes — Passing English in CBSE Class 12 (AISSCE) within 24 months satisfies English requirement.",
+      "india_conditions": "Genuine Student (GS) requirement; Conditional CoE may be requested via authorised agent."
+    },
+    "application": {
+      "intake_target": "Semester 2 2027 (Mid-year, July 2027 — best post-CBSE fit); Semester 1 closes 2026-11-30",
+      "opening_date": null,
+      "deadline": "2027-05-31",
+      "portal_name": "University of Melbourne Online Application Portal",
+      "portal_url": "https://study.unimelb.edu.au/how-to-apply/undergraduate-study/international-applications/applications",
+      "fee": "Unverified for 2027 UG (not listed on public overview)",
+      "required_documents": "Academic transcripts, predicted/final CBSE results, passport, English evidence if needed.",
+      "predicted_final_grades": "Apply with latest transcripts for conditional offer; final CBSE results required for unconditional offer & scholarship consideration.",
+      "essays_sop": "Not required",
+      "recommendation_letters": "Not required",
+      "extracurriculars": "Not required",
+      "interviews_portfolios": "Not required"
+    },
+    "financial": {
+      "tuition_annual": "Unverified exact 2027 BSc annual rate (calculated per subject band; check official 2027 fee estimator). AUD $17,000 tuition deposit upon offer acceptance.",
+      "additional_fees": "SSAF: AUD $0 (covered by University for international students) + mandatory OSHC.",
+      "scholarships": [
+        {
+          "name": "Melbourne International Undergraduate Scholarship (2027)",
+          "amount": "20% tuition fee sponsorship for course duration (225 awards)",
+          "eligibility": "Automatic consideration for Indian citizens based on FINAL secondary results",
+          "deadline": null,
+          "url": "https://scholarships.unimelb.edu.au/awards/melbourne-international-undergraduate-scholarship"
+        },
+        {
+          "name": "Melbourne International Excellence Scholarship (UG)",
+          "amount": "20% tuition fee sponsorship for course duration",
+          "eligibility": "Automatic consideration on highest course entry score (new from 2027)",
+          "deadline": null,
+          "url": "https://scholarships.unimelb.edu.au/awards/melbourne-international-excellence-scholarship-undergraduate"
+        }
+      ]
+    },
+    "milestones": [
+      { "label": "Semester 1 2027 Direct Application Closing", "date": "2026-11-30", "is_estimate": false, "verification_status": "verified", "source_url": "https://study.unimelb.edu.au/how-to-apply/undergraduate-study/international-applications/applications" },
+      { "label": "Semester 2 2027 (Mid-Year) Application Closing", "date": "2027-05-31", "is_estimate": false, "verification_status": "verified", "source_url": "https://study.unimelb.edu.au/how-to-apply/undergraduate-study/international-applications/applications" },
+      { "label": "Semester 2 2027 Teaching Start", "date": "2027-07-26", "is_estimate": false, "verification_status": "verified", "source_url": "https://handbook.unimelb.edu.au/2027/subjects/econ10003/dates-times" }
+    ]
   },
   {
     "id": "uni_adelaide",
     "official_name": "Adelaide University",
     "country": "Australia",
     "region": "Australia",
-    "official_url": "https://adelaideuni.edu.au/",
-    "admissions_url": "UNKNOWN",
-    "portal_url": "UNKNOWN",
-    "program_name": "UNKNOWN (Phase 2)",
-    "monitoring_status": "paused",
-    "verification_status": "unverified",
-    "application_status": "unknown",
-    "last_verified_at": null
+    "official_url": "https://adelaide.edu.au/",
+    "admissions_url": "https://adelaide.edu.au/study/degrees/bachelor-of-engineering-electrical-honours/",
+    "portal_url": "https://adelaide.edu.au/study/degrees/bachelor-of-engineering-electrical-honours/",
+    "program_name": "Bachelor of Engineering (Electrical) (Honours) — Telecommunications Track",
+    "monitoring_status": "active",
+    "verification_status": "verified",
+    "application_status": "open",
+    "last_verified_at": "2026-11-24T01:30:00.000Z",
+    "programme": {
+      "official_name": "Bachelor of Engineering (Electrical) (Honours) [Code: HENEE, CRICOS: 118218B] (Merged University of Adelaide + UniSA)",
+      "degree_type": "BEng (Hons)",
+      "duration": "4 years full-time (192 units; includes up to 12 weeks industry placement)",
+      "campus": "Adelaide City Campus & Mawson Lakes, South Australia",
+      "webpage_url": "https://adelaide.edu.au/study/degrees/bachelor-of-engineering-electrical-honours/",
+      "genuine_ece": true,
+      "ece_notes": "Official merged Adelaide University degree. Despite the '(Electrical)' title, core courses include Electronic Devices & Circuits, Digital Systems Design, Signals & Systems, DSP, and Communication Principles, plus an explicit 18-unit Telecommunications Engineering discipline track (Antennas, Digital Comms, Microwave, Optical Comms/Photonics, Mobile/Wireless, Terahertz).",
+      "ai_alternative_name": "Mechatronics & Robotics / Machine Learning & Vision Systems track (or Adelaide BSc Computer Science / AI)",
+      "ai_alternative_url": "https://adelaide.edu.au/study/degrees/bachelor-of-engineering-electrical-honours/"
+    },
+    "eligibility": {
+      "cbse_accepted": true,
+      "min_overall_percentage": "CBSE and CISCE: 75% (State Boards: 85%).",
+      "pcm_requirements": "SACE Stage 2 Mathematical Methods equivalent (CBSE Class 12 Mathematics).",
+      "math_physics_prerequisites": "CBSE Class 12 Mathematics required; Physics recommended.",
+      "sat_requirement": "Not required for CBSE applicants (AP/SAT is for US curriculum).",
+      "english_proficiency": "IELTS Academic 6.5 overall (min 6.0 in all bands) or equivalent within 2 years.",
+      "cbse_english_exemption": "Check Equivalent English Qualifications; certified English-medium letter or standard test required.",
+      "india_conditions": "May be required to apply via an official Adelaide University Education Agent depending on citizenship."
+    },
+    "application": {
+      "intake_target": "July 2027 (Mid-year) & February 2027 intakes",
+      "opening_date": null,
+      "deadline": null,
+      "portal_name": "Adelaide University International Application System / Education Agent",
+      "portal_url": "https://adelaide.edu.au/study/degrees/bachelor-of-engineering-electrical-honours/",
+      "fee": "AUD $150 (non-refundable)",
+      "required_documents": "Academic transcripts, CBSE Class 10/12 results, passport, English proficiency.",
+      "predicted_final_grades": "Conditional offer issued on interim transcripts; final CBSE marks required for unconditional offer.",
+      "essays_sop": "Not required",
+      "recommendation_letters": "Not required",
+      "extracurriculars": "Not required",
+      "interviews_portfolios": "Not required"
+    },
+    "financial": {
+      "tuition_annual": "AUD $57,100/yr (indicative 2027 international annual fee)",
+      "additional_fees": "Non-tuition fees (SSAF) + mandatory OSHC.",
+      "scholarships": [
+        {
+          "name": "Adelaide University International Scholarships",
+          "amount": "Varies (check official portal)",
+          "eligibility": "International commencing undergraduates based on academic merit",
+          "deadline": null,
+          "url": "https://adelaide.edu.au/study/scholarships/"
+        }
+      ]
+    },
+    "milestones": [
+      { "label": "2027 Intakes (February & July)", "date": null, "is_estimate": true, "verification_status": "announced", "source_url": "https://adelaide.edu.au/study/degrees/bachelor-of-engineering-electrical-honours/" }
+    ]
   },
   {
     "id": "uni_manchester",
@@ -47,13 +229,68 @@
     "country": "United Kingdom",
     "region": "UK",
     "official_url": "https://www.manchester.ac.uk/",
-    "admissions_url": "UNKNOWN",
+    "admissions_url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/03363/beng-electrical-and-electronic-engineering/",
     "portal_url": "https://www.ucas.com/",
-    "program_name": "UNKNOWN (Phase 2)",
-    "monitoring_status": "paused",
-    "verification_status": "unverified",
-    "application_status": "unknown",
-    "last_verified_at": null
+    "program_name": "BEng / MEng Electrical and Electronic Engineering (H600 / H605)",
+    "monitoring_status": "active",
+    "verification_status": "verified",
+    "application_status": "open",
+    "last_verified_at": "2026-11-24T01:30:00.000Z",
+    "programme": {
+      "official_name": "BEng (H600, 3 yrs) / MEng (H605, 4 yrs) Electrical and Electronic Engineering [Institution: M20]",
+      "degree_type": "BEng (Hons) / MEng (Hons)",
+      "duration": "3 years (BEng) or 4 years (MEng)",
+      "campus": "Oxford Road Campus, Manchester",
+      "webpage_url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/03363/beng-electrical-and-electronic-engineering/",
+      "genuine_ece": true,
+      "ece_notes": "Integrated EEE with deep ECE core & electives: Digital Electronics, Microcontrollers, Signals & Systems, Communications Engineering, Digital Mobile Comms, RF/Antennas, Optical Comms, Microwave Circuits, Mixed-Signal Design, and ML.",
+      "ai_alternative_name": "BSc Computer Science (G400) or MEng Mechatronic Engineering (HHH6)",
+      "ai_alternative_url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00560/bsc-computer-science/course-details/"
+    },
+    "eligibility": {
+      "cbse_accepted": true,
+      "min_overall_percentage": "90% overall average in CBSE Class 12.",
+      "pcm_requirements": "90% in Mathematics (Applied Maths NOT accepted) + 85% in Physics or Chemistry.",
+      "math_physics_prerequisites": "90% CBSE Mathematics + 85% Physics/Chemistry.",
+      "sat_requirement": "Not required for CBSE Class 12 applicants.",
+      "english_proficiency": "IELTS 7.0 overall (7.0 W, 6.5 other) or TOEFL iBT 100 (25 W, 22 other).",
+      "cbse_english_exemption": "Yes — 85% in CBSE Standard XII English (Functional English NOT accepted).",
+      "india_conditions": "May only apply to ONE Year 1 course in Dept. of EEE on UCAS; will not reassess unsuccessful applications with updated predicted grades."
+    },
+    "application": {
+      "intake_target": "September 2027",
+      "opening_date": "2026-09-01",
+      "deadline": "2027-01-13",
+      "portal_name": "UCAS Hub",
+      "portal_url": "https://www.ucas.com/",
+      "fee": "£34.50 (UCAS 2027 single fee for up to 5 choices)",
+      "required_documents": "UCAS application, predicted/achieved CBSE grades, 3-question Personal Statement (2027 format), 1 academic reference.",
+      "predicted_final_grades": "Assessed on predicted CBSE grades; final CBSE results satisfy conditional offer.",
+      "essays_sop": "UCAS 2027 3-question Personal Statement",
+      "recommendation_letters": "1 academic reference via UCAS",
+      "extracurriculars": "Super-curriculars included in UCAS Personal Statement Q2",
+      "interviews_portfolios": "Not required"
+    },
+    "financial": {
+      "tuition_annual": "£37,500/yr (2027/28; Manchester reserves right to increase up to 7%/yr)",
+      "additional_fees": "None exceeding 1% of home UG fee.",
+      "scholarships": [
+        {
+          "name": "Global Futures Scholarships 2027 (South Asia UG)",
+          "amount": "£36,000 total (£12,000/yr × 3 years; renewal requires 60% avg)",
+          "eligibility": "Self-funded India-domiciled offer holders for direct Year 1 entry; form emailed from Dec 2026; must firm Manchester by 2027-05-15",
+          "deadline": "2027-03-30",
+          "url": "https://www.manchester.ac.uk/study/international/country-specific-information/india/"
+        }
+      ]
+    },
+    "milestones": [
+      { "label": "UCAS Equal Consideration Deadline", "date": "2027-01-13", "is_estimate": false, "verification_status": "verified", "source_url": "https://www.ucas.com/events/2027-entry-deadline-for-all-undergraduate-courses-except-those-with-a-15-october-deadline-475546" },
+      { "label": "Global Futures UG Scholarship Deadline", "date": "2027-03-30", "is_estimate": false, "verification_status": "verified", "source_url": "https://www.manchester.ac.uk/study/international/country-specific-information/india/" },
+      { "label": "Global Futures Scholarship Notification", "date": "2027-05-01", "is_estimate": false, "verification_status": "verified", "source_url": "https://www.manchester.ac.uk/study/international/country-specific-information/india/" },
+      { "label": "Mandatory Firm UCAS Choice for Global Futures", "date": "2027-05-15", "is_estimate": false, "verification_status": "verified", "source_url": "https://www.manchester.ac.uk/study/international/country-specific-information/india/" },
+      { "label": "UCAS Main-Cycle International Closing", "date": "2027-06-30", "is_estimate": false, "verification_status": "verified", "source_url": "https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications" }
+    ]
   },
   {
     "id": "uni_edinburgh",
@@ -61,13 +298,66 @@
     "country": "United Kingdom",
     "region": "UK",
     "official_url": "https://www.ed.ac.uk/",
-    "admissions_url": "UNKNOWN",
+    "admissions_url": "https://study.ed.ac.uk/programmes/undergraduate/88-electronics-and-electrical-engineering",
     "portal_url": "https://www.ucas.com/",
-    "program_name": "UNKNOWN (Phase 2)",
-    "monitoring_status": "paused",
-    "verification_status": "unverified",
-    "application_status": "unknown",
-    "last_verified_at": null
+    "program_name": "BEng / MEng Electronics and Electrical Engineering (H600 / H601)",
+    "monitoring_status": "active",
+    "verification_status": "verified",
+    "application_status": "open",
+    "last_verified_at": "2026-11-24T01:30:00.000Z",
+    "programme": {
+      "official_name": "Electronics and Electrical Engineering BEng (H600, 4 yrs) / MEng (H601, 5 yrs) — also Electronics & CS (GH60/GHK6)",
+      "degree_type": "BEng (Hons) / MEng (Hons)",
+      "duration": "4 years BEng / 5 years MEng (direct Year 2 entry reduces by 1 year)",
+      "campus": "King's Buildings Campus, Edinburgh",
+      "webpage_url": "https://study.ed.ac.uk/programmes/undergraduate/88-electronics-and-electrical-engineering",
+      "genuine_ece": true,
+      "ece_notes": "Organised into explicit Electronics (analogue/digital/microelectronics) and Information Sciences (communications, sensors, ML) streams, with Year 4 Signals & Communications and RF Engineering.",
+      "ai_alternative_name": "BSc (Hons) Artificial Intelligence (G700) or AI & Computer Science (GG47)",
+      "ai_alternative_url": "https://study.ed.ac.uk/programmes/undergraduate/388-artificial-intelligence"
+    },
+    "eligibility": {
+      "cbse_accepted": true,
+      "min_overall_percentage": "Year 1: 80% overall across 5 CBSE subjects. Direct Year 2: 85% overall across 5 subjects.",
+      "pcm_requirements": "85% in CBSE Mathematics (Applied Maths NOT accepted) + 80% in Physics (preferred) or Chemistry/CS (85% all required for Year 2).",
+      "math_physics_prerequisites": "85% CBSE Maths + 80% Physics.",
+      "sat_requirement": "Not required for CBSE applicants.",
+      "english_proficiency": "IELTS 6.5 (min 5.5 each) or TOEFL iBT 92 (min 20 each) / 4.5 new scale.",
+      "cbse_english_exemption": "Yes — 75% in CBSE Class XII English (valid 3.5 years).",
+      "india_conditions": "Strict 2027-01-13 deadline for ALL UK/EU/International applicants."
+    },
+    "application": {
+      "intake_target": "September 2027",
+      "opening_date": "2026-09-01",
+      "deadline": "2027-01-13",
+      "portal_name": "UCAS Hub",
+      "portal_url": "https://www.ucas.com/",
+      "fee": "£34.50 (UCAS)",
+      "required_documents": "UCAS application, predicted/final CBSE marks, Personal Statement, 1 academic reference.",
+      "predicted_final_grades": "Predicted CBSE grades for conditional offer; final marks required before enrolment.",
+      "essays_sop": "UCAS 2027 3-question Personal Statement",
+      "recommendation_letters": "1 academic reference via UCAS",
+      "extracurriculars": "Super-curriculars in Personal Statement",
+      "interviews_portfolios": "Not required"
+    },
+    "financial": {
+      "tuition_annual": "£40,900/yr (2027/28 new-entrant international Laboratory rate; FIXED for degree duration)",
+      "additional_fees": "None specified beyond tuition.",
+      "scholarships": [
+        {
+          "name": "No general Indian UG Engineering merit scholarship",
+          "amount": "N/A",
+          "eligibility": "Edinburgh India Merit Scholarship is PGT only; Maths UG scholarship is Maths only",
+          "deadline": null,
+          "url": "https://registryservices.ed.ac.uk/student-funding/undergraduate/international"
+        }
+      ]
+    },
+    "milestones": [
+      { "label": "Edinburgh UG Deadline (All Applicants)", "date": "2027-01-13", "is_estimate": false, "verification_status": "verified", "source_url": "https://study.ed.ac.uk/programmes/undergraduate/88-electronics-and-electrical-engineering" },
+      { "label": "UCAS Reject by Default (Jan 13 apps)", "date": "2027-05-12", "is_estimate": false, "verification_status": "verified", "source_url": "https://www.ucas.com/applying/after-you-apply/types-of-offers" },
+      { "label": "Guaranteed Accommodation Deadline", "date": "2027-07-31", "is_estimate": false, "verification_status": "verified", "source_url": "https://study.ed.ac.uk/programmes/undergraduate/88-electronics-and-electrical-engineering" }
+    ]
   },
   {
     "id": "uni_sheffield",
@@ -75,13 +365,66 @@
     "country": "United Kingdom",
     "region": "UK",
     "official_url": "https://www.sheffield.ac.uk/",
-    "admissions_url": "UNKNOWN",
+    "admissions_url": "https://sheffield.ac.uk/undergraduate/courses/2027/electrical-and-electronic-engineering-beng",
     "portal_url": "https://www.ucas.com/",
-    "program_name": "UNKNOWN (Phase 2)",
-    "monitoring_status": "paused",
-    "verification_status": "unverified",
-    "application_status": "unknown",
-    "last_verified_at": null
+    "program_name": "BEng / MEng Electrical and Electronic Engineering — Electronic & Communication Specialism",
+    "monitoring_status": "active",
+    "verification_status": "verified",
+    "application_status": "open",
+    "last_verified_at": "2026-11-24T01:30:00.000Z",
+    "programme": {
+      "official_name": "Electrical and Electronic Engineering BEng (H628, 3 yrs) / MEng (H629, 4 yrs)",
+      "degree_type": "BEng (Hons) / MEng (Hons)",
+      "duration": "3 years (BEng) or 4 years (MEng)",
+      "campus": "Western Bank / The Diamond, Sheffield",
+      "webpage_url": "https://sheffield.ac.uk/undergraduate/courses/2027/electrical-and-electronic-engineering-beng",
+      "genuine_ece": true,
+      "ece_notes": "Explicit Year 3–4 'Electronic and Communication' specialism covering Embedded Systems, DSP, Advanced Digital Comms, Mobile Networks (2G–5G+), Radio Architectures, Antennas, plus Deep Learning.",
+      "ai_alternative_name": "MComp / BSc Computer Science (Artificial Intelligence) (G700)",
+      "ai_alternative_url": "https://sheffield.ac.uk/undergraduate/courses/2027/computer-science-artificial-intelligence-mcomp"
+    },
+    "eligibility": {
+      "cbse_accepted": true,
+      "min_overall_percentage": "Baseline 75% aggregate (75–80% in 4 key subjects), scaled higher for AAB (BEng) / AAA (MEng).",
+      "pcm_requirements": "Mathematics + 1 science (Physics, Chemistry, CS, or Electronics).",
+      "math_physics_prerequisites": "CBSE Class 12 Mathematics + Physics/Science.",
+      "sat_requirement": "Not required for CBSE applicants.",
+      "english_proficiency": "IELTS Academic 6.5 (min 6.0 each).",
+      "cbse_english_exemption": "Yes — 75%+ in CBSE Standard XII English Language generally accepted.",
+      "india_conditions": "Cannot hold direct BEng/MEng and Foundation Year offers simultaneously."
+    },
+    "application": {
+      "intake_target": "September 2027",
+      "opening_date": "2026-09-01",
+      "deadline": "2027-01-13",
+      "portal_name": "UCAS Hub",
+      "portal_url": "https://www.ucas.com/",
+      "fee": "£34.50 (UCAS)",
+      "required_documents": "UCAS application, predicted/final CBSE grades, Personal Statement, 1 academic reference.",
+      "predicted_final_grades": "Predicted CBSE grades for conditional offer.",
+      "essays_sop": "UCAS 2027 3-question Personal Statement",
+      "recommendation_letters": "1 academic reference via UCAS",
+      "extracurriculars": "Super-curriculars in Personal Statement",
+      "interviews_portfolios": "Not required"
+    },
+    "financial": {
+      "tuition_annual": "£34,670/yr (2027/28; FIXED fee guarantee for duration of degree)",
+      "additional_fees": "None.",
+      "scholarships": [
+        {
+          "name": "International Undergraduate Scholarship 2027",
+          "amount": "£2,500/yr automatic (up to £10,000 for 4-yr MEng; requires 60% annual avg)",
+          "eligibility": "Automatic for self-funded international UG offer holders who accept offer by 2027-06-02",
+          "deadline": "2027-06-02",
+          "url": "https://sheffield.ac.uk/international/fees-and-funding/scholarships/undergraduate"
+        }
+      ]
+    },
+    "milestones": [
+      { "label": "UCAS Equal Consideration Deadline", "date": "2027-01-13", "is_estimate": false, "verification_status": "verified", "source_url": "https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications" },
+      { "label": "International UG Scholarship Acceptance Deadline", "date": "2027-06-02", "is_estimate": false, "verification_status": "verified", "source_url": "https://sheffield.ac.uk/global/agent-training" },
+      { "label": "UCAS Main-Cycle International Closing", "date": "2027-06-30", "is_estimate": false, "verification_status": "verified", "source_url": "https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications" }
+    ]
   },
   {
     "id": "uni_southampton",
@@ -89,13 +432,65 @@
     "country": "United Kingdom",
     "region": "UK",
     "official_url": "https://www.southampton.ac.uk/",
-    "admissions_url": "UNKNOWN",
+    "admissions_url": "https://www.southampton.ac.uk/courses/electronic-engineering-degree-beng",
     "portal_url": "https://www.ucas.com/",
-    "program_name": "UNKNOWN (Phase 2)",
-    "monitoring_status": "paused",
-    "verification_status": "unverified",
-    "application_status": "unknown",
-    "last_verified_at": null
+    "program_name": "BEng (Hons) Electronic Engineering",
+    "monitoring_status": "active",
+    "verification_status": "verified",
+    "application_status": "open",
+    "last_verified_at": "2026-11-24T01:30:00.000Z",
+    "programme": {
+      "official_name": "BEng (Hons) Electronic Engineering (3 yrs; MEng 4 yrs and BEng EEE also offered)",
+      "degree_type": "BEng (Hons) / MEng (Hons)",
+      "duration": "3 years (BEng) or 4 years (MEng)",
+      "campus": "Highfield Campus, Southampton",
+      "webpage_url": "https://www.southampton.ac.uk/courses/electronic-engineering-degree-beng",
+      "genuine_ece": true,
+      "ece_notes": "Dedicated standalone Electronic Engineering degree (IET accredited) with Year 1 core in Circuits, Digital Systems, Electronic Systems & Devices, Signals/Control/Communications, Programming, plus £110m clean room access.",
+      "ai_alternative_name": "BSc / MEng Computer Science with Artificial Intelligence",
+      "ai_alternative_url": "https://www.southampton.ac.uk/courses"
+    },
+    "eligibility": {
+      "cbse_accepted": true,
+      "min_overall_percentage": "Direct Year 1 entry from CBSE Class 12 (typical A-level equivalent AAA/A*AA; check exact 2027 CBSE band on course page).",
+      "pcm_requirements": "CBSE Class 12 Mathematics and Physics required.",
+      "math_physics_prerequisites": "Mathematics and Physics.",
+      "sat_requirement": "Not required for CBSE applicants.",
+      "english_proficiency": "IELTS Academic 6.5 (check course-specific English band on southampton.ac.uk).",
+      "cbse_english_exemption": "Check official Southampton English requirements page for India CBSE exemption.",
+      "india_conditions": "Standard UCAS international application."
+    },
+    "application": {
+      "intake_target": "September 2027",
+      "opening_date": "2026-09-01",
+      "deadline": "2027-01-13",
+      "portal_name": "UCAS Hub",
+      "portal_url": "https://www.ucas.com/",
+      "fee": "£34.50 (UCAS)",
+      "required_documents": "UCAS application, predicted/final CBSE grades, Personal Statement, 1 academic reference.",
+      "predicted_final_grades": "Predicted CBSE grades for conditional offer.",
+      "essays_sop": "UCAS 2027 3-question Personal Statement",
+      "recommendation_letters": "1 academic reference via UCAS",
+      "extracurriculars": "Super-curriculars in Personal Statement",
+      "interviews_portfolios": "Not required"
+    },
+    "financial": {
+      "tuition_annual": "Check 2027/28 course fee on southampton.ac.uk (unverified exact 2027 figure)",
+      "additional_fees": "None specified beyond tuition.",
+      "scholarships": [
+        {
+          "name": "Southampton International Merit / India Excellence Scholarships",
+          "amount": "Check 2027 UG schedule on southampton.ac.uk",
+          "eligibility": "International UG offer holders",
+          "deadline": null,
+          "url": "https://www.southampton.ac.uk/international"
+        }
+      ]
+    },
+    "milestones": [
+      { "label": "UCAS Equal Consideration Deadline", "date": "2027-01-13", "is_estimate": false, "verification_status": "verified", "source_url": "https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications" },
+      { "label": "UCAS Main-Cycle International Closing", "date": "2027-06-30", "is_estimate": false, "verification_status": "verified", "source_url": "https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications" }
+    ]
   },
   {
     "id": "uni_umich",
@@ -103,13 +498,66 @@
     "country": "United States",
     "region": "USA",
     "official_url": "https://umich.edu/",
-    "admissions_url": "UNKNOWN",
+    "admissions_url": "https://admissions.umich.edu/apply/first-year-applicants/requirements-deadlines",
     "portal_url": "https://www.commonapp.org/",
-    "program_name": "UNKNOWN (Phase 2)",
-    "monitoring_status": "paused",
-    "verification_status": "unverified",
-    "application_status": "unknown",
-    "last_verified_at": null
+    "program_name": "B.S.E. Electrical Engineering / Computer Engineering (ECE Division)",
+    "monitoring_status": "active",
+    "verification_status": "verified",
+    "application_status": "open",
+    "last_verified_at": "2026-11-24T01:30:00.000Z",
+    "programme": {
+      "official_name": "Bachelor of Science in Engineering in Electrical Engineering (B.S.E. E.E.) or Computer Engineering (B.S.E. C.E.) — College of Engineering ECE Division",
+      "degree_type": "B.S.E.",
+      "duration": "4 years full-time",
+      "campus": "Ann Arbor, Michigan",
+      "webpage_url": "https://ece.engin.umich.edu/academics/undergraduate/majors-minors/electrical-engineering-major/",
+      "genuine_ece": true,
+      "ece_notes": "ABET-accredited under Electrical, Computer, Communications & Telecommunications criteria. EE offers explicit tracks in Network Communication & Information Systems, RF Circuits, VLSI, Solid-State Devices, Signal Processing, and Embedded Systems.",
+      "ai_alternative_name": "B.S.E. Computer Science or B.S.E. Data Science (EECS)",
+      "ai_alternative_url": "https://bulletin.engin.umich.edu/eecs/"
+    },
+    "eligibility": {
+      "cbse_accepted": true,
+      "min_overall_percentage": "First Division equivalent in CBSE Class 12 (admitted avg GPA 3.9).",
+      "pcm_requirements": "College of Engineering requires 4 yrs English, 4 yrs Math (trig/pre-calc; calc recommended), 3 yrs Science (Chemistry & Physics required).",
+      "math_physics_prerequisites": "CBSE Mathematics, Physics, and Chemistry.",
+      "sat_requirement": "Test-optional for Fall 2027; self-reported allowed at application; superscores (College Board code 1839).",
+      "english_proficiency": "Mandatory for India: IELTS 7.0 (6.5+ sections) or TOEFL iBT 100 (23+ L/R, 21+ S/W; or 5–6 new scale). Duolingo NOT accepted.",
+      "cbse_english_exemption": "No — India is not on U-M's exempt list; SAT EBRW does not waive English testing for students in India.",
+      "india_conditions": "Any enrollment gap requires detailed explanation."
+    },
+    "application": {
+      "intake_target": "Fall 2027 (Regular Decision active; EA 2026-11-01 passed)",
+      "opening_date": null,
+      "deadline": "2027-02-01",
+      "portal_name": "Common Application",
+      "portal_url": "https://www.commonapp.org/",
+      "fee": "$75 USD (non-refundable)",
+      "required_documents": "Common App, Grades 9–12 transcripts/predicted grades, School Report/Counselor Rec, 1 Teacher Evaluation, English scores, optional SAT.",
+      "predicted_final_grades": "Grades 9–12 transcripts + predicted grades; final CBSE results upon enrollment.",
+      "essays_sop": "Common App Essay + 2 required U-M essays (100–300w & 100–550w Why Engineering)",
+      "recommendation_letters": "Counselor Rec + 1 Core Teacher Evaluation",
+      "extracurriculars": "Evaluated holistically",
+      "interviews_portfolios": "Not required for Engineering"
+    },
+    "financial": {
+      "tuition_annual": "$66,994/yr Lower Div ($75,224/yr Upper Div) 2026–27 Engineering Non-Resident (2027–28 set June 2027)",
+      "additional_fees": "~$494/yr mandatory fees + $1,000/yr International Student Fee (total COA ~$89,000–$90,000+/yr).",
+      "scholarships": [
+        {
+          "name": "No general incoming F-1 merit scholarships",
+          "amount": "N/A",
+          "eligibility": "U-M states F-1 international students should expect to pay full cost of attendance",
+          "deadline": null,
+          "url": "https://admissions.umich.edu/i-am/international-students"
+        }
+      ]
+    },
+    "milestones": [
+      { "label": "Fall 2027 Regular Decision Deadline", "date": "2027-02-01", "is_estimate": false, "verification_status": "verified", "source_url": "https://admissions.umich.edu/apply/first-year-applicants/requirements-deadlines/application-changes" },
+      { "label": "Regular Decision Release (by date)", "date": "2027-04-02", "is_estimate": false, "verification_status": "verified", "source_url": "https://admissions.umich.edu/apply/first-year-applicants/requirements-deadlines" },
+      { "label": "Enrollment Deposit Deadline", "date": "2027-05-01", "is_estimate": false, "verification_status": "verified", "source_url": "https://admissions.umich.edu/apply/first-year-applicants/selection-process/ea-admission-decisions-faq" }
+    ]
   },
   {
     "id": "uni_psu",
@@ -117,13 +565,64 @@
     "country": "United States",
     "region": "USA",
     "official_url": "https://www.psu.edu/",
-    "admissions_url": "UNKNOWN",
+    "admissions_url": "https://www.psu.edu/admission/undergraduate/how-to-apply/international-students",
     "portal_url": "https://www.commonapp.org/",
-    "program_name": "UNKNOWN (Phase 2)",
-    "monitoring_status": "paused",
-    "verification_status": "unverified",
-    "application_status": "unknown",
-    "last_verified_at": null
+    "program_name": "B.S. Electrical Engineering / Computer Engineering (School of EECS)",
+    "monitoring_status": "active",
+    "verification_status": "verified",
+    "application_status": "open",
+    "last_verified_at": "2026-11-24T01:30:00.000Z",
+    "programme": {
+      "official_name": "B.S. in Electrical Engineering or B.S. in Computer Engineering (College of Engineering — School of EECS; pre-major entry, ETM after 29+ credits)",
+      "degree_type": "B.S.",
+      "duration": "4 years full-time",
+      "campus": "University Park, Pennsylvania",
+      "webpage_url": "https://www.eecs.psu.edu/students/undergraduate/Electrical-Engineering.aspx",
+      "genuine_ece": true,
+      "ece_notes": "School of EECS covers nanoelectronics, integrated circuits, electronic devices, electromagnetics, signal/image processing, and Communications, Information Theory & Coding over Networked Systems.",
+      "ai_alternative_name": "B.S. in Artificial Intelligence Engineering (dedicated EECS degree)",
+      "ai_alternative_url": "https://www.eecs.psu.edu/students/undergraduate/artificial-intelligence-engineering-bs.aspx"
+    },
+    "eligibility": {
+      "cbse_accepted": true,
+      "min_overall_percentage": "No hard cutoff; University Park middle 50% GPA is 3.61–3.93.",
+      "pcm_requirements": "3 units Math (algebra/geometry/trig) + 3 units Science (Physics & Chemistry advised).",
+      "math_physics_prerequisites": "CBSE Mathematics, Physics, Chemistry.",
+      "sat_requirement": "Test-optional for Fall 2027 (no superscore; code 2660; middle 50% SAT 1320–1460).",
+      "english_proficiency": "IELTS 6.5, TOEFL iBT 80 (4.5+ new scale), or Duolingo 120.",
+      "cbse_english_exemption": "SAT EBRW >= 570 (official score via code 2660) waives IELTS/TOEFL; CBSE English alone does not.",
+      "india_conditions": "Must enter Grades 9–12 & CBSE Class 10 board results in STARS (Self-Reported Transcript and Academic Record System)."
+    },
+    "application": {
+      "intake_target": "Fall 2027 (Rolling admission active; EA 2026-11-01 passed)",
+      "opening_date": null,
+      "deadline": null,
+      "portal_name": "MyPennState or Common App + STARS",
+      "portal_url": "https://www.psu.edu/admission/undergraduate/how-to-apply/international-students",
+      "fee": "$75 USD (non-refundable)",
+      "required_documents": "Online app, STARS academic record, official English proof (or SAT EBRW >= 570), optional SAT.",
+      "predicted_final_grades": "Self-reported via STARS; official CBSE Class X & XII certificates required after accepting offer.",
+      "essays_sop": "Optional (recommended if test-optional)",
+      "recommendation_letters": "Not required for general admission",
+      "extracurriculars": "Optional Activities section",
+      "interviews_portfolios": "Not required"
+    },
+    "financial": {
+      "tuition_annual": "$44,574 (2026–27 Lower Div) / ~$47,017 est. 2027–28 (rises in Upper Div Engineering)",
+      "additional_fees": "$640 Student Fee + $1,500 mandatory International Fee = $46,714/yr (2026–27); total COA ~$67k–$72k/yr.",
+      "scholarships": [
+        {
+          "name": "Essentially no international UG financial aid",
+          "amount": "N/A",
+          "eligibility": "Penn State states essentially no financial aid is available for international UG students",
+          "deadline": null,
+          "url": "https://www.psu.edu/resources/faq/international-students"
+        }
+      ]
+    },
+    "milestones": [
+      { "label": "Fall 2027 Rolling Admission Active", "date": null, "is_estimate": false, "verification_status": "verified", "source_url": "https://www.psu.edu/resources/first-year-students/deadlines" }
+    ]
   },
   {
     "id": "uni_wisc",
@@ -131,55 +630,135 @@
     "country": "United States",
     "region": "USA",
     "official_url": "https://www.wisc.edu/",
-    "admissions_url": "UNKNOWN",
+    "admissions_url": "https://admissions.wisc.edu/deadlines/",
     "portal_url": "https://www.commonapp.org/",
-    "program_name": "UNKNOWN (Phase 2)",
-    "monitoring_status": "paused",
-    "verification_status": "unverified",
-    "application_status": "unknown",
-    "last_verified_at": null
+    "program_name": "B.S. Electrical Engineering / Computer Engineering (ECE Department)",
+    "monitoring_status": "active",
+    "verification_status": "verified",
+    "application_status": "open",
+    "last_verified_at": "2026-11-24T01:30:00.000Z",
+    "programme": {
+      "official_name": "B.S. in Electrical Engineering or B.S. in Computer Engineering (Department of Electrical and Computer Engineering)",
+      "degree_type": "B.S.",
+      "duration": "4 years full-time",
+      "campus": "Madison, Wisconsin",
+      "webpage_url": "https://engineering.wisc.edu/programs/degrees/electrical-engineering-bs/",
+      "genuine_ece": true,
+      "ece_notes": "Dedicated ECE Department offering B.S. Electrical Engineering and B.S. Computer Engineering (including Machine Learning & Data Science Option) covering electronics, signal processing, communications, and hardware.",
+      "ai_alternative_name": "B.S. Computer Engineering (ML & Data Science Option) or B.S. Computer Sciences",
+      "ai_alternative_url": "https://engineering.wisc.edu/programs/degrees/computer-engineering-bs/"
+    },
+    "eligibility": {
+      "cbse_accepted": true,
+      "min_overall_percentage": "Holistic review of CBSE Grades 9–12.",
+      "pcm_requirements": "Strong Math, Physics, and Chemistry preparation for College of Engineering.",
+      "math_physics_prerequisites": "CBSE Mathematics and Physics.",
+      "sat_requirement": "Test-optional through Spring 2028; no superscore (official scores via code 1846 if submitted).",
+      "english_proficiency": "IELTS / TOEFL / Duolingo accepted.",
+      "cbse_english_exemption": "Yes — waiver available if 4 years of secondary education were taught in English.",
+      "india_conditions": "Materials (transcripts, recs, test scores) must arrive by 2027-01-22 for RD."
+    },
+    "application": {
+      "intake_target": "Fall 2027 (Regular Decision active; EA 2026-11-01 passed)",
+      "opening_date": "2026-08-01",
+      "deadline": "2027-01-15",
+      "portal_name": "Common App or UW System Application",
+      "portal_url": "https://www.commonapp.org/",
+      "fee": "$70 USD (check Common App)",
+      "required_documents": "Application, transcripts, 1 academic letter of recommendation, essays, English proof/waiver.",
+      "predicted_final_grades": "Grades 9–12 transcripts + predicted grades; final CBSE results upon enrollment.",
+      "essays_sop": "Common App Essay + UW-Madison Why Wisconsin essay",
+      "recommendation_letters": "1 academic letter of recommendation",
+      "extracurriculars": "Evaluated holistically",
+      "interviews_portfolios": "Not required"
+    },
+    "financial": {
+      "tuition_annual": "$49,332/yr (2026–27 non-resident incl. $3,200 Engineering differential + $200 Int'l Fee)",
+      "additional_fees": "Included above + living/health insurance.",
+      "scholarships": [
+        {
+          "name": "King-Morgridge Scholars Program (Closed for Fall 2027)",
+          "amount": "Full funding (EA + Nov 15 WiSH deadline already passed)",
+          "eligibility": "Required Early Action admission (passed 2026-11-01/11-15); other international aid very limited",
+          "deadline": "2026-11-15",
+          "url": "https://admissions.wisc.edu/international-scholarships/"
+        }
+      ]
+    },
+    "milestones": [
+      { "label": "Fall 2027 Regular Decision Application Deadline", "date": "2027-01-15", "is_estimate": false, "verification_status": "verified", "source_url": "https://admissions.wisc.edu/deadlines/" },
+      { "label": "Regular Decision Materials Deadline", "date": "2027-01-22", "is_estimate": false, "verification_status": "verified", "source_url": "https://admissions.wisc.edu/deadlines/" },
+      { "label": "Regular Decision Release (by date)", "date": "2027-03-31", "is_estimate": false, "verification_status": "verified", "source_url": "https://admissions.wisc.edu/deadlines/" },
+      { "label": "National Enrollment Commitment Deadline", "date": "2027-05-01", "is_estimate": false, "verification_status": "verified", "source_url": "https://admissions.wisc.edu/deadlines/" }
+    ]
   },
   {
-    "id": "uni_aalto",
-    "official_name": "Aalto University",
-    "country": "Finland",
-    "region": "Europe",
-    "official_url": "https://www.aalto.fi/",
-    "admissions_url": "UNKNOWN",
-    "portal_url": "https://opintopolku.fi/",
-    "program_name": "UNKNOWN (Phase 2)",
-    "monitoring_status": "paused",
-    "verification_status": "unverified",
-    "application_status": "unknown",
-    "last_verified_at": null
-  },
-  {
-    "id": "uni_tue",
-    "official_name": "Eindhoven University of Technology (TU/e)",
-    "country": "Netherlands",
-    "region": "Europe",
-    "official_url": "https://www.tue.nl/",
-    "admissions_url": "UNKNOWN",
-    "portal_url": "https://www.studielink.nl/",
-    "program_name": "UNKNOWN (Phase 2)",
-    "monitoring_status": "paused",
-    "verification_status": "unverified",
-    "application_status": "unknown",
-    "last_verified_at": null
-  },
-  {
-    "id": "uni_ucd",
-    "official_name": "University College Dublin (UCD)",
-    "country": "Ireland",
-    "region": "Europe",
-    "official_url": "https://www.ucd.ie/",
-    "admissions_url": "UNKNOWN",
-    "portal_url": "UNKNOWN",
-    "program_name": "UNKNOWN (Phase 2)",
-    "monitoring_status": "paused",
-    "verification_status": "unverified",
-    "application_status": "unknown",
-    "last_verified_at": null
+    "id": "uni_auckland",
+    "official_name": "University of Auckland",
+    "country": "New Zealand",
+    "region": "Oceania",
+    "official_url": "https://www.auckland.ac.nz/",
+    "admissions_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-engineering-honours-behons.html",
+    "portal_url": "https://www.auckland.ac.nz/en/study/applications-and-admissions/apply-now.html",
+    "program_name": "Bachelor of Engineering (Honours) — Electrical & Electronic Engineering",
+    "monitoring_status": "active",
+    "verification_status": "verified",
+    "application_status": "open",
+    "last_verified_at": "2026-11-24T01:30:00.000Z",
+    "programme": {
+      "official_name": "Bachelor of Engineering (Honours) [BE(Hons)] — Common Part I, specialising in Electrical and Electronic Engineering or Computer Systems Engineering",
+      "degree_type": "BE (Hons)",
+      "duration": "4 years full-time (480 points + practical work)",
+      "campus": "City Campus, Auckland",
+      "webpage_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-engineering-honours-behons.html",
+      "genuine_ece": true,
+      "ece_notes": "Part I includes ELECTENG 101 (Electrical & Digital Systems), followed by Electrical & Electronic Engineering or Computer Systems Engineering specialisations covering electronics, signals, communications, and embedded systems.",
+      "ai_alternative_name": "BE (Hons) Software Engineering / Computer Systems Engineering or BSc Computer Science",
+      "ai_alternative_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-engineering-honours-behons.html"
+    },
+    "eligibility": {
+      "cbse_accepted": true,
+      "min_overall_percentage": "University Entrance equivalent + Engineering rank score (verify exact CBSE % mapping via Auckland rank calculator).",
+      "pcm_requirements": "Equivalent to Calculus and Physics at senior secondary level.",
+      "math_physics_prerequisites": "CBSE Class 12 Mathematics and Physics.",
+      "sat_requirement": "Not required for CBSE applicants.",
+      "english_proficiency": "IELTS Academic 6.5 overall (no band below 6.0) or equivalent.",
+      "cbse_english_exemption": "Check Auckland alternative English language requirements.",
+      "india_conditions": "Limited-entry programme; apply early for NZ student visa processing."
+    },
+    "application": {
+      "intake_target": "Semester 1 (Mar 2027) or Semester 2 (July 2027 — check Part I availability)",
+      "opening_date": null,
+      "deadline": "2026-12-08",
+      "portal_name": "University of Auckland Application Portal",
+      "portal_url": "https://www.auckland.ac.nz/en/study/applications-and-admissions/apply-now.html",
+      "fee": "Check portal (standard NZ online application)",
+      "required_documents": "Academic transcripts, CBSE results, English test, passport.",
+      "predicted_final_grades": "Final CBSE results required for unconditional offer.",
+      "essays_sop": "Not required",
+      "recommendation_letters": "Not required",
+      "extracurriculars": "Not required",
+      "interviews_portfolios": "Not required"
+    },
+    "financial": {
+      "tuition_annual": "Check 2027 BE(Hons) fee table on auckland.ac.nz (indicative NZ$50,000+ range; GST inclusive)",
+      "additional_fees": "Student Services Fee NZ$9.65/pt (~NZ$1,158/yr for 120 pts) + mandatory health/travel insurance.",
+      "scholarships": [
+        {
+          "name": "University of Auckland International Student Excellence Scholarship",
+          "amount": "Up to NZ$10,000",
+          "eligibility": "High-achieving international UG entrants",
+          "deadline": null,
+          "url": "https://www.auckland.ac.nz/en/study/scholarships-and-awards.html"
+        }
+      ]
+    },
+    "milestones": [
+      { "label": "Semester 1 2027 Limited-Entry Admission Closing", "date": "2026-12-08", "is_estimate": false, "verification_status": "verified", "source_url": "https://www.auckland.ac.nz/en/about-us/about-the-university/the-university/official-publications/university-calendar/current-calendar/programme-and-course-limitations.html" },
+      { "label": "Semester 1 2027 Enrolment Closing", "date": "2027-02-24", "is_estimate": false, "verification_status": "verified", "source_url": "https://www.auckland.ac.nz/en/about-us/about-the-university/the-university/official-publications/university-calendar/current-calendar/key-university-dates/enrolment-dates.html" },
+      { "label": "Semester 2 2027 Enrolment Closing", "date": "2027-07-14", "is_estimate": false, "verification_status": "verified", "source_url": "https://www.auckland.ac.nz/en/about-us/about-the-university/the-university/official-publications/university-calendar/current-calendar/key-university-dates/enrolment-dates.html" },
+      { "label": "Semester 2 2027 Teaching Starts", "date": "2027-07-19", "is_estimate": false, "verification_status": "verified", "source_url": "https://www.auckland.ac.nz/en/students/academic-information/important-dates.html" }
+    ]
   },
   {
     "id": "uni_tcd",
@@ -187,13 +766,202 @@
     "country": "Ireland",
     "region": "Europe",
     "official_url": "https://www.tcd.ie/",
-    "admissions_url": "UNKNOWN",
-    "portal_url": "UNKNOWN",
-    "program_name": "UNKNOWN (Phase 2)",
-    "monitoring_status": "paused",
-    "verification_status": "unverified",
-    "application_status": "unknown",
-    "last_verified_at": null
+    "admissions_url": "https://www.tcd.ie/courses/undergraduate/courses/engineering/",
+    "portal_url": "https://www.tcd.ie/study/international/how-to-apply/",
+    "program_name": "Engineering (TR032) — Electronic / Electronic & Computer Engineering",
+    "monitoring_status": "active",
+    "verification_status": "verified",
+    "application_status": "open",
+    "last_verified_at": "2026-11-24T01:30:00.000Z",
+    "programme": {
+      "official_name": "Engineering (TR032) — Common Years 1–2, Year 3 specialisation in Electronic Engineering or Electronic & Computer Engineering",
+      "degree_type": "M.A.I. (5-yr integrated) with 4-yr B.A.I. Honours exit",
+      "duration": "4 years (BAI) or 5 years (MAI)",
+      "campus": "College Green, Dublin 2, Ireland",
+      "webpage_url": "https://www.tcd.ie/courses/undergraduate/courses/engineering/",
+      "genuine_ece": true,
+      "ece_notes": "100% English-taught; Years 3–5 offer dedicated Electronic Engineering and Electronic & Computer Engineering covering Signals & Systems, Digital Circuits, Microprocessors, Telecommunications, Networks, and Deep Learning.",
+      "ai_alternative_name": "Computer Science (TR033 — 4-yr BA Mod / 5-yr MCS)",
+      "ai_alternative_url": "https://www.tcd.ie/courses/undergraduate/courses/computer-science/"
+    },
+    "eligibility": {
+      "cbse_accepted": true,
+      "min_overall_percentage": "80%–85% overall average in 6 Grade XII subjects (or 5 Grade XII + 1 different Grade X).",
+      "pcm_requirements": "H4 Leaving Cert Maths equivalent (competitively assessed for CBSE Maths).",
+      "math_physics_prerequisites": "CBSE Mathematics required; Physics recommended.",
+      "sat_requirement": "Not required for CBSE applicants.",
+      "english_proficiency": "Band B: IELTS 6.5 (min 6.0 each), TOEFL iBT 90 (min 21), PTE 69 (min 59), or Duolingo 120 (min 100).",
+      "cbse_english_exemption": "No blanket CBSE English exemption listed; official English test certificate required.",
+      "india_conditions": "Language other than English + Maths required at least through Grade X."
+    },
+    "application": {
+      "intake_target": "Autumn 2027",
+      "opening_date": "2026-11-01",
+      "deadline": "2027-05-31",
+      "portal_name": "my.tcd.ie (Direct Non-EU Portal)",
+      "portal_url": "https://www.tcd.ie/study/international/how-to-apply/",
+      "fee": "€55 per course application (non-refundable)",
+      "required_documents": "Transcripts / school-issued predicted scores, 2 academic references, 500-word SOP, English test certificate.",
+      "predicted_final_grades": "School-issued predicted scores accepted for conditional offers; final CBSE results required later.",
+      "essays_sop": "500-word Statement of Purpose",
+      "recommendation_letters": "2 academic references",
+      "extracurriculars": "Included in SOP",
+      "interviews_portfolios": "Not required"
+    },
+    "financial": {
+      "tuition_annual": "~€29,570 STEM non-EU benchmark + 3% 2027/28 increase (check live TCD UG Fees Schedule)",
+      "additional_fees": "Student Levies & Charges (SLC) + €300 Irish immigration registration fee.",
+      "scholarships": [
+        {
+          "name": "Undergraduate E3 Balanced Solutions for a Better World Scholarship",
+          "amount": "€2,000 to €5,000 (1-year tuition reduction)",
+          "eligibility": "Non-EU offer holders in BAI Engineering & BA CS (Note: Engineering/CS are exempt from Global Excellence UG Scholarship). Requires 200-word statement.",
+          "deadline": "2027-05-01",
+          "url": "https://www.tcd.ie/e3/education/scholarships/"
+        }
+      ]
+    },
+    "milestones": [
+      { "label": "Non-EU Priority Deadline (Decision by Apr 1) & E3 Schol Batch 1", "date": "2027-02-01", "is_estimate": false, "verification_status": "verified", "source_url": "https://www.tcd.ie/e3/education/scholarships/" },
+      { "label": "E3 Scholarship Batch 2 Deadline", "date": "2027-03-15", "is_estimate": false, "verification_status": "verified", "source_url": "https://www.tcd.ie/e3/education/scholarships/" },
+      { "label": "E3 Scholarship Batch 3 & Priority Offer Acceptance", "date": "2027-05-01", "is_estimate": false, "verification_status": "verified", "source_url": "https://www.tcd.ie/e3/education/scholarships/" },
+      { "label": "Engineering (TR032) Non-EU Closing Date", "date": "2027-05-31", "is_estimate": false, "verification_status": "verified", "source_url": "https://www.tcd.ie/courses/undergraduate/courses/engineering/" }
+    ]
+  },
+  {
+    "id": "uni_ucd",
+    "official_name": "University College Dublin (UCD)",
+    "country": "Ireland",
+    "region": "Europe",
+    "official_url": "https://www.ucd.ie/",
+    "admissions_url": "https://www.ucd.ie/courses/bsc-electrical-engineering",
+    "portal_url": "https://www.ucd.ie/courses/apply",
+    "program_name": "Engineering Omnibus (DN150 / NUS1) — Electrical / Electronic Engineering",
+    "monitoring_status": "active",
+    "verification_status": "verified",
+    "application_status": "open",
+    "last_verified_at": "2026-11-24T01:30:00.000Z",
+    "programme": {
+      "official_name": "Engineering Omnibus (DN150 / Non-EU NUS1) leading to Electrical / Electronic Engineering",
+      "degree_type": "BE (4 yrs) or integrated BSc + ME in Electronic & Computer Engineering (3+2 yrs)",
+      "duration": "4 years (BE) or 5 years (ME with 6–8 month paid internship)",
+      "campus": "Belfield, Dublin 4, Ireland",
+      "webpage_url": "https://www.ucd.ie/courses/bsc-electrical-engineering",
+      "genuine_ece": true,
+      "ece_notes": "100% English-taught, Engineers Ireland / Washington Accord accredited. Year 2–3 Electronic & Computer Engineering includes Communication Theory, Digital System Design, Signals & Systems, Embedded Systems, Wireless & Digital Comms.",
+      "ai_alternative_name": "BSc (Hons) Computer Science with Data Science & Artificial Intelligence (DN201 / CSSA)",
+      "ai_alternative_url": "https://www.ucd.ie/courses/computer-science-data-science-artificial-intelligence-degree"
+    },
+    "eligibility": {
+      "cbse_accepted": true,
+      "min_overall_percentage": "80% average across best 5 CBSE Class 12 subjects.",
+      "pcm_requirements": "Class XII Maths 85% + Lab Science (Physics/Chemistry) 80% for Engineering (80% Maths for CS).",
+      "math_physics_prerequisites": "CBSE Maths 85% + Physics/Chemistry 80%.",
+      "sat_requirement": "Not required for CBSE Engineering/CS applicants.",
+      "english_proficiency": "IELTS, TOEFL, PTE 63 (59 each), or Duolingo 120 (110 each).",
+      "cbse_english_exemption": "Yes — 80% in CBSE Class XII English exempts IELTS/TOEFL!",
+      "india_conditions": "Final verified transcripts checked via Qualification Check after admission."
+    },
+    "application": {
+      "intake_target": "Autumn 2027 (Rolling from 2026-10-01)",
+      "opening_date": "2026-10-01",
+      "deadline": "2027-07-01",
+      "portal_name": "UCD Direct Applications Portal",
+      "portal_url": "https://www.ucd.ie/courses/apply",
+      "fee": "€70 (covers multiple programmes for same intake)",
+      "required_documents": "Academic transcripts / predicted Class XII grades, English proof (or CBSE English score).",
+      "predicted_final_grades": "Predicted grades accepted for conditional offer; final marks required later.",
+      "essays_sop": "Check portal checklist (separate essays required for Global Excellence Scholarship)",
+      "recommendation_letters": "Check portal checklist",
+      "extracurriculars": "Reviewed for scholarship",
+      "interviews_portfolios": "Not required"
+    },
+    "financial": {
+      "tuition_annual": "Check live 2027/28 Non-EU UG Fees on ucd.ie (FEE-LOCK policy: tuition stays fixed at entry-year rate)",
+      "additional_fees": "€254 Student Centre Levy (included in published fee) + €5 AMLÉ levy.",
+      "scholarships": [
+        {
+          "name": "UCD Global Excellence Scholarships 2027/28 (India UG / All Other Regions)",
+          "amount": "100% or 50% tuition fee waiver",
+          "eligibility": "Non-EU offer holders (apply early for programme offer before scholarship closing)",
+          "deadline": "2027-03-31",
+          "url": "https://www.ucd.ie/global/study-at-ucd/scholarshipsfinances/scholarships/globalexcellencescholarships/"
+        }
+      ]
+    },
+    "milestones": [
+      { "label": "Sept 2027 Applications Open", "date": "2026-10-01", "is_estimate": false, "verification_status": "verified", "source_url": "https://www.ucd.ie/global/study-at-ucd/faqs/" },
+      { "label": "Global Excellence Scholarship Closing (India UG)", "date": "2027-03-31", "is_estimate": false, "verification_status": "verified", "source_url": "https://www.ucd.ie/global/study-at-ucd/scholarshipsfinances/scholarships/globalexcellencescholarships/" },
+      { "label": "Recommended Final Application Deadline (Visa-Required)", "date": "2027-07-01", "is_estimate": false, "verification_status": "announced", "source_url": "https://www.ucd.ie/global/study-at-ucd/faqs/" }
+    ]
+  },
+  {
+    "id": "uni_aalto",
+    "official_name": "Aalto University",
+    "country": "Finland",
+    "region": "Europe",
+    "official_url": "https://www.aalto.fi/",
+    "admissions_url": "https://www.aalto.fi/en/admission-services/apply-to-bachelors-programmes-in-english",
+    "portal_url": "https://studyinfo.fi/",
+    "program_name": "BSc + MSc (Tech) Digital Systems and Design / Computer Engineering",
+    "monitoring_status": "active",
+    "verification_status": "verified",
+    "application_status": "opening_soon",
+    "last_verified_at": "2026-11-24T01:30:00.000Z",
+    "programme": {
+      "official_name": "Aalto Bachelor's Programme in Science and Technology — Digital Systems and Design OR Computer Engineering",
+      "degree_type": "BSc (Tech) + MSc (Tech) (automatic continuation)",
+      "duration": "3 + 2 years (180 + 120 ECTS)",
+      "campus": "Otaniemi Campus, Espoo (Greater Helsinki), Finland",
+      "webpage_url": "https://www.aalto.fi/en/study-options/digital-systems-and-design-bachelor-of-science-and-master-of-science-technology",
+      "genuine_ece": false,
+      "ece_notes": "FLAG: Traditional Electronics/EE Bachelor's is taught in FINNISH. Closest English-taught substitutes are Digital Systems & Design (circuits, optical comms, networking, embedded systems) and Computer Engineering (microelectronics, signal processing, AI hardware), which continue directly into English ECE Master's.",
+      "ai_alternative_name": "Data Science BSc + MSc (Tech) (English-taught)",
+      "ai_alternative_url": "https://www.aalto.fi/en/study-options/data-science-bachelor-of-science-and-master-of-science-technology"
+    },
+    "eligibility": {
+      "cbse_accepted": true,
+      "min_overall_percentage": "No fixed CBSE % cutoff — selection in Admission Round A is 100% ranked by SAT/ACT score.",
+      "pcm_requirements": "General upper secondary university eligibility (CBSE Class 12).",
+      "math_physics_prerequisites": "Demonstrated via SAT Mathematics >= 700.",
+      "sat_requirement": "MANDATORY: SAT Total >= 1350 AND SAT Math >= 700 (taken on/after 2025-01-01). Official College Board delivery + PDF due 2027-01-29 23:59 UTC+2.",
+      "english_proficiency": "No separate IELTS/TOEFL required for Science & Tech Round A.",
+      "cbse_english_exemption": "Not applicable (no separate English test required).",
+      "india_conditions": "Final CBSE Class 12 diploma must be submitted by 2027-07-31."
+    },
+    "application": {
+      "intake_target": "Autumn 2027 (Window: 2027-01-07 to 2027-01-22)",
+      "opening_date": "2027-01-07",
+      "deadline": "2027-01-22",
+      "portal_name": "Studyinfo.fi (Opintopolku)",
+      "portal_url": "https://studyinfo.fi/",
+      "fee": "€100 statutory Finnish non-EU application fee (within 7 days)",
+      "required_documents": "Ongoing Class 12 study certificate/transcript, official SAT score + PDF report, passport copy (due 2027-01-29).",
+      "predicted_final_grades": "Ongoing study certificate at application; final CBSE diploma due 2027-07-31.",
+      "essays_sop": "Not required",
+      "recommendation_letters": "Not required",
+      "extracurriculars": "Not required",
+      "interviews_portfolios": "Not required"
+    },
+    "financial": {
+      "tuition_annual": "€12,000/yr (BSc); €17,000/yr (MSc)",
+      "additional_fees": "Student union fee (~€60–€80/yr) + FSHS healthcare fee.",
+      "scholarships": [
+        {
+          "name": "Aalto University Scholarship Programme",
+          "amount": "100% tuition fee waiver (merit-based on SAT rank; limited awards)",
+          "eligibility": "Applied for directly on the Studyinfo application form (same deadline: 2027-01-22)",
+          "deadline": "2027-01-22",
+          "url": "https://www.aalto.fi/en/admission-services/scholarships-and-tuition-fees"
+        }
+      ]
+    },
+    "milestones": [
+      { "label": "Aalto Round A Applications Open", "date": "2027-01-07", "is_estimate": false, "verification_status": "verified", "source_url": "https://www.aalto.fi/en/admission-services/apply-to-bachelors-programmes-in-english" },
+      { "label": "Aalto Application & Scholarship Deadline (15:00 UTC+2)", "date": "2027-01-22", "is_estimate": false, "verification_status": "verified", "source_url": "https://www.aalto.fi/en/admission-services/apply-to-bachelors-programmes-in-english" },
+      { "label": "SAT Score & Document Delivery Deadline (23:59 UTC+2)", "date": "2027-01-29", "is_estimate": false, "verification_status": "verified", "source_url": "https://www.aalto.fi/en/admission-services/delivering-sat-and-act-test-scores" },
+      { "label": "Final CBSE Class 12 Diploma Submission Deadline", "date": "2027-07-31", "is_estimate": false, "verification_status": "verified", "source_url": "https://www.aalto.fi/en/admission-services/english-taught-bachelors-programmes-i-am-applying-with-a-high-school-diploma" }
+    ]
   },
   {
     "id": "uni_oulu",
@@ -201,27 +969,67 @@
     "country": "Finland",
     "region": "Europe",
     "official_url": "https://www.oulu.fi/",
-    "admissions_url": "UNKNOWN",
-    "portal_url": "https://opintopolku.fi/",
-    "program_name": "UNKNOWN (Phase 2)",
-    "monitoring_status": "paused",
-    "verification_status": "unverified",
-    "application_status": "unknown",
-    "last_verified_at": null
-  },
-  {
-    "id": "uni_auckland",
-    "official_name": "University of Auckland",
-    "country": "New Zealand",
-    "region": "Asia",
-    "official_url": "https://www.auckland.ac.nz/",
-    "admissions_url": "UNKNOWN",
-    "portal_url": "UNKNOWN",
-    "program_name": "UNKNOWN (Phase 2)",
-    "monitoring_status": "paused",
-    "verification_status": "unverified",
-    "application_status": "unknown",
-    "last_verified_at": null
+    "admissions_url": "https://www.oulu.fi/en/apply/bachelors-electronics-and-communications-engineering",
+    "portal_url": "https://studyinfo.fi/",
+    "program_name": "BSc + MSc (Tech) Electronics and Communications Engineering",
+    "monitoring_status": "active",
+    "verification_status": "verified",
+    "application_status": "opening_soon",
+    "last_verified_at": "2026-11-24T01:30:00.000Z",
+    "programme": {
+      "official_name": "Degree Programme in Electronics and Communications Engineering (33 study places; EUR-ACE accredited)",
+      "degree_type": "BSc (Tech) + MSc (Tech)",
+      "duration": "3 + 2 years (180 + 120 ECTS)",
+      "campus": "Linnanmaa Campus, Oulu, Finland",
+      "webpage_url": "https://www.oulu.fi/en/apply/bachelors-electronics-and-communications-engineering",
+      "genuine_ece": true,
+      "ece_notes": "Direct 100% English-taught BSc+MSc in Electronics and Communications Engineering! Home of 6G Flagship & Super Fab Lab; covers IC electronics, signal processing, radio/wireless comms, and telecommunications.",
+      "ai_alternative_name": "BSc + MSc Computer Science and Engineering / BISG AI Research Pathway",
+      "ai_alternative_url": "https://www.oulu.fi/en/apply/bachelors-programmes"
+    },
+    "eligibility": {
+      "cbse_accepted": true,
+      "min_overall_percentage": "CBSE Class 12 grants general eligibility; selection is via SAT/ACT score.",
+      "pcm_requirements": "Strong maths & physics background.",
+      "math_physics_prerequisites": "Demonstrated via SAT Math >= 600.",
+      "sat_requirement": "MANDATORY for CBSE applicants: min SAT Total >= 1200 and SAT Math >= 600 (College Board code 9079). Dec 2026 SAT is last usable sitting.",
+      "english_proficiency": "Verified via SAT / Studyinfo criteria.",
+      "cbse_english_exemption": "Check Studyinfo programme-specific criteria.",
+      "india_conditions": "Supporting documents due 2027-01-28; final CBSE diploma & verified SAT due 2027-07-13."
+    },
+    "application": {
+      "intake_target": "Autumn 2027 (Joint Application: 2027-01-07 to 2027-01-21)",
+      "opening_date": "2027-01-07",
+      "deadline": "2027-01-21",
+      "portal_name": "Studyinfo.fi (Opintopolku)",
+      "portal_url": "https://studyinfo.fi/",
+      "fee": "€100 statutory Finnish non-EU application fee",
+      "required_documents": "Ongoing Class 12 certificate/transcript, SAT score report (code 9079), passport copy.",
+      "predicted_final_grades": "Ongoing certificate due 2027-01-28; final CBSE diploma due 2027-07-13.",
+      "essays_sop": "Not required",
+      "recommendation_letters": "Not required",
+      "extracurriculars": "Not required",
+      "interviews_portfolios": "Not required"
+    },
+    "financial": {
+      "tuition_annual": "€10,000/yr (€7,000/yr with 30% tuition-fee waiver)",
+      "additional_fees": "Student union & FSHS healthcare fee.",
+      "scholarships": [
+        {
+          "name": "University of Oulu Tuition Fee Waiver",
+          "amount": "30% tuition-fee waiver from 2nd year (plus Early Bird discount if applicable)",
+          "eligibility": "Non-EU fee-paying students meeting credit progress; no full scholarships offered",
+          "deadline": null,
+          "url": "https://www.oulu.fi/en/apply/how-apply/university-oulu-tuition-fees-and-scholarships-for-international-applicants"
+        }
+      ]
+    },
+    "milestones": [
+      { "label": "Finland Joint Application Opens", "date": "2027-01-07", "is_estimate": false, "verification_status": "verified", "source_url": "https://www.oulu.fi/en/apply/bachelors-electronics-and-communications-engineering" },
+      { "label": "Oulu ECE Application Deadline (15:00 UTC+2)", "date": "2027-01-21", "is_estimate": false, "verification_status": "verified", "source_url": "https://www.oulu.fi/en/apply/bachelors-electronics-and-communications-engineering" },
+      { "label": "Supporting Documents Deadline (15:00 UTC+2)", "date": "2027-01-28", "is_estimate": false, "verification_status": "verified", "source_url": "https://www.oulu.fi/en/apply/how-apply/applying-bachelors-programmes/bachelors-admissions-deadlines" },
+      { "label": "Final CBSE Diploma & Verified SAT Deadline", "date": "2027-07-13", "is_estimate": false, "verification_status": "verified", "source_url": "https://www.oulu.fi/en/apply/how-apply/applying-bachelors-programmes/bachelors-admissions-deadlines" }
+    ]
   },
   {
     "id": "uni_nthu",
@@ -229,13 +1037,141 @@
     "country": "Taiwan",
     "region": "Asia",
     "official_url": "https://www.nthu.edu.tw/",
-    "admissions_url": "UNKNOWN",
-    "portal_url": "UNKNOWN",
-    "program_name": "UNKNOWN (Phase 2)",
-    "monitoring_status": "paused",
-    "verification_status": "unverified",
-    "application_status": "unknown",
-    "last_verified_at": null
+    "admissions_url": "https://ibp.nthu.edu.tw/news-132.html",
+    "portal_url": "https://nthuibp-admission.vm.nthu.edu.tw/",
+    "program_name": "IBP Group B: Electrical Engineering & Computer Science (EECS-GS)",
+    "monitoring_status": "active",
+    "verification_status": "verified",
+    "application_status": "open",
+    "last_verified_at": "2026-11-24T01:30:00.000Z",
+    "programme": {
+      "official_name": "Tsing Hua College International Bachelor Degree Program (IBP) — Group B: Electrical Engineering & Computer Science (transitions to IPEECS / EECS-GS in Year 2)",
+      "degree_type": "B.S.",
+      "duration": "4 years full-time",
+      "campus": "Main Campus, Hsinchu, Taiwan (adjacent to Hsinchu Science Park)",
+      "webpage_url": "https://ibp.nthu.edu.tw/ertss-EECS.html",
+      "genuine_ece": true,
+      "ece_notes": "100% English-taught interdisciplinary EECS; Year 2–4 students take courses from the Institute of Electronics Engineering, Institute of Communications Engineering, and Institute of Photonics Technologies.",
+      "ai_alternative_name": "EECS-GS Computer Science / Information Systems Track or IBP Engineering Technology",
+      "ai_alternative_url": "https://eecs-gs.site.nthu.edu.tw/p/404-1552-222320.php?Lang=en"
+    },
+    "eligibility": {
+      "cbse_accepted": true,
+      "min_overall_percentage": "Holistic review of semester-by-semester transcripts (grading scale + rank/percentile recommended).",
+      "pcm_requirements": "Strong Calculus, Physics, and Programming foundation.",
+      "math_physics_prerequisites": "CBSE Class 12 Mathematics and Physics recommended.",
+      "sat_requirement": "Optional (listed under Additional Supporting Documents).",
+      "english_proficiency": "MANDATORY for Indian applicants: IELTS 6.0, TOEFL iBT 82 (4.5 new scale), TOEFL ITP 530, or TOEIC 820.",
+      "cbse_english_exemption": "No — India is NOT on NTHU's exempt English-speaking countries list; MOI letters are rejected.",
+      "india_conditions": "Passport copies for applicant & both parents; financial statement >= USD 4,000 (TWD 120,000); final CBSE diploma must be TECC-authenticated in India."
+    },
+    "application": {
+      "intake_target": "Fall 2027 (IBP Round 2 open now through 2027-03-03; Round 3 closes 2027-04-22)",
+      "opening_date": "2026-10-01",
+      "deadline": "2027-03-03",
+      "portal_name": "NTHU Tsing Hua College IBP Online System",
+      "portal_url": "https://nthuibp-admission.vm.nthu.edu.tw/",
+      "fee": "TWD 2,000 (1–2 majors) / TWD 4,000 (3–4 majors)",
+      "required_documents": "Transcripts + anticipated graduation letter, 1–2p SOP, 1–2p Study Plan, 2 LORs, English certificate, Financial Statement (>= $4,000), Nationality docs.",
+      "predicted_final_grades": "Submit transcripts to date + school anticipated graduation letter; TECC-notarized final CBSE diploma at registration.",
+      "essays_sop": "Statement of Purpose (1–2 pages) + Study Plan (1–2 pages)",
+      "recommendation_letters": "2 Teacher Recommendation Letters (links sent after fee payment)",
+      "extracurriculars": "Included in SOP + optional awards",
+      "interviews_portfolios": "Only if requested by email"
+    },
+    "financial": {
+      "tuition_annual": "~TWD 92,200/yr Year 1 (~$2,794 USD); ~TWD 106,400/yr Years 2–4 (~$3,225 USD) (AY 2026 ref)",
+      "additional_fees": "Safety Insurance TWD 195/sem, Int'l Group Insurance TWD 3,000 (1st sem), NHI TWD 826/mo, Internet TWD 800/sem.",
+      "scholarships": [
+        {
+          "name": "NTHU International Student Scholarship (Type A / Type B)",
+          "amount": "Type A: Full tuition waiver + TWD 5,000/mo stipend; Type B: Full tuition waiver",
+          "eligibility": "Check scholarship box inside IBP application (same deadline: R2 2027-03-03 / R3 2027-04-22)",
+          "deadline": "2027-03-03",
+          "url": "https://apply.nthu.edu.tw/en/article/102-nthu-scholarship"
+        },
+        {
+          "name": "MOE Taiwan Scholarship (via TECC India)",
+          "amount": "TWD 15,000/mo + up to TWD 40,000/sem tuition subsidy",
+          "eligibility": "Separate application via TECC India (2027 dates unannounced; 2026 ref Feb 1–Mar 31)",
+          "deadline": null,
+          "url": "https://apply.nthu.edu.tw/en/article/103-taiwan-government"
+        }
+      ]
+    },
+    "milestones": [
+      { "label": "IBP Round 2 Application & Scholarship Deadline (12:00 GMT+8)", "date": "2027-03-03", "is_estimate": false, "verification_status": "verified", "source_url": "https://ibp.nthu.edu.tw/news-132.html" },
+      { "label": "IBP Round 2 Decision & Scholarship Result", "date": "2027-04-16", "is_estimate": false, "verification_status": "verified", "source_url": "https://ibp.nthu.edu.tw/userfiles/images/product/Fall%202027%20IBP%20Application%20Guidelines%20for%20International%20Student.pdf" },
+      { "label": "IBP Round 3 Final Application Deadline (12:00 GMT+8)", "date": "2027-04-22", "is_estimate": false, "verification_status": "verified", "source_url": "https://ibp.nthu.edu.tw/news-132.html" },
+      { "label": "IBP Round 3 Decision & Scholarship Result", "date": "2027-05-31", "is_estimate": false, "verification_status": "verified", "source_url": "https://ibp.nthu.edu.tw/userfiles/images/product/Fall%202027%20IBP%20Application%20Guidelines%20for%20International%20Student.pdf" }
+    ]
+  },
+  {
+    "id": "uni_tue",
+    "official_name": "Eindhoven University of Technology (TU/e)",
+    "country": "Netherlands",
+    "region": "Europe",
+    "official_url": "https://www.tue.nl/",
+    "admissions_url": "https://www.tue.nl/en/education/bachelor-college/bachelor-electrical-engineering",
+    "portal_url": "https://www.studielink.nl/",
+    "program_name": "Bachelor Electrical Engineering (English-taught)",
+    "monitoring_status": "active",
+    "verification_status": "verified",
+    "application_status": "open",
+    "last_verified_at": "2026-11-24T01:30:00.000Z",
+    "programme": {
+      "official_name": "Bachelor of Science in Electrical Engineering (NVAO-accredited)",
+      "degree_type": "BSc",
+      "duration": "3 years full-time (180 ECTS)",
+      "campus": "De Zaale, Eindhoven (Brainport Region), Netherlands",
+      "webpage_url": "https://www.tue.nl/en/education/bachelor-college/bachelor-electrical-engineering",
+      "genuine_ece": false,
+      "ece_notes": "Partial ECE: Titled Electrical Engineering (not standalone ECE), taught 100% in English, with a major focus on 'Communication (The Connected World)' including photonic/wireless chips, Wi-Fi/Bluetooth, plus Healthcare and Smart Energy.",
+      "ai_alternative_name": "BSc Computer Science and Engineering (Numerus Fixus — Jan 15 deadline) or BSc Data Science",
+      "ai_alternative_url": "https://www.tue.nl/en/education/bachelor-college/bachelor-computer-science-and-engineering"
+    },
+    "eligibility": {
+      "cbse_accepted": true,
+      "min_overall_percentage": "Direct entry: CBSE Class 12 with A1, A2, or B1 in 5 relevant subjects including Mathematics.",
+      "pcm_requirements": "CBSE Class 12 Mathematics and Physics required (A1/A2/B1).",
+      "math_physics_prerequisites": "CBSE Mathematics + Physics.",
+      "sat_requirement": "Not required for CBSE applicants.",
+      "english_proficiency": "MANDATORY: IELTS Academic 6.5 (min 6.0 each) or TOEFL iBT 90 (min 21 each).",
+      "cbse_english_exemption": "No — proof of English proficiency must be uploaded with CBSE diploma.",
+      "india_conditions": "Apply via Studielink first, then complete TU/e OSIRIS form; IND visa requires upfront proof of funds."
+    },
+    "application": {
+      "intake_target": "September 2027 (EE closes 2027-05-01; CSE Numerus Fixus closes 2027-01-15)",
+      "opening_date": "2026-10-01",
+      "deadline": "2027-05-01",
+      "portal_name": "Studielink + TU/e OSIRIS",
+      "portal_url": "https://www.studielink.nl/",
+      "fee": "€100 per application (non-refundable)",
+      "required_documents": "CBSE transcripts/predicted marks, English test certificate, passport, €100 fee transfer receipt.",
+      "predicted_final_grades": "Interim transcripts for conditional offer; final CBSE results required before enrollment.",
+      "essays_sop": "Check OSIRIS checklist (Study-choice check required)",
+      "recommendation_letters": "Not required",
+      "extracurriculars": "Not required",
+      "interviews_portfolios": "Selection test required ONLY for Numerus Fixus CSE (not EE)"
+    },
+    "financial": {
+      "tuition_annual": "€22,400/yr (2027/28 non-EU institutional rate)",
+      "additional_fees": "IND visa guarantee / living funds transfer (~€14,400 est. for 2027).",
+      "scholarships": [
+        {
+          "name": "TU/e Bachelor Scholarships (Very limited for non-EU UG)",
+          "amount": "Check official TU/e Scholarships & Grants page",
+          "eligibility": "Most TU/e excellence scholarships are Master's-focused",
+          "deadline": null,
+          "url": "https://www.tue.nl/en/education/become-a-tue-student/scholarships-and-grants"
+        }
+      ]
+    },
+    "milestones": [
+      { "label": "Applications Open (Studielink)", "date": "2026-10-01", "is_estimate": false, "verification_status": "verified", "source_url": "https://www.tue.nl/en/education/become-a-tue-student/admission-and-enrollment/programtype/bachelor-1/program/industrial-engineering/country/india" },
+      { "label": "CSE Numerus Fixus Deadline (AI/CS Alternative)", "date": "2027-01-15", "is_estimate": false, "verification_status": "verified", "source_url": "https://www.tue.nl/en/education/bachelor-college/bachelor-electrical-engineering" },
+      { "label": "Electrical Engineering Non-EU Deadline (23:59 CET)", "date": "2027-05-01", "is_estimate": false, "verification_status": "verified", "source_url": "https://www.tue.nl/en/education/become-a-tue-student/admission-and-enrollment/programtype/bachelor-1/program/industrial-engineering/country/india" }
+    ]
   },
   {
     "id": "uni_kyushu",
@@ -243,12 +1179,64 @@
     "country": "Japan",
     "region": "Asia",
     "official_url": "https://www.kyushu-u.ac.jp/",
-    "admissions_url": "UNKNOWN",
-    "portal_url": "UNKNOWN",
-    "program_name": "UNKNOWN (Phase 2)",
-    "monitoring_status": "paused",
-    "verification_status": "unverified",
-    "application_status": "unknown",
-    "last_verified_at": null
+    "admissions_url": "https://www.kyushu-u.ac.jp/en/admission/faculty/foreign/foreign10/",
+    "portal_url": "https://www.kyushu-u.ac.jp/en/admission/faculty/foreign/foreign10/",
+    "program_name": "IUPE — Electrical Engineering and Computer Science (EECS)",
+    "monitoring_status": "active",
+    "verification_status": "verified",
+    "application_status": "opening_soon",
+    "last_verified_at": "2026-11-24T01:30:00.000Z",
+    "programme": {
+      "official_name": "International Undergraduate Program in Engineering (IUPE) — Electrical Engineering and Computer Science (EECS)",
+      "degree_type": "Bachelor of Engineering",
+      "duration": "4 years full-time (October 2027 start; 0 transfer credits)",
+      "campus": "Ito Campus, Fukuoka, Japan",
+      "webpage_url": "https://www.eng.kyushu-u.ac.jp/en/undergraduate/undergraduate-international-programs/electrical-engineering-and-computer-science/",
+      "genuine_ece": true,
+      "ece_notes": "100% English-taught (except Year 1 Japanese). Includes Linear/Logic/Integrated Circuits, Communication Engineering, Electronic Measurement, and a dedicated Year 4 Electronic & Communication Engineering track (LSI, Mobile/Satellite Comms, Photonics).",
+      "ai_alternative_name": "IUPE EECS — Computer Engineering Year 4 Track (AI, Cognitive Science, Data Science, Networks)",
+      "ai_alternative_url": "https://www.eng.kyushu-u.ac.jp/en/undergraduate/undergraduate-international-programs/electrical-engineering-and-computer-science/"
+    },
+    "eligibility": {
+      "cbse_accepted": true,
+      "min_overall_percentage": "CBSE Class 12 satisfies 12-year schooling, but CBSE ALONE is NOT accepted without a mandatory standardized test.",
+      "pcm_requirements": "Solid foundational knowledge in Mathematics, Physics, and Chemistry.",
+      "math_physics_prerequisites": "Demonstrated via SAT Math (or AP/IB/A-Level/EJU).",
+      "sat_requirement": "MANDATORY: Official standardized test required (2026 Engineering guide required SAT Math >= 710, code 3135 — verify 2027 PDF before applying).",
+      "english_proficiency": "TOEFL iBT 80 (code 0411) or IELTS Academic 6.5.",
+      "cbse_english_exemption": "Yes — Official 'Proof of period studied in English' form confirming >= 4 years of English-medium secondary schooling.",
+      "india_conditions": "Non-Japanese nationality required for MEXT/tuition exemptions; visa requires JPY 960,000 bank statement."
+    },
+    "application": {
+      "intake_target": "October 2027 (Online registration ONLY open 2026-12-07 to 2026-12-11!)",
+      "opening_date": "2026-12-07",
+      "deadline": "2026-12-11",
+      "portal_name": "Kyushu University Online Application System + Registered Courier Post",
+      "portal_url": "https://www.kyushu-u.ac.jp/en/admission/faculty/foreign/foreign10/",
+      "fee": "JPY 10,000 (2026 foreign-national rate; verify 2027 PDF)",
+      "required_documents": "Online registration + mailed hardcopy package (DHL/FedEx/EMS): printed Application Form, transcripts, official SAT score sent by College Board, English proof/4-yr form, essays/LORs per 2027 PDF.",
+      "predicted_final_grades": "Expected graduation certificate + transcripts; must complete Class 12 by 2027-09-30.",
+      "essays_sop": "Required in application form (check 2027 PDF)",
+      "recommendation_letters": "Required per IUPE guidelines (check 2027 PDF)",
+      "extracurriculars": "Included in application",
+      "interviews_portfolios": "Online interview for shortlisted candidates (check 2027 PDF)"
+    },
+    "financial": {
+      "tuition_annual": "JPY 535,800/yr (~₹3 lakh/yr; Japanese national university standard rate)",
+      "additional_fees": "JPY 282,000 one-time enrollment fee (half-tuition waiver available for eligible foreign students).",
+      "scholarships": [
+        {
+          "name": "MEXT Scholarship (University Recommendation)",
+          "amount": "Full tuition & enrollment fee waiver + JPY 117,000/month stipend (4 yrs) + round-trip flights",
+          "eligibility": "Kyushu University selects top admitted IUPE applicants and recommends them to MEXT",
+          "deadline": "2026-12-11",
+          "url": "https://www.kyushu-u.ac.jp/en/admission/faculty/foreign/foreign10/"
+        }
+      ]
+    },
+    "milestones": [
+      { "label": "IUPE October 2027 Online Registration Opens", "date": "2026-12-07", "is_estimate": false, "verification_status": "verified", "source_url": "https://www.kyushu-u.ac.jp/en/admission/faculty/foreign/foreign10/" },
+      { "label": "IUPE October 2027 Online Registration Closes", "date": "2026-12-11", "is_estimate": false, "verification_status": "verified", "source_url": "https://www.kyushu-u.ac.jp/en/admission/faculty/foreign/foreign10/" }
+    ]
   }
 ]

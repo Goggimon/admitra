@@ -1,0 +1,38 @@
+{
+  "nationality": "Indian",
+  "qualification": "CBSE Class 12",
+  "subjects": [
+    "Physics",
+    "Chemistry",
+    "Mathematics",
+    "Computer Science"
+  ],
+  "admission_level": "Undergraduate",
+  "target_entry": "Fall/Autumn 2027",
+  "primary_discipline": "Electronics and Communication Engineering (ECE)",
+  "alternative_discipline": "Artificial Intelligence and closely related engineering programmes",
+  "international_applicant": true,
+  "standardized_testing": [
+    "SAT"
+  ],
+  "shortlist_counts": {
+    "universities": 18,
+    "indian_entrance_examinations": 8,
+    "supplementary_requirements": 2
+  },
+  "academic_scores": {
+    "class_10_percentage": null,
+    "class_11_percentage": null,
+    "predicted_class_12_grades": null,
+    "final_class_12_grades": null
+  },
+  "test_scores": {
+    "sat_total": null,
+    "sat_math": null,
+    "sat_ebrw": null,
+    "english_proficiency_test": null,
+    "english_proficiency_score": null
+  },
+  "extracurriculars": [],
+  "notes": "Do not automatically equate Electrical Engineering with ECE. Unknown scores, predicted grades, SAT scores, and extracurriculars are intentionally left blank."
+}

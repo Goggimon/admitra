@@ -3,57 +3,1117 @@ VERSION:2.0
 PRODID:-//ADMITRA//Admissions & Examination Calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:ADMITRA Admissions & Exams
+X-WR-CALNAME:ADMITRA Fall 2027 Admissions & Exams
 X-WR-TIMEZONE:Asia/Kolkata
-X-WR-CALDESC:Verified and announced university admissions deadlines and entrance examination dates tracked by ADMITRA.
+X-WR-CALDESC:Verified and announced Fall 2027 university admissions deadlines, scholarships, entrance examinations, SAT, and CBSE Class 12 milestones tracked by ADMITRA.
 BEGIN:VEVENT
-UID:admitra-dl_unsw_t1_2027_offshore@admitra.app
-DTSTAMP:20261123T193145Z
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-SUMMARY:[VERIFIED] UNSW Term 1 2027 Offshore Application Closing Date
-DESCRIPTION:Institution/Exam: UNSW Sydney\nCategory: application_deadline\nVerification: VERIFIED\nOriginal Timezone: Australia/Sydney\nOfficial Source: https://www.unsw.edu.au/study/international-students/admissions-info
-URL:https://www.unsw.edu.au/study/international-students/admissions-info
+UID:admitra-dl_sat_dec2026_late_reg@admitra.app
+DTSTAMP:20261123T203425Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:[VERIFIED] SAT Dec 5 Late Registration Deadline (Last Sitting for Aalto/Oulu/US RD)
+DESCRIPTION:Institution/Exam: SAT (College Board)\nCategory: standardized_test\nVerification: VERIFIED\nOriginal Timezone: America/New_York\nOfficial Source: https://satsuite.collegeboard.org/sat/dates-deadlines
+URL:https://satsuite.collegeboard.org/sat/dates-deadlines
 STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:7 days remaining: SAT Dec 5 Late Registration Deadline (Last Sitting for Aalto/Oulu/US RD)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: SAT Dec 5 Late Registration Deadline (Last Sitting for Aalto/Oulu/US RD)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:admitra-dl_jeem_s1_late_reg@admitra.app
+DTSTAMP:20261123T203425Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:[VERIFIED] JEE Main 2027 Session 1 Late-Fee Registration Closes (+₹500\, 11:50 PM IST)
+DESCRIPTION:Institution/Exam: JEE Main\nCategory: registration_deadline\nVerification: VERIFIED\nOriginal Timezone: Asia/Kolkata\nOfficial Source: https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2026/10/202610241890224107.pdf
+URL:https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2026/10/202610241890224107.pdf
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:7 days remaining: JEE Main 2027 Session 1 Late-Fee Registration Closes (+₹500\, 11:50 PM IST)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: JEE Main 2027 Session 1 Late-Fee Registration Closes (+₹500\, 11:50 PM IST)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:admitra-dl_jeem_s1_correction@admitra.app
+DTSTAMP:20261123T203425Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:[VERIFIED] JEE Main 2027 Session 1 Correction Window Closes (Nov 27–29)
+DESCRIPTION:Institution/Exam: JEE Main\nCategory: correction_window\nVerification: VERIFIED\nOriginal Timezone: Asia/Kolkata\nOfficial Source: https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2026/10/202610241890224107.pdf
+URL:https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2026/10/202610241890224107.pdf
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:7 days remaining: JEE Main 2027 Session 1 Correction Window Closes (Nov 27–29)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: JEE Main 2027 Session 1 Correction Window Closes (Nov 27–29)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:admitra-dl_unimelb_s1_2027@admitra.app
+DTSTAMP:20261123T203425Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:[VERIFIED] UniMelb Semester 1 2027 Direct International Closing (Sem 2 is May 31)
+DESCRIPTION:Institution/Exam: University of Melbourne\nCategory: application_deadline\nVerification: VERIFIED\nOriginal Timezone: Australia/Melbourne\nOfficial Source: https://study.unimelb.edu.au/how-to-apply/undergraduate-study/international-applications/applications
+URL:https://study.unimelb.edu.au/how-to-apply/undergraduate-study/international-applications/applications
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:7 days remaining: UniMelb Semester 1 2027 Direct International Closing (Sem 2 is May 31)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: UniMelb Semester 1 2027 Direct International Closing (Sem 2 is May 31)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:admitra-dl_unsw_t2_schol_open@admitra.app
+DTSTAMP:20261123T203425Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:[VERIFIED] UNSW Term 2 2027 International Scholarships Open
+DESCRIPTION:Institution/Exam: UNSW Sydney\nCategory: scholarship_opening\nVerification: VERIFIED\nOriginal Timezone: Australia/Sydney\nOfficial Source: https://www.scholarships.unsw.edu.au/faqs
+URL:https://www.scholarships.unsw.edu.au/faqs
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:7 days remaining: UNSW Term 2 2027 International Scholarships Open
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: UNSW Term 2 2027 International Scholarships Open
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:admitra-dl_sat_dec2026_test@admitra.app
+DTSTAMP:20261123T203425Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:[VERIFIED] SAT December 2026 Test Date (Scores release Dec 18)
+DESCRIPTION:Institution/Exam: SAT (College Board)\nCategory: standardized_test\nVerification: VERIFIED\nOriginal Timezone: Asia/Kolkata\nOfficial Source: https://satsuite.collegeboard.org/sat/dates-deadlines
+URL:https://satsuite.collegeboard.org/sat/dates-deadlines
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:7 days remaining: SAT December 2026 Test Date (Scores release Dec 18)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: SAT December 2026 Test Date (Scores release Dec 18)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:admitra-dl_kyushu_iupe_open@admitra.app
+DTSTAMP:20261123T203425Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:[VERIFIED] Kyushu University IUPE Oct 2027 Online Registration Opens
+DESCRIPTION:Institution/Exam: Kyushu University\nCategory: application_opening\nVerification: VERIFIED\nOriginal Timezone: Asia/Tokyo\nOfficial Source: https://www.kyushu-u.ac.jp/en/admission/faculty/foreign/foreign10/
+URL:https://www.kyushu-u.ac.jp/en/admission/faculty/foreign/foreign10/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:7 days remaining: Kyushu University IUPE Oct 2027 Online Registration Opens
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Kyushu University IUPE Oct 2027 Online Registration Opens
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:admitra-dl_auckland_s1_2027@admitra.app
+DTSTAMP:20261123T203425Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:[VERIFIED] Auckland Semester 1 2027 Limited-Entry Application Closing
+DESCRIPTION:Institution/Exam: University of Auckland\nCategory: application_deadline\nVerification: VERIFIED\nOriginal Timezone: Pacific/Auckland\nOfficial Source: https://www.auckland.ac.nz/en/about-us/about-the-university/the-university/official-publications/university-calendar/current-calendar/programme-and-course-limitations.html
+URL:https://www.auckland.ac.nz/en/about-us/about-the-university/the-university/official-publications/university-calendar/current-calendar/programme-and-course-limitations.html
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:7 days remaining: Auckland Semester 1 2027 Limited-Entry Application Closing
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Auckland Semester 1 2027 Limited-Entry Application Closing
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:admitra-dl_kyushu_iupe_close@admitra.app
+DTSTAMP:20261123T203425Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:[VERIFIED] Kyushu University IUPE Oct 2027 Online Registration Closes (5-day window)
+DESCRIPTION:Institution/Exam: Kyushu University\nCategory: application_deadline\nVerification: VERIFIED\nOriginal Timezone: Asia/Tokyo\nOfficial Source: https://www.kyushu-u.ac.jp/en/admission/faculty/foreign/foreign10/
+URL:https://www.kyushu-u.ac.jp/en/admission/faculty/foreign/foreign10/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:7 days remaining: Kyushu University IUPE Oct 2027 Online Registration Closes (5-day window)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Kyushu University IUPE Oct 2027 Online Registration Closes (5-day window)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:admitra-dl_cbse_practicals_start@admitra.app
+DTSTAMP:20261123T203425Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:[ANNOUNCED] CBSE Class 12 Practical Examinations Begin (Regular Schools)
+DESCRIPTION:Institution/Exam: CBSE Class 12\nCategory: board_exam\nVerification: ANNOUNCED\nOriginal Timezone: Asia/Kolkata\nOfficial Source: https://www.cbse.gov.in/cbsenew/documents/Circular_Practical_Examination_Winter_Bound_05112026.pdf
+URL:https://www.cbse.gov.in/cbsenew/documents/Circular_Practical_Examination_Winter_Bound_05112026.pdf
+STATUS:TENTATIVE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:7 days remaining: CBSE Class 12 Practical Examinations Begin (Regular Schools)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: CBSE Class 12 Practical Examinations Begin (Regular Schools)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:admitra-dl_jeem_s2_reg_open@admitra.app
+DTSTAMP:20261123T203425Z
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+SUMMARY:[ANNOUNCED] JEE Main 2027 Session 2 Registration Opens
+DESCRIPTION:Institution/Exam: JEE Main\nCategory: registration_opening\nVerification: ANNOUNCED\nOriginal Timezone: Asia/Kolkata\nOfficial Source: https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2026/10/202610241890224107.pdf
+URL:https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2026/10/202610241890224107.pdf
+STATUS:TENTATIVE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:7 days remaining: JEE Main 2027 Session 2 Registration Opens
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: JEE Main 2027 Session 2 Registration Opens
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:admitra-dl_finland_joint_open@admitra.app
+DTSTAMP:20261123T203425Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:[VERIFIED] Finland Joint Application & Aalto Round A Open (Studyinfo.fi)
+DESCRIPTION:Institution/Exam: Aalto & Oulu (Finland)\nCategory: application_opening\nVerification: VERIFIED\nOriginal Timezone: Europe/Helsinki\nOfficial Source: https://www.aalto.fi/en/admission-services/apply-to-bachelors-programmes-in-english
+URL:https://www.aalto.fi/en/admission-services/apply-to-bachelors-programmes-in-english
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:7 days remaining: Finland Joint Application & Aalto Round A Open (Studyinfo.fi)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Finland Joint Application & Aalto Round A Open (Studyinfo.fi)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:admitra-dl_ucas_equal_consideration@admitra.app
+DTSTAMP:20261123T203425Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:[VERIFIED] UCAS 2027 Equal Consideration Deadline (Manchester\, Edinburgh\, Sheffield\, Southampton)
+DESCRIPTION:Institution/Exam: UK Universities (UCAS)\nCategory: application_deadline\nVerification: VERIFIED\nOriginal Timezone: Europe/London\nOfficial Source: https://www.ucas.com/events/2027-entry-deadline-for-all-undergraduate-courses-except-those-with-a-15-october-deadline-475546
+URL:https://www.ucas.com/events/2027-entry-deadline-for-all-undergraduate-courses-except-those-with-a-15-october-deadline-475546
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:7 days remaining: UCAS 2027 Equal Consideration Deadline (Manchester\, Edinburgh\, Sheffield\, Southampton)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: UCAS 2027 Equal Consideration Deadline (Manchester\, Edinburgh\, Sheffield\, Southampton)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:admitra-dl_jeem_s1_admit_card@admitra.app
+DTSTAMP:20261123T203425Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:[VERIFIED] JEE Main 2027 Session 1 Admit Card Release
+DESCRIPTION:Institution/Exam: JEE Main\nCategory: admit_card\nVerification: VERIFIED\nOriginal Timezone: Asia/Kolkata\nOfficial Source: https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2026/10/202610241890224107.pdf
+URL:https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2026/10/202610241890224107.pdf
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:7 days remaining: JEE Main 2027 Session 1 Admit Card Release
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: JEE Main 2027 Session 1 Admit Card Release
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:admitra-dl_wisc_rd_2027@admitra.app
+DTSTAMP:20261123T203425Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:[VERIFIED] UW–Madison Fall 2027 Regular Decision Deadline (Materials due Jan 22)
+DESCRIPTION:Institution/Exam: University of Wisconsin–Madison\nCategory: application_deadline\nVerification: VERIFIED\nOriginal Timezone: America/Chicago\nOfficial Source: https://admissions.wisc.edu/deadlines/
+URL:https://admissions.wisc.edu/deadlines/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:7 days remaining: UW–Madison Fall 2027 Regular Decision Deadline (Materials due Jan 22)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: UW–Madison Fall 2027 Regular Decision Deadline (Materials due Jan 22)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:admitra-dl_tue_cse_fixus@admitra.app
+DTSTAMP:20261123T203425Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:[VERIFIED] TU/e CSE Numerus Fixus Deadline (AI/CS Alternative\; EE closes May 1)
+DESCRIPTION:Institution/Exam: Eindhoven University of Technology (TU/e)\nCategory: application_deadline\nVerification: VERIFIED\nOriginal Timezone: Europe/Amsterdam\nOfficial Source: https://www.tue.nl/en/education/bachelor-college/bachelor-electrical-engineering
+URL:https://www.tue.nl/en/education/bachelor-college/bachelor-electrical-engineering
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:7 days remaining: TU/e CSE Numerus Fixus Deadline (AI/CS Alternative\; EE closes May 1)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: TU/e CSE Numerus Fixus Deadline (AI/CS Alternative\; EE closes May 1)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:admitra-dl_jeem_s1_exam@admitra.app
+DTSTAMP:20261123T203425Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:[VERIFIED] JEE Main 2027 Session 1 Exam Window Begins (Jan 20–24 & Jan 28)
+DESCRIPTION:Institution/Exam: JEE Main\nCategory: exam_date\nVerification: VERIFIED\nOriginal Timezone: Asia/Kolkata\nOfficial Source: https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2026/10/202610241890224107.pdf
+URL:https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2026/10/202610241890224107.pdf
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:7 days remaining: JEE Main 2027 Session 1 Exam Window Begins (Jan 20–24 & Jan 28)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: JEE Main 2027 Session 1 Exam Window Begins (Jan 20–24 & Jan 28)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:admitra-dl_oulu_ece_close@admitra.app
+DTSTAMP:20261123T203425Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:[VERIFIED] Oulu BSc+MSc ECE Application Deadline (15:00 UTC+2\; Docs due Jan 28)
+DESCRIPTION:Institution/Exam: University of Oulu\nCategory: application_deadline\nVerification: VERIFIED\nOriginal Timezone: Europe/Helsinki\nOfficial Source: https://www.oulu.fi/en/apply/bachelors-electronics-and-communications-engineering
+URL:https://www.oulu.fi/en/apply/bachelors-electronics-and-communications-engineering
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:7 days remaining: Oulu BSc+MSc ECE Application Deadline (15:00 UTC+2\; Docs due Jan 28)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Oulu BSc+MSc ECE Application Deadline (15:00 UTC+2\; Docs due Jan 28)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:admitra-dl_aalto_close@admitra.app
+DTSTAMP:20261123T203425Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:[VERIFIED] Aalto Round A Application & Scholarship Deadline (SAT due Jan 29)
+DESCRIPTION:Institution/Exam: Aalto University\nCategory: application_deadline\nVerification: VERIFIED\nOriginal Timezone: Europe/Helsinki\nOfficial Source: https://www.aalto.fi/en/admission-services/apply-to-bachelors-programmes-in-english
+URL:https://www.aalto.fi/en/admission-services/apply-to-bachelors-programmes-in-english
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:7 days remaining: Aalto Round A Application & Scholarship Deadline (SAT due Jan 29)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Aalto Round A Application & Scholarship Deadline (SAT due Jan 29)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:admitra-dl_umich_rd_2027@admitra.app
+DTSTAMP:20261123T203425Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:[VERIFIED] UMich Fall 2027 Regular Decision Deadline
+DESCRIPTION:Institution/Exam: University of Michigan–Ann Arbor\nCategory: application_deadline\nVerification: VERIFIED\nOriginal Timezone: America/Detroit\nOfficial Source: https://admissions.umich.edu/apply/first-year-applicants/requirements-deadlines/application-changes
+URL:https://admissions.umich.edu/apply/first-year-applicants/requirements-deadlines/application-changes
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:7 days remaining: UMich Fall 2027 Regular Decision Deadline
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: UMich Fall 2027 Regular Decision Deadline
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:admitra-dl_tcd_priority_e3_b1@admitra.app
+DTSTAMP:20261123T203425Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:[VERIFIED] TCD Non-EU Priority Deadline & E3 Scholarship Batch 1
+DESCRIPTION:Institution/Exam: Trinity College Dublin\nCategory: scholarship_deadline\nVerification: VERIFIED\nOriginal Timezone: Europe/Dublin\nOfficial Source: https://www.tcd.ie/e3/education/scholarships/
+URL:https://www.tcd.ie/e3/education/scholarships/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:7 days remaining: TCD Non-EU Priority Deadline & E3 Scholarship Batch 1
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: TCD Non-EU Priority Deadline & E3 Scholarship Batch 1
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:admitra-dl_jeem_s2_reg_close@admitra.app
+DTSTAMP:20261123T203425Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+SUMMARY:[ANNOUNCED] JEE Main 2027 Session 2 Regular Registration Closes (Late fee Feb 4–7)
+DESCRIPTION:Institution/Exam: JEE Main\nCategory: registration_deadline\nVerification: ANNOUNCED\nOriginal Timezone: Asia/Kolkata\nOfficial Source: https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2026/10/202610241890224107.pdf
+URL:https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2026/10/202610241890224107.pdf
+STATUS:TENTATIVE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:7 days remaining: JEE Main 2027 Session 2 Regular Registration Closes (Late fee Feb 4–7)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: JEE Main 2027 Session 2 Regular Registration Closes (Late fee Feb 4–7)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:admitra-dl_cbse_physics@admitra.app
+DTSTAMP:20261123T203425Z
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270217
+SUMMARY:[VERIFIED] CBSE Class 12 Physics (042) Board Exam
+DESCRIPTION:Institution/Exam: CBSE Class 12\nCategory: board_exam\nVerification: VERIFIED\nOriginal Timezone: Asia/Kolkata\nOfficial Source: https://www.cbse.gov.in/cbsenew/documents/Datesheet_ClassX%20_XII_2027_Main_06112026.pdf
+URL:https://www.cbse.gov.in/cbsenew/documents/Datesheet_ClassX%20_XII_2027_Main_06112026.pdf
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:7 days remaining: CBSE Class 12 Physics (042) Board Exam
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: CBSE Class 12 Physics (042) Board Exam
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:admitra-dl_unsw_t2_2027_offshore@admitra.app
-DTSTAMP:20261123T193145Z
+DTSTAMP:20261123T203425Z
 DTSTART;VALUE=DATE:20270225
 DTEND;VALUE=DATE:20270226
 SUMMARY:[VERIFIED] UNSW Term 2 2027 Offshore Application Closing Date
 DESCRIPTION:Institution/Exam: UNSW Sydney\nCategory: application_deadline\nVerification: VERIFIED\nOriginal Timezone: Australia/Sydney\nOfficial Source: https://www.unsw.edu.au/study/international-students/admissions-info
 URL:https://www.unsw.edu.au/study/international-students/admissions-info
 STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:7 days remaining: UNSW Term 2 2027 Offshore Application Closing Date
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: UNSW Term 2 2027 Offshore Application Closing Date
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:admitra-dl_unsw_t2_schol_close@admitra.app
+DTSTAMP:20261123T203425Z
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270227
+SUMMARY:[VERIFIED] UNSW Term 2 2027 International Scholarships Closing
+DESCRIPTION:Institution/Exam: UNSW Sydney\nCategory: scholarship_deadline\nVerification: VERIFIED\nOriginal Timezone: Australia/Sydney\nOfficial Source: https://www.scholarships.unsw.edu.au/faqs
+URL:https://www.scholarships.unsw.edu.au/faqs
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:7 days remaining: UNSW Term 2 2027 International Scholarships Closing
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: UNSW Term 2 2027 International Scholarships Closing
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:admitra-dl_cbse_chemistry@admitra.app
+DTSTAMP:20261123T203425Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:[VERIFIED] CBSE Class 12 Chemistry (043) Board Exam
+DESCRIPTION:Institution/Exam: CBSE Class 12\nCategory: board_exam\nVerification: VERIFIED\nOriginal Timezone: Asia/Kolkata\nOfficial Source: https://www.cbse.gov.in/cbsenew/documents/Datesheet_ClassX%20_XII_2027_Main_06112026.pdf
+URL:https://www.cbse.gov.in/cbsenew/documents/Datesheet_ClassX%20_XII_2027_Main_06112026.pdf
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:7 days remaining: CBSE Class 12 Chemistry (043) Board Exam
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: CBSE Class 12 Chemistry (043) Board Exam
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:admitra-dl_nthu_r2_close@admitra.app
+DTSTAMP:20261123T203425Z
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+SUMMARY:[VERIFIED] NTHU IBP Fall 2027 Round 2 Application & Scholarship Deadline
+DESCRIPTION:Institution/Exam: National Tsing Hua University (NTHU)\nCategory: application_deadline\nVerification: VERIFIED\nOriginal Timezone: Asia/Taipei\nOfficial Source: https://ibp.nthu.edu.tw/news-132.html
+URL:https://ibp.nthu.edu.tw/news-132.html
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:7 days remaining: NTHU IBP Fall 2027 Round 2 Application & Scholarship Deadline
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: NTHU IBP Fall 2027 Round 2 Application & Scholarship Deadline
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:admitra-dl_cbse_english@admitra.app
+DTSTAMP:20261123T203425Z
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270306
+SUMMARY:[VERIFIED] CBSE Class 12 English Core (301) Board Exam
+DESCRIPTION:Institution/Exam: CBSE Class 12\nCategory: board_exam\nVerification: VERIFIED\nOriginal Timezone: Asia/Kolkata\nOfficial Source: https://www.cbse.gov.in/cbsenew/documents/Datesheet_ClassX%20_XII_2027_Main_06112026.pdf
+URL:https://www.cbse.gov.in/cbsenew/documents/Datesheet_ClassX%20_XII_2027_Main_06112026.pdf
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:7 days remaining: CBSE Class 12 English Core (301) Board Exam
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: CBSE Class 12 English Core (301) Board Exam
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:admitra-dl_cbse_maths@admitra.app
+DTSTAMP:20261123T203425Z
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270310
+SUMMARY:[VERIFIED] CBSE Class 12 Mathematics (041) Board Exam
+DESCRIPTION:Institution/Exam: CBSE Class 12\nCategory: board_exam\nVerification: VERIFIED\nOriginal Timezone: Asia/Kolkata\nOfficial Source: https://www.cbse.gov.in/cbsenew/documents/Datesheet_ClassX%20_XII_2027_Main_06112026.pdf
+URL:https://www.cbse.gov.in/cbsenew/documents/Datesheet_ClassX%20_XII_2027_Main_06112026.pdf
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:7 days remaining: CBSE Class 12 Mathematics (041) Board Exam
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: CBSE Class 12 Mathematics (041) Board Exam
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:admitra-dl_manchester_global_futures@admitra.app
+DTSTAMP:20261123T203425Z
+DTSTART;VALUE=DATE:20270330
+DTEND;VALUE=DATE:20270331
+SUMMARY:[VERIFIED] Manchester Global Futures UG Scholarship Deadline (£36\,000 South Asia)
+DESCRIPTION:Institution/Exam: University of Manchester\nCategory: scholarship_deadline\nVerification: VERIFIED\nOriginal Timezone: Europe/London\nOfficial Source: https://www.manchester.ac.uk/study/international/country-specific-information/india/
+URL:https://www.manchester.ac.uk/study/international/country-specific-information/india/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:7 days remaining: Manchester Global Futures UG Scholarship Deadline (£36\,000 South Asia)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Manchester Global Futures UG Scholarship Deadline (£36\,000 South Asia)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:admitra-dl_viteee_reg_close@admitra.app
+DTSTAMP:20261123T203425Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:[VERIFIED] VITEEE 2027 Registration Closes (₹1\,450)
+DESCRIPTION:Institution/Exam: VITEEE\nCategory: registration_deadline\nVerification: VERIFIED\nOriginal Timezone: Asia/Kolkata\nOfficial Source: https://viteee.vit.ac.in/
+URL:https://viteee.vit.ac.in/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:7 days remaining: VITEEE 2027 Registration Closes (₹1\,450)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: VITEEE 2027 Registration Closes (₹1\,450)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:admitra-dl_ucd_global_excellence@admitra.app
+DTSTAMP:20261123T203425Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:[VERIFIED] UCD Global Excellence Scholarship Deadline (India UG — 50%/100% Waiver)
+DESCRIPTION:Institution/Exam: University College Dublin (UCD)\nCategory: scholarship_deadline\nVerification: VERIFIED\nOriginal Timezone: Europe/Dublin\nOfficial Source: https://www.ucd.ie/global/study-at-ucd/scholarshipsfinances/scholarships/globalexcellencescholarships/
+URL:https://www.ucd.ie/global/study-at-ucd/scholarshipsfinances/scholarships/globalexcellencescholarships/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:7 days remaining: UCD Global Excellence Scholarship Deadline (India UG — 50%/100% Waiver)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: UCD Global Excellence Scholarship Deadline (India UG — 50%/100% Waiver)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:admitra-dl_cbse_cs@admitra.app
+DTSTAMP:20261123T203425Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:[VERIFIED] CBSE Class 12 Computer Science (083) Board Exam
+DESCRIPTION:Institution/Exam: CBSE Class 12\nCategory: board_exam\nVerification: VERIFIED\nOriginal Timezone: Asia/Kolkata\nOfficial Source: https://www.cbse.gov.in/cbsenew/documents/Datesheet_ClassX%20_XII_2027_Main_06112026.pdf
+URL:https://www.cbse.gov.in/cbsenew/documents/Datesheet_ClassX%20_XII_2027_Main_06112026.pdf
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:7 days remaining: CBSE Class 12 Computer Science (083) Board Exam
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: CBSE Class 12 Computer Science (083) Board Exam
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:admitra-dl_unsw_t3_schol_open@admitra.app
+DTSTAMP:20261123T203425Z
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270402
+SUMMARY:[VERIFIED] UNSW Term 3 2027 International Scholarships Open
+DESCRIPTION:Institution/Exam: UNSW Sydney\nCategory: scholarship_opening\nVerification: VERIFIED\nOriginal Timezone: Australia/Sydney\nOfficial Source: https://www.scholarships.unsw.edu.au/faqs
+URL:https://www.scholarships.unsw.edu.au/faqs
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:7 days remaining: UNSW Term 3 2027 International Scholarships Open
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: UNSW Term 3 2027 International Scholarships Open
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:admitra-dl_jeem_s2_exam@admitra.app
+DTSTAMP:20261123T203425Z
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270403
+SUMMARY:[ANNOUNCED] JEE Main 2027 Session 2 Exam Window Begins (Apr 2–7)
+DESCRIPTION:Institution/Exam: JEE Main\nCategory: exam_date\nVerification: ANNOUNCED\nOriginal Timezone: Asia/Kolkata\nOfficial Source: https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2026/10/202610241890224107.pdf
+URL:https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2026/10/202610241890224107.pdf
+STATUS:TENTATIVE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:7 days remaining: JEE Main 2027 Session 2 Exam Window Begins (Apr 2–7)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: JEE Main 2027 Session 2 Exam Window Begins (Apr 2–7)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:admitra-dl_srmjeee_p1_reg_close@admitra.app
+DTSTAMP:20261123T203425Z
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270403
+SUMMARY:[ANNOUNCED] SRMJEEE 2027 Phase 1 Registration Closes (Tentative)
+DESCRIPTION:Institution/Exam: SRMJEEE\nCategory: registration_deadline\nVerification: ANNOUNCED\nOriginal Timezone: Asia/Kolkata\nOfficial Source: https://applications.srmist.edu.in/btech
+URL:https://applications.srmist.edu.in/btech
+STATUS:TENTATIVE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:7 days remaining: SRMJEEE 2027 Phase 1 Registration Closes (Tentative)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: SRMJEEE 2027 Phase 1 Registration Closes (Tentative)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:admitra-dl_srmjeee_p1_exam@admitra.app
+DTSTAMP:20261123T203425Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:[ANNOUNCED] SRMJEEE 2027 Phase 1 CBT Exam (Apr 17–18\, Tentative)
+DESCRIPTION:Institution/Exam: SRMJEEE\nCategory: exam_date\nVerification: ANNOUNCED\nOriginal Timezone: Asia/Kolkata\nOfficial Source: https://applications.srmist.edu.in/btech
+URL:https://applications.srmist.edu.in/btech
+STATUS:TENTATIVE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:7 days remaining: SRMJEEE 2027 Phase 1 CBT Exam (Apr 17–18\, Tentative)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: SRMJEEE 2027 Phase 1 CBT Exam (Apr 17–18\, Tentative)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:admitra-dl_nthu_r3_close@admitra.app
+DTSTAMP:20261123T203425Z
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270423
+SUMMARY:[VERIFIED] NTHU IBP Fall 2027 Round 3 Final Application Deadline
+DESCRIPTION:Institution/Exam: National Tsing Hua University (NTHU)\nCategory: application_deadline\nVerification: VERIFIED\nOriginal Timezone: Asia/Taipei\nOfficial Source: https://ibp.nthu.edu.tw/news-132.html
+URL:https://ibp.nthu.edu.tw/news-132.html
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:7 days remaining: NTHU IBP Fall 2027 Round 3 Final Application Deadline
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: NTHU IBP Fall 2027 Round 3 Final Application Deadline
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:admitra-dl_viteee_exam@admitra.app
+DTSTAMP:20261123T203425Z
+DTSTART;VALUE=DATE:20270427
+DTEND;VALUE=DATE:20270428
+SUMMARY:[ANNOUNCED] VITEEE 2027 CBT Exam Window (Apr 27 – May 2\, Tentative)
+DESCRIPTION:Institution/Exam: VITEEE\nCategory: exam_date\nVerification: ANNOUNCED\nOriginal Timezone: Asia/Kolkata\nOfficial Source: https://viteee.vit.ac.in/
+URL:https://viteee.vit.ac.in/
+STATUS:TENTATIVE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:7 days remaining: VITEEE 2027 CBT Exam Window (Apr 27 – May 2\, Tentative)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: VITEEE 2027 CBT Exam Window (Apr 27 – May 2\, Tentative)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:admitra-dl_tue_ee_close@admitra.app
+DTSTAMP:20261123T203425Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:[VERIFIED] TU/e BSc Electrical Engineering Non-EU Deadline (23:59 CET)
+DESCRIPTION:Institution/Exam: Eindhoven University of Technology (TU/e)\nCategory: application_deadline\nVerification: VERIFIED\nOriginal Timezone: Europe/Amsterdam\nOfficial Source: https://www.tue.nl/en/education/become-a-tue-student/admission-and-enrollment/programtype/bachelor-1/program/industrial-engineering/country/india
+URL:https://www.tue.nl/en/education/become-a-tue-student/admission-and-enrollment/programtype/bachelor-1/program/industrial-engineering/country/india
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:7 days remaining: TU/e BSc Electrical Engineering Non-EU Deadline (23:59 CET)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: TU/e BSc Electrical Engineering Non-EU Deadline (23:59 CET)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:admitra-dl_us_commit_day@admitra.app
+DTSTAMP:20261123T203425Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:[VERIFIED] US National Enrollment Deposit & Commitment Deadline
+DESCRIPTION:Institution/Exam: US Universities (UMich / UW–Madison)\nCategory: offer_acceptance\nVerification: VERIFIED\nOriginal Timezone: America/Detroit\nOfficial Source: https://admissions.umich.edu/apply/first-year-applicants/selection-process/ea-admission-decisions-faq
+URL:https://admissions.umich.edu/apply/first-year-applicants/selection-process/ea-admission-decisions-faq
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:7 days remaining: US National Enrollment Deposit & Commitment Deadline
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: US National Enrollment Deposit & Commitment Deadline
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:admitra-dl_tcd_e3_b3@admitra.app
+DTSTAMP:20261123T203425Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:[VERIFIED] TCD E3 Scholarship Batch 3 Final Deadline
+DESCRIPTION:Institution/Exam: Trinity College Dublin\nCategory: scholarship_deadline\nVerification: VERIFIED\nOriginal Timezone: Europe/Dublin\nOfficial Source: https://www.tcd.ie/e3/education/scholarships/
+URL:https://www.tcd.ie/e3/education/scholarships/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:7 days remaining: TCD E3 Scholarship Batch 3 Final Deadline
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: TCD E3 Scholarship Batch 3 Final Deadline
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:admitra-dl_jeea_2027_exam@admitra.app
+DTSTAMP:20261123T203425Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:[VERIFIED] JEE (Advanced) 2027 Examination Date (IIT Delhi)
+DESCRIPTION:Institution/Exam: JEE Advanced\nCategory: exam_date\nVerification: VERIFIED\nOriginal Timezone: Asia/Kolkata\nOfficial Source: https://jeeadv.ac.in/documents/JEEAdv2027PressRelease.pdf
+URL:https://jeeadv.ac.in/documents/JEEAdv2027PressRelease.pdf
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:7 days remaining: JEE (Advanced) 2027 Examination Date (IIT Delhi)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: JEE (Advanced) 2027 Examination Date (IIT Delhi)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:admitra-dl_unimelb_s2_2027@admitra.app
+DTSTAMP:20261123T203425Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+SUMMARY:[VERIFIED] UniMelb Semester 2 2027 (Mid-Year) Application Closing
+DESCRIPTION:Institution/Exam: University of Melbourne\nCategory: application_deadline\nVerification: VERIFIED\nOriginal Timezone: Australia/Melbourne\nOfficial Source: https://study.unimelb.edu.au/how-to-apply/undergraduate-study/international-applications/applications
+URL:https://study.unimelb.edu.au/how-to-apply/undergraduate-study/international-applications/applications
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:7 days remaining: UniMelb Semester 2 2027 (Mid-Year) Application Closing
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: UniMelb Semester 2 2027 (Mid-Year) Application Closing
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:admitra-dl_tcd_tr032_close@admitra.app
+DTSTAMP:20261123T203425Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+SUMMARY:[VERIFIED] TCD Engineering (TR032) Non-EU Final Closing Date
+DESCRIPTION:Institution/Exam: Trinity College Dublin\nCategory: application_deadline\nVerification: VERIFIED\nOriginal Timezone: Europe/Dublin\nOfficial Source: https://www.tcd.ie/courses/undergraduate/courses/engineering/
+URL:https://www.tcd.ie/courses/undergraduate/courses/engineering/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:7 days remaining: TCD Engineering (TR032) Non-EU Final Closing Date
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: TCD Engineering (TR032) Non-EU Final Closing Date
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:admitra-dl_sheffield_schol_accept@admitra.app
+DTSTAMP:20261123T203425Z
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270603
+SUMMARY:[VERIFIED] Sheffield Int'l UG Scholarship Offer Acceptance Deadline (£2\,500/yr)
+DESCRIPTION:Institution/Exam: University of Sheffield\nCategory: scholarship_deadline\nVerification: VERIFIED\nOriginal Timezone: Europe/London\nOfficial Source: https://sheffield.ac.uk/global/agent-training
+URL:https://sheffield.ac.uk/global/agent-training
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:7 days remaining: Sheffield Int'l UG Scholarship Offer Acceptance Deadline (£2\,500/yr)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Sheffield Int'l UG Scholarship Offer Acceptance Deadline (£2\,500/yr)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:admitra-dl_srmjeee_p2_reg_close@admitra.app
+DTSTAMP:20261123T203425Z
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270605
+SUMMARY:[ANNOUNCED] SRMJEEE 2027 Phase 2 Registration Closes (Tentative)
+DESCRIPTION:Institution/Exam: SRMJEEE\nCategory: registration_deadline\nVerification: ANNOUNCED\nOriginal Timezone: Asia/Kolkata\nOfficial Source: https://applications.srmist.edu.in/btech
+URL:https://applications.srmist.edu.in/btech
+STATUS:TENTATIVE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:7 days remaining: SRMJEEE 2027 Phase 2 Registration Closes (Tentative)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: SRMJEEE 2027 Phase 2 Registration Closes (Tentative)
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:admitra-dl_unsw_t3_2027_offshore@admitra.app
-DTSTAMP:20261123T193145Z
+DTSTAMP:20261123T203425Z
 DTSTART;VALUE=DATE:20270610
 DTEND;VALUE=DATE:20270611
-SUMMARY:[VERIFIED] UNSW Term 3 2027 Offshore Application Closing Date
+SUMMARY:[VERIFIED] UNSW Term 3 2027 Offshore Application Closing Date (Best Post-CBSE Fit)
 DESCRIPTION:Institution/Exam: UNSW Sydney\nCategory: application_deadline\nVerification: VERIFIED\nOriginal Timezone: Australia/Sydney\nOfficial Source: https://www.unsw.edu.au/study/international-students/admissions-info
 URL:https://www.unsw.edu.au/study/international-students/admissions-info
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:7 days remaining: UNSW Term 3 2027 Offshore Application Closing Date (Best Post-CBSE Fit)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: UNSW Term 3 2027 Offshore Application Closing Date (Best Post-CBSE Fit)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:admitra-dl_unsw_t3_schol_close@admitra.app
+DTSTAMP:20261123T203425Z
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+SUMMARY:[VERIFIED] UNSW Term 3 2027 International Scholarships Closing
+DESCRIPTION:Institution/Exam: UNSW Sydney\nCategory: scholarship_deadline\nVerification: VERIFIED\nOriginal Timezone: Australia/Sydney\nOfficial Source: https://www.scholarships.unsw.edu.au/faqs
+URL:https://www.scholarships.unsw.edu.au/faqs
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:7 days remaining: UNSW Term 3 2027 International Scholarships Closing
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: UNSW Term 3 2027 International Scholarships Closing
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:admitra-dl_srmjeee_p2_exam@admitra.app
+DTSTAMP:20261123T203425Z
+DTSTART;VALUE=DATE:20270619
+DTEND;VALUE=DATE:20270620
+SUMMARY:[ANNOUNCED] SRMJEEE 2027 Phase 2 CBT Exam (Jun 19–20\, Tentative)
+DESCRIPTION:Institution/Exam: SRMJEEE\nCategory: exam_date\nVerification: ANNOUNCED\nOriginal Timezone: Asia/Kolkata\nOfficial Source: https://applications.srmist.edu.in/btech
+URL:https://applications.srmist.edu.in/btech
+STATUS:TENTATIVE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:7 days remaining: SRMJEEE 2027 Phase 2 CBT Exam (Jun 19–20\, Tentative)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: SRMJEEE 2027 Phase 2 CBT Exam (Jun 19–20\, Tentative)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:admitra-dl_ucas_intl_final@admitra.app
+DTSTAMP:20261123T203425Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:[VERIFIED] UCAS 2027 Main-Cycle International Closing Date
+DESCRIPTION:Institution/Exam: UK Universities (UCAS)\nCategory: application_deadline\nVerification: VERIFIED\nOriginal Timezone: Europe/London\nOfficial Source: https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications
+URL:https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:7 days remaining: UCAS 2027 Main-Cycle International Closing Date
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: UCAS 2027 Main-Cycle International Closing Date
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:admitra-dl_ucd_rec_deadline@admitra.app
+DTSTAMP:20261123T203425Z
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270702
+SUMMARY:[ANNOUNCED] UCD Recommended Final Application Deadline (Visa-Required Students)
+DESCRIPTION:Institution/Exam: University College Dublin (UCD)\nCategory: application_deadline\nVerification: ANNOUNCED\nOriginal Timezone: Europe/Dublin\nOfficial Source: https://www.ucd.ie/global/study-at-ucd/faqs/
+URL:https://www.ucd.ie/global/study-at-ucd/faqs/
+STATUS:TENTATIVE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:7 days remaining: UCD Recommended Final Application Deadline (Visa-Required Students)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: UCD Recommended Final Application Deadline (Visa-Required Students)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:admitra-evt_sat_dec2026_urgent@admitra.app
+DTSTAMP:20261123T203425Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:[VERIFIED] SAT Dec 5 Late Registration Closes Today (Final Sitting for Aalto/Oulu/US RD)
+DESCRIPTION:Entity: SAT (College Board)\nEvent Type: deadline_approaching\nVerification: VERIFIED\nEvidence: Late registration for the December 5\, 2026 SAT closes November 24\, 2026 (11:59 PM ET).\nOfficial Source: https://satsuite.collegeboard.org/sat/dates-deadlines
+URL:https://satsuite.collegeboard.org/sat/dates-deadlines
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:admitra-evt_unsw_2027_open@admitra.app
-DTSTAMP:20261123T193145Z
+DTSTAMP:20261123T203425Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:[VERIFIED] UNSW Sydney 2027 International Applications Open (All Terms)
-DESCRIPTION:Entity: UNSW Sydney\nEvent Type: application_opened\nVerification: VERIFIED\nEvidence: Applications to study at UNSW Sydney across all 2027 terms are now open.\nOfficial Source: https://www.unsw.edu.au/study/international-students/admissions-info
+DESCRIPTION:Entity: UNSW Sydney\nEvent Type: application_opened\nVerification: VERIFIED\nEvidence: Applications to study at UNSW Sydney across all 2027 terms are now open. Term 2 closes 2027-02-25\; Term 3 closes 2027-06-10.\nOfficial Source: https://www.unsw.edu.au/study/international-students/admissions-info
 URL:https://www.unsw.edu.au/study/international-students/admissions-info
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:admitra-evt_jeem_2027_s1_notices@admitra.app
-DTSTAMP:20261123T193145Z
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261121
-SUMMARY:[ANNOUNCED] NTA JEE (Main) 2027 Session 1 Online Application Notices Published
-DESCRIPTION:Entity: JEE Main\nEvent Type: reg_dates_announced\nVerification: ANNOUNCED\nEvidence: Inviting Online Application form for the Joint Entrance Examination (JEE)-2027 (Session 1) - Reg. (Last Updated: Nov 20\, 2026)\nOfficial Source: https://jeemain.nta.nic.in/public-notices/
-URL:https://jeemain.nta.nic.in/public-notices/
-STATUS:TENTATIVE
+UID:admitra-evt_nthu_r2_open@admitra.app
+DTSTAMP:20261123T203425Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:[VERIFIED] NTHU IBP Fall 2027 Round 2 Applications Open
+DESCRIPTION:Entity: National Tsing Hua University (NTHU)\nEvent Type: application_opened\nVerification: VERIFIED\nEvidence: Round 1 closed 2026-11-23\; Round 2 opened immediately and runs through 2027-03-03 (12:00 GMT+8).\nOfficial Source: https://ibp.nthu.edu.tw/news-132.html
+URL:https://ibp.nthu.edu.tw/news-132.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:admitra-evt_jeem_2027_s1_late_window@admitra.app
+DTSTAMP:20261123T203425Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:[VERIFIED] JEE Main 2027 Session 1 Late-Fee Window Open (Nov 23–26) & Session 2 Dates Published
+DESCRIPTION:Entity: JEE Main\nEvent Type: reg_dates_announced\nVerification: VERIFIED\nEvidence: Regular S1 registration closed 2026-11-22\; late fee (+₹500) open through 2026-11-26\; S1 exams Jan 20–24 & 28\; S2 exams Apr 2–7.\nOfficial Source: https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2026/10/202610241890224107.pdf
+URL:https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2026/10/202610241890224107.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:admitra-evt_jeea_2027_date_announced@admitra.app
+DTSTAMP:20261123T203425Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:[VERIFIED] IIT Delhi Announces JEE (Advanced) 2027 Date: May 23\, 2027
+DESCRIPTION:Entity: JEE Advanced\nEvent Type: exam_date_announced\nVerification: VERIFIED\nEvidence: Official press release confirms exam on Sunday\, May 23\, 2027\, with on-screen basic non-scientific calculator.\nOfficial Source: https://jeeadv.ac.in/documents/JEEAdv2027PressRelease.pdf
+URL:https://jeeadv.ac.in/documents/JEEAdv2027PressRelease.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:admitra-evt_cbse_2027_datesheet@admitra.app
+DTSTAMP:20261123T203425Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:[VERIFIED] CBSE Publishes Official Class 12 2027 Main Date Sheet
+DESCRIPTION:Entity: CBSE Class 12\nEvent Type: exam_date_announced\nVerification: VERIFIED\nEvidence: Physics Feb 16\, Chemistry Feb 27\, English Core Mar 5\, Mathematics Mar 9\, Computer Science Mar 31.\nOfficial Source: https://www.cbse.gov.in/cbsenew/documents/Datesheet_ClassX%20_XII_2027_Main_06112026.pdf
+URL:https://www.cbse.gov.in/cbsenew/documents/Datesheet_ClassX%20_XII_2027_Main_06112026.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:admitra-evt_viteee_2027_open@admitra.app
+DTSTAMP:20261123T203425Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:[VERIFIED] VITEEE 2027 Applications Open (Oct 20\, 2026 – Mar 31\, 2027)
+DESCRIPTION:Entity: VITEEE\nEvent Type: reg_portal_opened\nVerification: VERIFIED\nEvidence: Single-attempt CBT scheduled tentatively for April 27 – May 2\, 2027\; application fee ₹1\,450.\nOfficial Source: https://viteee.vit.ac.in/
+URL:https://viteee.vit.ac.in/
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

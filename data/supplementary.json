@@ -1,0 +1,141 @@
+[
+  {
+    "id": "supp_sat",
+    "short_code": "SAT",
+    "official_name": "SAT (Digital SAT — International)",
+    "authority": "College Board",
+    "category": "supplementary_standardized_test",
+    "official_url": "https://satsuite.collegeboard.org/sat/dates-deadlines",
+    "registration_url": "https://satsuite.collegeboard.org/sat/registration/online-registration",
+    "fees_india": "$111 USD ($68 base + $43 international fee; Late Reg +$38 = $149; Score Reports $15 each after 4 free within 9 days)",
+    "verification_status": "verified",
+    "last_verified_at": "2026-11-24T01:30:00.000Z",
+    "test_dates": [
+      {
+        "label": "December 2026 SAT",
+        "test_date": "2026-12-05",
+        "regular_reg_deadline": "2026-11-20",
+        "late_reg_deadline": "2026-11-24",
+        "score_release_date": "2026-12-18",
+        "verification_status": "verified",
+        "notes": "FINAL usable SAT date for Aalto (Jan 29 score deadline), Oulu (Jan 28), and US RD. Late registration closes 2026-11-24 11:59 PM ET.",
+        "source_url": "https://satsuite.collegeboard.org/sat/dates-deadlines"
+      },
+      {
+        "label": "March 2027 SAT",
+        "test_date": "2027-03-06",
+        "regular_reg_deadline": "2027-02-19",
+        "late_reg_deadline": "2027-02-23",
+        "score_release_date": "2027-03-19",
+        "verification_status": "verified",
+        "notes": "Board clash alert: 1 day after CBSE English (2027-03-05) and 3 days before CBSE Mathematics (2027-03-09).",
+        "source_url": "https://satsuite.collegeboard.org/sat/dates-deadlines"
+      },
+      {
+        "label": "May 2027 SAT",
+        "test_date": "2027-05-01",
+        "regular_reg_deadline": "2027-04-16",
+        "late_reg_deadline": "2027-04-20",
+        "score_release_date": "2027-05-14",
+        "verification_status": "verified",
+        "notes": "Post-boards sitting; useful for UNSW Term 3 (closing 2027-06-10) or rolling admissions.",
+        "source_url": "https://satsuite.collegeboard.org/sat/dates-deadlines"
+      },
+      {
+        "label": "June 2027 SAT",
+        "test_date": "2027-06-05",
+        "regular_reg_deadline": "2027-05-21",
+        "late_reg_deadline": "2027-05-25",
+        "score_release_date": "2027-06-21",
+        "verification_status": "verified",
+        "notes": "Final 2026–2027 international SAT administration.",
+        "source_url": "https://satsuite.collegeboard.org/sat/dates-deadlines"
+      }
+    ],
+    "university_dependencies": [
+      "Aalto University: Mandatory SAT >= 1350 total & >= 700 Math; official score due 2027-01-29 (Dec 2026 SAT is final sitting).",
+      "University of Oulu: Mandatory SAT >= 1200 total & >= 600 Math; docs due 2027-01-28 (Dec 2026 SAT is final sitting).",
+      "Kyushu University IUPE: Mandatory standardized test (SAT Math >= 710 in 2026 guide — verify 2027 PDF); online reg 2026-12-07 to 2026-12-11.",
+      "UNSW Sydney: SAT >= 1260 allows full offer ahead of final CBSE results.",
+      "Penn State: SAT EBRW >= 570 exempts IELTS/TOEFL; test-optional for admission.",
+      "UMich & UW-Madison: Test-optional for Fall 2027; UMich superscores, UW-Madison does not."
+    ]
+  },
+  {
+    "id": "supp_cbse",
+    "short_code": "CBSE-12",
+    "official_name": "CBSE Class 12 Board Examinations 2027",
+    "authority": "Central Board of Secondary Education (CBSE)",
+    "category": "supplementary_board_exam",
+    "official_url": "https://www.cbse.gov.in/",
+    "registration_url": "https://www.cbse.gov.in/cbsenew/examination_circular.html",
+    "datesheet_url": "https://www.cbse.gov.in/cbsenew/documents/Datesheet_ClassX%20_XII_2027_Main_06112026.pdf",
+    "verification_status": "verified",
+    "last_verified_at": "2026-11-24T01:30:00.000Z",
+    "milestones": [
+      {
+        "label": "Practical Examinations Start (Regular Session Schools)",
+        "date": "2027-01-01",
+        "end_date": null,
+        "verification_status": "announced",
+        "is_estimate": false,
+        "notes": "Confirmed start date per CBSE Practical Circular (05.11.2026); end date typically mid-Feb 2027 (estimate).",
+        "source_url": "https://www.cbse.gov.in/cbsenew/documents/Circular_Practical_Examination_Winter_Bound_05112026.pdf"
+      },
+      {
+        "label": "Physics (042) Theory Exam",
+        "date": "2027-02-16",
+        "time_ist": "10:30 AM – 01:30 PM",
+        "verification_status": "verified",
+        "is_estimate": false,
+        "source_url": "https://www.cbse.gov.in/cbsenew/documents/Datesheet_ClassX%20_XII_2027_Main_06112026.pdf"
+      },
+      {
+        "label": "Chemistry (043) Theory Exam",
+        "date": "2027-02-27",
+        "time_ist": "10:30 AM – 01:30 PM",
+        "verification_status": "verified",
+        "is_estimate": false,
+        "source_url": "https://www.cbse.gov.in/cbsenew/documents/Datesheet_ClassX%20_XII_2027_Main_06112026.pdf"
+      },
+      {
+        "label": "English Core (301) Theory Exam",
+        "date": "2027-03-05",
+        "time_ist": "10:30 AM – 01:30 PM",
+        "verification_status": "verified",
+        "is_estimate": false,
+        "source_url": "https://www.cbse.gov.in/cbsenew/documents/Datesheet_ClassX%20_XII_2027_Main_06112026.pdf"
+      },
+      {
+        "label": "Mathematics (041) Theory Exam",
+        "date": "2027-03-09",
+        "time_ist": "10:30 AM – 01:30 PM",
+        "verification_status": "verified",
+        "is_estimate": false,
+        "source_url": "https://www.cbse.gov.in/cbsenew/documents/Datesheet_ClassX%20_XII_2027_Main_06112026.pdf"
+      },
+      {
+        "label": "Computer Science (083) Theory Exam",
+        "date": "2027-03-31",
+        "time_ist": "10:30 AM – 01:30 PM",
+        "verification_status": "verified",
+        "is_estimate": false,
+        "source_url": "https://www.cbse.gov.in/cbsenew/documents/Datesheet_ClassX%20_XII_2027_Main_06112026.pdf"
+      },
+      {
+        "label": "Class XII Result Declaration",
+        "date": null,
+        "verification_status": "unverified",
+        "is_estimate": true,
+        "notes": "Estimate: mid-May 2027 (typically May 10–20). CBSE does not pre-announce exact result dates.",
+        "source_url": "https://www.cbse.gov.in/"
+      }
+    ],
+    "university_dependencies": [
+      "Indian Exams: 75% / Top-20 percentile for JoSAA (IITs/NITs/IIITs) & BITSAT (75% PCM, 60% each); 50% weightage in MET merit list; 60% PCM for VITEEE/SRMJEEE/IAT; 45% PCM for COMEDK.",
+      "UK, Ireland & Australia: Predicted CBSE grades used for conditional offers; final May 2027 marks convert offers to unconditional (UNSW Term 3 docs due 2027-07-08; UniMelb Sem 2 closes 2027-05-31).",
+      "Finland: Final CBSE diploma due 2027-07-13 (Oulu) and 2027-07-31 (Aalto).",
+      "English Waivers via CBSE Class 12 English: UNSW (Grade C1), UniMelb (Pass), Manchester (85%), Edinburgh (75%), Sheffield (75%), UCD (80%)."
+    ]
+  }
+]
