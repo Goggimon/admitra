@@ -10,6 +10,9 @@ on:
       - 'monitoring/**'
       - 'scripts/**'
       - '.github/workflows/deploy.yml'
+  workflow_run:
+    workflows: ['ADMITRA Daily Admissions Update']
+    types: [completed]
   workflow_dispatch:
 
 permissions:
@@ -23,18 +26,22 @@ concurrency:
 
 jobs:
   build:
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
       - uses: actions/setup-node@v4
         with:
           node-version: 22
+      - uses: actions/configure-pages@v5
       - name: Run automated monitoring & ICS tests
         run: npm test
       - name: Install frontend dependencies
         working-directory: apps/web
-        run: npm install
-      - name: Build static site with /ADMITRA/ BASE_URL
+        run: npm ci
+      - name: Build static site
         run: npm run build
       - name: Validate public JSON & calendar.ics
         run: npm run validate
