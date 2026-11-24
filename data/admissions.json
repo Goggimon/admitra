@@ -1,6 +1,6 @@
 {
   "schema_version": "2.0.0-github-native",
-  "generated_at": "2026-11-24T01:30:00.000Z",
+  "generated_at": "2026-11-24T12:44:15.213Z",
   "timezone": "Asia/Kolkata",
   "sources": [
     {
@@ -18,7 +18,7 @@
       "consecutive_failures": 0,
       "last_error": null,
       "verification_history": {
-        "last_successful_check": "2026-11-24T01:30:00.000Z",
+        "last_successful_check": "2026-11-24T12:44:06.503Z",
         "last_detected_change": null,
         "previous_verified_date": null,
         "current_verified_date": "2027-06-10"
@@ -34,13 +34,13 @@
       "adapter": "jee_main_public_notices",
       "active": true,
       "http_status": "200",
-      "content_hash": "0559c362afa8922a510e293e87237a951a634a356c25871c36800f6a241ecf4b",
-      "last_excerpt": "Inviting Online Application form for the Joint Entrance Examination (JEE)-2027 (Session 1) – Reg. | Late fee window open through 2026-11-26.",
+      "content_hash": "645e3233c0c755df86a06eba7ccaeb6363e7d8c6f094aa0c60e4e3b510292877",
+      "last_excerpt": "Clarification regarding submission of a fresh Online Application Form for JEE (Main) – 2027 (Session 1) | https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2026/10/202610302102025182.pdf\nAdvisory and Instructions regarding registration process for Joint Entrance Examination (Main) – 2027 (Session 1) | https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2026/10/202610281658843201.pdf\nInviting Online Application form for the Joint Entrance Examination (JEE)-2027 (Session 1) – Reg. | https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2026/10/20261024390682350.pdf",
       "consecutive_failures": 0,
       "last_error": null,
       "verification_history": {
-        "last_successful_check": "2026-11-24T01:30:00.000Z",
-        "last_detected_change": null,
+        "last_successful_check": "2026-11-24T12:44:06.503Z",
+        "last_detected_change": "2026-11-24T12:44:06.503Z",
         "previous_verified_date": null,
         "current_verified_date": "2026-11-26"
       }
@@ -55,12 +55,12 @@
       "adapter": "generic_static_html",
       "active": true,
       "http_status": "200",
-      "content_hash": null,
-      "last_excerpt": "JEE (Advanced) 2027 exam date confirmed: 2027-05-23.",
+      "content_hash": "cf3a162e9f1f38e0eaf7814ff160fa99d75cdf14c16e687309d9498b5ffe03ca",
+      "last_excerpt": "JEE (Advanced) 2027 \r\n संयुक्त प्रवेश परीक्षा (उच्च) २०२७\n Joint Entrance Examination (Advanced) 2027\n भारतीय प्रौद्योगिकी संस्थान दिल्ली\n Indian Institute of Technology Delhi\n आयोजक संस्थान | Organising Institute\n Important Announcements\n Eligibility Criteria \n Link \r\n for Eligibility Criteria for appearing in JEE (Advanced) 2027.\n Posted on November 13, 2026, 17:00 IST \r\n Examination Date \n JEE (Advanced) 2027 will be held on May 23, 2027 (Sunday).\n Posted on November 13, 2026, 17:00 IST \r\n Participating Institutes \n IIT Bhilai \r\n IIT Bhubaneswar \r\n IIT Bombay \r\n IIT Delhi \r\n (Organising Institute) \r\n IIT (ISM) Dhanbad \r\n IIT Dharwad \r\n IIT Gandhinagar \r\n IIT Goa \r\n IIT Guwahati \r\n IIT Hyderabad \r\n IIT Indore \r\n IIT Jammu \r\n IIT Jodhpur \r\n IIT Kanpur \r\n IIT Kharagpur \r\n IIT Madras \r\n IIT Mandi \r\n IIT Palakkad \r\n IIT Patna \r\n IIT Roorkee \r\n IIT Ropar \r\n IIT Tirupati \r\n IIT (BHU) Varanasi \r\n &larr; \r\n &rarr; \r\n Copyright &copy; JEE (Advanced) 2027. All Rights Reserved.",
       "consecutive_failures": 0,
       "last_error": null,
       "verification_history": {
-        "last_successful_check": "2026-11-24T01:30:00.000Z",
+        "last_successful_check": "2026-11-24T12:44:06.503Z",
         "last_detected_change": null,
         "previous_verified_date": null,
         "current_verified_date": "2027-05-23"
@@ -76,12 +76,12 @@
       "adapter": "generic_static_html",
       "active": true,
       "http_status": "200",
-      "content_hash": null,
-      "last_excerpt": "AY 2027-2028 First Degree admission cycle announced to open tentatively in December 2026.",
+      "content_hash": "58d4a81a3bf3a5135fca25642cead7c0e9caa19a57069bf724439b3cc649b018",
+      "last_excerpt": "The First Degree (B.E.,M.Sc. & B.Pharm.) Admission cycle for Academic Year 2026-2027 is now closed. All applicable refunds will be made soon as per the timeline written in the offer letters.\r\n Beware of fraudulent calls, emails, SMS, and social media messages claiming to offer direct admission to BITS Pilani. Do not fall prey for such false claims. If you come across any, please report them to the admission office immediately. Remember, https://admissions.bits-pilani.ac.in/ is the only official website for BITS Pilani admissions. Click here for more details. \r\n How to Join BITS Pilani's First Degree Programmes (B.E., M.Sc. & B.Pharm.)\n Admission to BITS Pilani's First Degree Programmes (B.E., M.Sc. & B.Pharm.) is available through primarily following distinct pathways.\n Through BITS Admission Test (BITSAT)\n The BITS Admission Test (BITSAT) is a highly competitive exam for admission into B.E., M.Sc., and B.Pharm Programmes at BITS Pilani. Additionally, it serves as a pathway for entry into the BITS-RMIT, BITS-UB, BITS-ISU, BITS-CSP and BITS-RPI 2+2 Programmes. Scroll down to learn more. \n Direct Admission for Board Toppers scheme\n This admission pathway is exclusively available to s",
       "consecutive_failures": 0,
       "last_error": null,
       "verification_history": {
-        "last_successful_check": "2026-11-24T01:30:00.000Z",
+        "last_successful_check": "2026-11-24T12:44:06.503Z",
         "last_detected_change": null,
         "previous_verified_date": null,
         "current_verified_date": null
@@ -97,12 +97,12 @@
       "adapter": "generic_static_html",
       "active": true,
       "http_status": "200",
-      "content_hash": null,
-      "last_excerpt": "VITEEE 2027 applications open 2026-10-20 through 2027-03-31; exams tentatively 2027-04-27 to 2027-05-02.",
+      "content_hash": "ca97d6e2fabf2ca29cde889b55946878b2034247fb2a0c160163b688921eee0c",
+      "last_excerpt": "B.Tech 2027-28 Admissions Open | VITEEE 2027 Applications \r\n Beware of fraudulent calls, emails, SMS, WhatsApp, and social media\r\n messages claiming direct admission to VIT Group of Institutes.\r\n Do not fall for such false claims. Admissions are based strictly on\r\n merit. We do not have any agents or outside representatives.\r\n For authentic information, visit our official website:\r\n www.vit.ac.in\r\n Public Notice: Fake Admission Alert \r\n Click here \r\n Step-by-Step Guide to Filling Out the VITEEE-2027 Application Form \r\n Click here \r\n VITEEE 2027 \r\n VIT\r\n Engineering Entrance Examination\n B.Tech. Admissions - 2027 \r\n Registration / Login\n Signup\n Login\n Select Gender \r\n Male \r\n Female \r\n Transgender \r\n Select Residential Status \r\n Indian \r\n OCI \r\n NRI \r\n I authorize VIT to use\r\n my mobile no./e-mail id/ connected social media\r\n platform overriding DND status. \r\n Register \r\n Login \r\n Forgot\r\n your password ? \r\n VIT Engineering Entrance\r\n Examination\n Vellore Institute of Technology Engineering Entrance Examination\r\n (VITEEE) is conducted for admission to undergraduate engineering\r\n programmes in VIT group of Institutions. VITEEE will be conducted\r\n between 27 th April and 02 nd May 20",
       "consecutive_failures": 0,
       "last_error": null,
       "verification_history": {
-        "last_successful_check": "2026-11-24T01:30:00.000Z",
+        "last_successful_check": "2026-11-24T12:44:06.503Z",
         "last_detected_change": null,
         "previous_verified_date": null,
         "current_verified_date": "2027-03-31"
@@ -118,12 +118,12 @@
       "adapter": "generic_static_html",
       "active": true,
       "http_status": "200",
-      "content_hash": null,
-      "last_excerpt": "Awaiting 2027 UGET notification (currently displaying 2026 cycle).",
+      "content_hash": "877d168c752595b90f95169677174ddb35ddca176f4cf706fb79753c2b0744da",
+      "last_excerpt": "COMEDK | Karnataka Professional Colleges Foundation \r\n Our Helpline number: 7259466698, or Write to studenthelpdesk@comedk.org \n Counselling Process Document-2026\n Counselling Process Quick Guide-2026\n Frequently Asked Questions (FAQs)\nRound 3 Allotment\n Notifications \n Notification for Architecture 2026 Registration & Counselling Process Notified on 22.06.2026 \n Notification for starting COMEDK UGET 2026 Counselling Process. Notified on 29.05.2026 \n Important Links \n Engineering Cut Off Ranks after Round 2 Allotment. Notified on 07.08.2026 \n Architecture Seat Availability and Fee Details before start of Round 1. Notified on 06.08.2026 \n About us \n Karnataka Professional Colleges Foundation, in their endeavour to offer an effective, fair and objective testing procedure to determine merit of students seeking admission to the member institutions, have formed &ldquo;Consortium of Medical, Engineering and Dental Colleges of Karnataka&rdquo; (COMEDK).\n COMEDK has been assigned the task of organising a common entrance test for the academic year 2026-2027.\n COMEDK entrance test & publication of test score and rank list will be followed by centralized counseling (Single window system).\n UG",
       "consecutive_failures": 0,
       "last_error": null,
       "verification_history": {
-        "last_successful_check": "2026-11-24T01:30:00.000Z",
+        "last_successful_check": "2026-11-24T12:44:06.503Z",
         "last_detected_change": null,
         "previous_verified_date": null,
         "current_verified_date": null
@@ -138,11 +138,11 @@
       "url": "https://www.iiseradmission.in/",
       "adapter": "generic_static_html",
       "active": true,
-      "http_status": "200",
+      "http_status": "ERR_FETCH",
       "content_hash": null,
       "last_excerpt": "Awaiting IAT 2027 notification (currently displaying 2026 cycle).",
-      "consecutive_failures": 0,
-      "last_error": null,
+      "consecutive_failures": 1,
+      "last_error": "fetch failed",
       "verification_history": {
         "last_successful_check": "2026-11-24T01:30:00.000Z",
         "last_detected_change": null,
@@ -160,12 +160,12 @@
       "adapter": "generic_static_html",
       "active": true,
       "http_status": "200",
-      "content_hash": null,
-      "last_excerpt": "2027 equal consideration deadline: 2027-01-13; international main-cycle closing: 2027-06-30.",
+      "content_hash": "6946e7d434ece0d74a22ae368bd773c155fffbea29b6fd786aea2392d6b5de63",
+      "last_excerpt": "Dates and deadlines for uni applications | UCAS \n Skip navigation \n 2027 entry application deadlines\n For courses starting in 2027 (and for deferred applications ), your application should be with us at UCAS by one of these dates – depending on what courses you apply for. If your completed application – including all your personal details and your academic reference – is submitted by the deadline, it is guaranteed to be considered.\n If you're applying through your school/college, please check their deadline, and follow this to get your application in on time . This gives them enough time to read your application, check you've entered your qualifications correctly, write and attach your reference, and submit your application to us.\n Check course information in our search tool to see which deadline applies to you. \n 2026\n 28 Apr\n UCAS’ search tool displays 2027 entry courses\n 12 May\n UCAS applications open for 2027 entry\n You can register and start your application in your UCAS Hub.\n 01 Sep\n Completed applications can be submitted to UCAS\n You will need a reference before you can send your application.\n 15 Oct\n (18:00 UK time) Equal consideration date for applications to the universi",
       "consecutive_failures": 0,
       "last_error": null,
       "verification_history": {
-        "last_successful_check": "2026-11-24T01:30:00.000Z",
+        "last_successful_check": "2026-11-24T12:44:06.503Z",
         "last_detected_change": null,
         "previous_verified_date": null,
         "current_verified_date": "2027-01-13"
@@ -181,12 +181,12 @@
       "adapter": "generic_static_html",
       "active": true,
       "http_status": "200",
-      "content_hash": null,
-      "last_excerpt": "Round A 2027-01-07 to 2027-01-22; SAT scores due 2027-01-29.",
+      "content_hash": "746ab249819d759df820a8e5e6aecb3828371c51faacfa9f3e1951658c55acc8",
+      "last_excerpt": "Apply to Bachelor&#039;s programmes in English | Aalto University \n Close side navigation \n Open side navigation \n Admission Services\n Apply to Bachelor&#039;s programmes in English\n At Aalto University, you can study in bachelor’s programmes in English in the fields of business and economics, science and technology as well as art and design. The next application period for programmes taught in English is 7–22 January 2027. On this website, you&#039;ll find the descriptions and application guidelines for all Aalto&#039;s bachelor&#039;s programmes in English. You will also find information on student admissions and experiences of studying at Aalto!\n How you benefit from our programmes\n As an Aalto student, you'll enjoy the benefits offered by the programmes and Aalto University:\n Innovative, future-oriented programmes.\n Aalto's unique combination of fields - combine business, art and technology in your studies!\n State-of-the-art faculty. Teaching based on top-notch research and real-world applications.\n International career opportunities and degrees valued by employers.\n Tight industry relations and a thriving startup ecosystem.\n Main campus in the vibrant Helsinki capital region.\n",
       "consecutive_failures": 0,
       "last_error": null,
       "verification_history": {
-        "last_successful_check": "2026-11-24T01:30:00.000Z",
+        "last_successful_check": "2026-11-24T12:44:06.503Z",
         "last_detected_change": null,
         "previous_verified_date": null,
         "current_verified_date": "2027-01-22"
@@ -202,12 +202,12 @@
       "adapter": "generic_static_html",
       "active": true,
       "http_status": "200",
-      "content_hash": null,
-      "last_excerpt": "Online registration window: December 7, 2026 - December 11, 2026.",
+      "content_hash": "e4e7f9d4535d326c026874191758a5fda4c3d06c2109454078d814506197b7d9",
+      "last_excerpt": "Enrolling in Undergraduate School (Language of Instruction: English) | Enrolling in Undergraduate School | Undergraduate Admissions | Admissions | KYUSHU UNIVERSITY \n 入試・入学 \n Admissions \n Enrolling in Undergraduate School (Language of Instruction: English)\n TOP \n Admissions \n Undergraduate Admissions \n Enrolling in Undergraduate School \n Enrolling in Undergraduate School (Language of Instruction: English)\n Enrolling in Undergraduate School ( Language of Instruction: English )\n     Please note that we do NOT have a \"transfer system\" for this program. You need to start over from the first year with 0 credit after enrollment. \n Enrollment: October 2027\n Application Instructions 2027\n    < School of Interdisciplinary Science and Innovation > \n  Japanese Government (MEXT) Scholarship Information  (PDF) \n Application Instructions  (PDF) \n Application Form  (Excel)  Print it out in portrait orientation.\n < Engineering Programs > \n Application Instructions  (PDF) \n Application Form  (Excel) Print it out in portrait orientation.\n ★There are minimum requirements on the standardized test scores. Be sure to check the application instruction to see if your scores meet the  minimum. \n Proof of p",
       "consecutive_failures": 0,
       "last_error": null,
       "verification_history": {
-        "last_successful_check": "2026-11-24T01:30:00.000Z",
+        "last_successful_check": "2026-11-24T12:44:06.503Z",
         "last_detected_change": null,
         "previous_verified_date": null,
         "current_verified_date": "2026-12-11"
@@ -227,7 +227,12 @@
       "original_timezone": "America/New_York",
       "verification_status": "verified",
       "source_url": "https://satsuite.collegeboard.org/sat/dates-deadlines",
-      "verification_history": { "last_successful_check": "2026-11-24T01:30:00.000Z", "last_detected_change": null, "previous_verified_date": null, "current_verified_date": "2026-11-24" }
+      "verification_history": {
+        "last_successful_check": "2026-11-24T01:30:00.000Z",
+        "last_detected_change": null,
+        "previous_verified_date": null,
+        "current_verified_date": "2026-11-24"
+      }
     },
     {
       "id": "dl_jeem_s1_late_reg",
@@ -241,7 +246,12 @@
       "original_timezone": "Asia/Kolkata",
       "verification_status": "verified",
       "source_url": "https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2026/10/202610241890224107.pdf",
-      "verification_history": { "last_successful_check": "2026-11-24T01:30:00.000Z", "last_detected_change": null, "previous_verified_date": null, "current_verified_date": "2026-11-26" }
+      "verification_history": {
+        "last_successful_check": "2026-11-24T01:30:00.000Z",
+        "last_detected_change": null,
+        "previous_verified_date": null,
+        "current_verified_date": "2026-11-26"
+      }
     },
     {
       "id": "dl_jeem_s1_correction",
@@ -255,7 +265,12 @@
       "original_timezone": "Asia/Kolkata",
       "verification_status": "verified",
       "source_url": "https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2026/10/202610241890224107.pdf",
-      "verification_history": { "last_successful_check": "2026-11-24T01:30:00.000Z", "last_detected_change": null, "previous_verified_date": null, "current_verified_date": "2026-11-29" }
+      "verification_history": {
+        "last_successful_check": "2026-11-24T01:30:00.000Z",
+        "last_detected_change": null,
+        "previous_verified_date": null,
+        "current_verified_date": "2026-11-29"
+      }
     },
     {
       "id": "dl_unimelb_s1_2027",
@@ -269,7 +284,12 @@
       "original_timezone": "Australia/Melbourne",
       "verification_status": "verified",
       "source_url": "https://study.unimelb.edu.au/how-to-apply/undergraduate-study/international-applications/applications",
-      "verification_history": { "last_successful_check": "2026-11-24T01:30:00.000Z", "last_detected_change": null, "previous_verified_date": null, "current_verified_date": "2026-11-30" }
+      "verification_history": {
+        "last_successful_check": "2026-11-24T01:30:00.000Z",
+        "last_detected_change": null,
+        "previous_verified_date": null,
+        "current_verified_date": "2026-11-30"
+      }
     },
     {
       "id": "dl_unsw_t2_schol_open",
@@ -283,7 +303,12 @@
       "original_timezone": "Australia/Sydney",
       "verification_status": "verified",
       "source_url": "https://www.scholarships.unsw.edu.au/faqs",
-      "verification_history": { "last_successful_check": "2026-11-24T01:30:00.000Z", "last_detected_change": null, "previous_verified_date": null, "current_verified_date": "2026-12-01" }
+      "verification_history": {
+        "last_successful_check": "2026-11-24T01:30:00.000Z",
+        "last_detected_change": null,
+        "previous_verified_date": null,
+        "current_verified_date": "2026-12-01"
+      }
     },
     {
       "id": "dl_sat_dec2026_test",
@@ -297,7 +322,12 @@
       "original_timezone": "Asia/Kolkata",
       "verification_status": "verified",
       "source_url": "https://satsuite.collegeboard.org/sat/dates-deadlines",
-      "verification_history": { "last_successful_check": "2026-11-24T01:30:00.000Z", "last_detected_change": null, "previous_verified_date": null, "current_verified_date": "2026-12-05" }
+      "verification_history": {
+        "last_successful_check": "2026-11-24T01:30:00.000Z",
+        "last_detected_change": null,
+        "previous_verified_date": null,
+        "current_verified_date": "2026-12-05"
+      }
     },
     {
       "id": "dl_kyushu_iupe_open",
@@ -311,7 +341,12 @@
       "original_timezone": "Asia/Tokyo",
       "verification_status": "verified",
       "source_url": "https://www.kyushu-u.ac.jp/en/admission/faculty/foreign/foreign10/",
-      "verification_history": { "last_successful_check": "2026-11-24T01:30:00.000Z", "last_detected_change": null, "previous_verified_date": null, "current_verified_date": "2026-12-07" }
+      "verification_history": {
+        "last_successful_check": "2026-11-24T01:30:00.000Z",
+        "last_detected_change": null,
+        "previous_verified_date": null,
+        "current_verified_date": "2026-12-07"
+      }
     },
     {
       "id": "dl_auckland_s1_2027",
@@ -325,7 +360,12 @@
       "original_timezone": "Pacific/Auckland",
       "verification_status": "verified",
       "source_url": "https://www.auckland.ac.nz/en/about-us/about-the-university/the-university/official-publications/university-calendar/current-calendar/programme-and-course-limitations.html",
-      "verification_history": { "last_successful_check": "2026-11-24T01:30:00.000Z", "last_detected_change": null, "previous_verified_date": null, "current_verified_date": "2026-12-08" }
+      "verification_history": {
+        "last_successful_check": "2026-11-24T01:30:00.000Z",
+        "last_detected_change": null,
+        "previous_verified_date": null,
+        "current_verified_date": "2026-12-08"
+      }
     },
     {
       "id": "dl_kyushu_iupe_close",
@@ -339,7 +379,12 @@
       "original_timezone": "Asia/Tokyo",
       "verification_status": "verified",
       "source_url": "https://www.kyushu-u.ac.jp/en/admission/faculty/foreign/foreign10/",
-      "verification_history": { "last_successful_check": "2026-11-24T01:30:00.000Z", "last_detected_change": null, "previous_verified_date": null, "current_verified_date": "2026-12-11" }
+      "verification_history": {
+        "last_successful_check": "2026-11-24T01:30:00.000Z",
+        "last_detected_change": null,
+        "previous_verified_date": null,
+        "current_verified_date": "2026-12-11"
+      }
     },
     {
       "id": "dl_cbse_practicals_start",
@@ -353,7 +398,12 @@
       "original_timezone": "Asia/Kolkata",
       "verification_status": "announced",
       "source_url": "https://www.cbse.gov.in/cbsenew/documents/Circular_Practical_Examination_Winter_Bound_05112026.pdf",
-      "verification_history": { "last_successful_check": "2026-11-24T01:30:00.000Z", "last_detected_change": null, "previous_verified_date": null, "current_verified_date": "2027-01-01" }
+      "verification_history": {
+        "last_successful_check": "2026-11-24T01:30:00.000Z",
+        "last_detected_change": null,
+        "previous_verified_date": null,
+        "current_verified_date": "2027-01-01"
+      }
     },
     {
       "id": "dl_jeem_s2_reg_open",
@@ -367,7 +417,12 @@
       "original_timezone": "Asia/Kolkata",
       "verification_status": "announced",
       "source_url": "https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2026/10/202610241890224107.pdf",
-      "verification_history": { "last_successful_check": "2026-11-24T01:30:00.000Z", "last_detected_change": null, "previous_verified_date": null, "current_verified_date": "2027-01-05" }
+      "verification_history": {
+        "last_successful_check": "2026-11-24T01:30:00.000Z",
+        "last_detected_change": null,
+        "previous_verified_date": null,
+        "current_verified_date": "2027-01-05"
+      }
     },
     {
       "id": "dl_finland_joint_open",
@@ -381,7 +436,12 @@
       "original_timezone": "Europe/Helsinki",
       "verification_status": "verified",
       "source_url": "https://www.aalto.fi/en/admission-services/apply-to-bachelors-programmes-in-english",
-      "verification_history": { "last_successful_check": "2026-11-24T01:30:00.000Z", "last_detected_change": null, "previous_verified_date": null, "current_verified_date": "2027-01-07" }
+      "verification_history": {
+        "last_successful_check": "2026-11-24T01:30:00.000Z",
+        "last_detected_change": null,
+        "previous_verified_date": null,
+        "current_verified_date": "2027-01-07"
+      }
     },
     {
       "id": "dl_ucas_equal_consideration",
@@ -395,7 +455,12 @@
       "original_timezone": "Europe/London",
       "verification_status": "verified",
       "source_url": "https://www.ucas.com/events/2027-entry-deadline-for-all-undergraduate-courses-except-those-with-a-15-october-deadline-475546",
-      "verification_history": { "last_successful_check": "2026-11-24T01:30:00.000Z", "last_detected_change": null, "previous_verified_date": null, "current_verified_date": "2027-01-13" }
+      "verification_history": {
+        "last_successful_check": "2026-11-24T01:30:00.000Z",
+        "last_detected_change": null,
+        "previous_verified_date": null,
+        "current_verified_date": "2027-01-13"
+      }
     },
     {
       "id": "dl_jeem_s1_admit_card",
@@ -409,7 +474,12 @@
       "original_timezone": "Asia/Kolkata",
       "verification_status": "verified",
       "source_url": "https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2026/10/202610241890224107.pdf",
-      "verification_history": { "last_successful_check": "2026-11-24T01:30:00.000Z", "last_detected_change": null, "previous_verified_date": null, "current_verified_date": "2027-01-13" }
+      "verification_history": {
+        "last_successful_check": "2026-11-24T01:30:00.000Z",
+        "last_detected_change": null,
+        "previous_verified_date": null,
+        "current_verified_date": "2027-01-13"
+      }
     },
     {
       "id": "dl_wisc_rd_2027",
@@ -423,7 +493,12 @@
       "original_timezone": "America/Chicago",
       "verification_status": "verified",
       "source_url": "https://admissions.wisc.edu/deadlines/",
-      "verification_history": { "last_successful_check": "2026-11-24T01:30:00.000Z", "last_detected_change": null, "previous_verified_date": null, "current_verified_date": "2027-01-15" }
+      "verification_history": {
+        "last_successful_check": "2026-11-24T01:30:00.000Z",
+        "last_detected_change": null,
+        "previous_verified_date": null,
+        "current_verified_date": "2027-01-15"
+      }
     },
     {
       "id": "dl_tue_cse_fixus",
@@ -437,7 +512,12 @@
       "original_timezone": "Europe/Amsterdam",
       "verification_status": "verified",
       "source_url": "https://www.tue.nl/en/education/bachelor-college/bachelor-electrical-engineering",
-      "verification_history": { "last_successful_check": "2026-11-24T01:30:00.000Z", "last_detected_change": null, "previous_verified_date": null, "current_verified_date": "2027-01-15" }
+      "verification_history": {
+        "last_successful_check": "2026-11-24T01:30:00.000Z",
+        "last_detected_change": null,
+        "previous_verified_date": null,
+        "current_verified_date": "2027-01-15"
+      }
     },
     {
       "id": "dl_jeem_s1_exam",
@@ -451,7 +531,12 @@
       "original_timezone": "Asia/Kolkata",
       "verification_status": "verified",
       "source_url": "https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2026/10/202610241890224107.pdf",
-      "verification_history": { "last_successful_check": "2026-11-24T01:30:00.000Z", "last_detected_change": null, "previous_verified_date": null, "current_verified_date": "2027-01-20" }
+      "verification_history": {
+        "last_successful_check": "2026-11-24T01:30:00.000Z",
+        "last_detected_change": null,
+        "previous_verified_date": null,
+        "current_verified_date": "2027-01-20"
+      }
     },
     {
       "id": "dl_oulu_ece_close",
@@ -465,7 +550,12 @@
       "original_timezone": "Europe/Helsinki",
       "verification_status": "verified",
       "source_url": "https://www.oulu.fi/en/apply/bachelors-electronics-and-communications-engineering",
-      "verification_history": { "last_successful_check": "2026-11-24T01:30:00.000Z", "last_detected_change": null, "previous_verified_date": null, "current_verified_date": "2027-01-21" }
+      "verification_history": {
+        "last_successful_check": "2026-11-24T01:30:00.000Z",
+        "last_detected_change": null,
+        "previous_verified_date": null,
+        "current_verified_date": "2027-01-21"
+      }
     },
     {
       "id": "dl_aalto_close",
@@ -479,7 +569,12 @@
       "original_timezone": "Europe/Helsinki",
       "verification_status": "verified",
       "source_url": "https://www.aalto.fi/en/admission-services/apply-to-bachelors-programmes-in-english",
-      "verification_history": { "last_successful_check": "2026-11-24T01:30:00.000Z", "last_detected_change": null, "previous_verified_date": null, "current_verified_date": "2027-01-22" }
+      "verification_history": {
+        "last_successful_check": "2026-11-24T01:30:00.000Z",
+        "last_detected_change": null,
+        "previous_verified_date": null,
+        "current_verified_date": "2027-01-22"
+      }
     },
     {
       "id": "dl_umich_rd_2027",
@@ -493,7 +588,12 @@
       "original_timezone": "America/Detroit",
       "verification_status": "verified",
       "source_url": "https://admissions.umich.edu/apply/first-year-applicants/requirements-deadlines/application-changes",
-      "verification_history": { "last_successful_check": "2026-11-24T01:30:00.000Z", "last_detected_change": null, "previous_verified_date": null, "current_verified_date": "2027-02-01" }
+      "verification_history": {
+        "last_successful_check": "2026-11-24T01:30:00.000Z",
+        "last_detected_change": null,
+        "previous_verified_date": null,
+        "current_verified_date": "2027-02-01"
+      }
     },
     {
       "id": "dl_tcd_priority_e3_b1",
@@ -507,7 +607,12 @@
       "original_timezone": "Europe/Dublin",
       "verification_status": "verified",
       "source_url": "https://www.tcd.ie/e3/education/scholarships/",
-      "verification_history": { "last_successful_check": "2026-11-24T01:30:00.000Z", "last_detected_change": null, "previous_verified_date": null, "current_verified_date": "2027-02-01" }
+      "verification_history": {
+        "last_successful_check": "2026-11-24T01:30:00.000Z",
+        "last_detected_change": null,
+        "previous_verified_date": null,
+        "current_verified_date": "2027-02-01"
+      }
     },
     {
       "id": "dl_jeem_s2_reg_close",
@@ -521,7 +626,12 @@
       "original_timezone": "Asia/Kolkata",
       "verification_status": "announced",
       "source_url": "https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2026/10/202610241890224107.pdf",
-      "verification_history": { "last_successful_check": "2026-11-24T01:30:00.000Z", "last_detected_change": null, "previous_verified_date": null, "current_verified_date": "2027-02-03" }
+      "verification_history": {
+        "last_successful_check": "2026-11-24T01:30:00.000Z",
+        "last_detected_change": null,
+        "previous_verified_date": null,
+        "current_verified_date": "2027-02-03"
+      }
     },
     {
       "id": "dl_cbse_physics",
@@ -535,7 +645,12 @@
       "original_timezone": "Asia/Kolkata",
       "verification_status": "verified",
       "source_url": "https://www.cbse.gov.in/cbsenew/documents/Datesheet_ClassX%20_XII_2027_Main_06112026.pdf",
-      "verification_history": { "last_successful_check": "2026-11-24T01:30:00.000Z", "last_detected_change": null, "previous_verified_date": null, "current_verified_date": "2027-02-16" }
+      "verification_history": {
+        "last_successful_check": "2026-11-24T01:30:00.000Z",
+        "last_detected_change": null,
+        "previous_verified_date": null,
+        "current_verified_date": "2027-02-16"
+      }
     },
     {
       "id": "dl_unsw_t2_2027_offshore",
@@ -549,7 +664,12 @@
       "original_timezone": "Australia/Sydney",
       "verification_status": "verified",
       "source_url": "https://www.unsw.edu.au/study/international-students/admissions-info",
-      "verification_history": { "last_successful_check": "2026-11-24T01:30:00.000Z", "last_detected_change": null, "previous_verified_date": null, "current_verified_date": "2027-02-25" }
+      "verification_history": {
+        "last_successful_check": "2026-11-24T01:30:00.000Z",
+        "last_detected_change": null,
+        "previous_verified_date": null,
+        "current_verified_date": "2027-02-25"
+      }
     },
     {
       "id": "dl_unsw_t2_schol_close",
@@ -563,7 +683,12 @@
       "original_timezone": "Australia/Sydney",
       "verification_status": "verified",
       "source_url": "https://www.scholarships.unsw.edu.au/faqs",
-      "verification_history": { "last_successful_check": "2026-11-24T01:30:00.000Z", "last_detected_change": null, "previous_verified_date": null, "current_verified_date": "2027-02-26" }
+      "verification_history": {
+        "last_successful_check": "2026-11-24T01:30:00.000Z",
+        "last_detected_change": null,
+        "previous_verified_date": null,
+        "current_verified_date": "2027-02-26"
+      }
     },
     {
       "id": "dl_cbse_chemistry",
@@ -577,7 +702,12 @@
       "original_timezone": "Asia/Kolkata",
       "verification_status": "verified",
       "source_url": "https://www.cbse.gov.in/cbsenew/documents/Datesheet_ClassX%20_XII_2027_Main_06112026.pdf",
-      "verification_history": { "last_successful_check": "2026-11-24T01:30:00.000Z", "last_detected_change": null, "previous_verified_date": null, "current_verified_date": "2027-02-27" }
+      "verification_history": {
+        "last_successful_check": "2026-11-24T01:30:00.000Z",
+        "last_detected_change": null,
+        "previous_verified_date": null,
+        "current_verified_date": "2027-02-27"
+      }
     },
     {
       "id": "dl_nthu_r2_close",
@@ -591,7 +721,12 @@
       "original_timezone": "Asia/Taipei",
       "verification_status": "verified",
       "source_url": "https://ibp.nthu.edu.tw/news-132.html",
-      "verification_history": { "last_successful_check": "2026-11-24T01:30:00.000Z", "last_detected_change": null, "previous_verified_date": null, "current_verified_date": "2027-03-03" }
+      "verification_history": {
+        "last_successful_check": "2026-11-24T01:30:00.000Z",
+        "last_detected_change": null,
+        "previous_verified_date": null,
+        "current_verified_date": "2027-03-03"
+      }
     },
     {
       "id": "dl_cbse_english",
@@ -605,7 +740,12 @@
       "original_timezone": "Asia/Kolkata",
       "verification_status": "verified",
       "source_url": "https://www.cbse.gov.in/cbsenew/documents/Datesheet_ClassX%20_XII_2027_Main_06112026.pdf",
-      "verification_history": { "last_successful_check": "2026-11-24T01:30:00.000Z", "last_detected_change": null, "previous_verified_date": null, "current_verified_date": "2027-03-05" }
+      "verification_history": {
+        "last_successful_check": "2026-11-24T01:30:00.000Z",
+        "last_detected_change": null,
+        "previous_verified_date": null,
+        "current_verified_date": "2027-03-05"
+      }
     },
     {
       "id": "dl_cbse_maths",
@@ -619,7 +759,12 @@
       "original_timezone": "Asia/Kolkata",
       "verification_status": "verified",
       "source_url": "https://www.cbse.gov.in/cbsenew/documents/Datesheet_ClassX%20_XII_2027_Main_06112026.pdf",
-      "verification_history": { "last_successful_check": "2026-11-24T01:30:00.000Z", "last_detected_change": null, "previous_verified_date": null, "current_verified_date": "2027-03-09" }
+      "verification_history": {
+        "last_successful_check": "2026-11-24T01:30:00.000Z",
+        "last_detected_change": null,
+        "previous_verified_date": null,
+        "current_verified_date": "2027-03-09"
+      }
     },
     {
       "id": "dl_manchester_global_futures",
@@ -633,7 +778,12 @@
       "original_timezone": "Europe/London",
       "verification_status": "verified",
       "source_url": "https://www.manchester.ac.uk/study/international/country-specific-information/india/",
-      "verification_history": { "last_successful_check": "2026-11-24T01:30:00.000Z", "last_detected_change": null, "previous_verified_date": null, "current_verified_date": "2027-03-30" }
+      "verification_history": {
+        "last_successful_check": "2026-11-24T01:30:00.000Z",
+        "last_detected_change": null,
+        "previous_verified_date": null,
+        "current_verified_date": "2027-03-30"
+      }
     },
     {
       "id": "dl_viteee_reg_close",
@@ -647,7 +797,12 @@
       "original_timezone": "Asia/Kolkata",
       "verification_status": "verified",
       "source_url": "https://viteee.vit.ac.in/",
-      "verification_history": { "last_successful_check": "2026-11-24T01:30:00.000Z", "last_detected_change": null, "previous_verified_date": null, "current_verified_date": "2027-03-31" }
+      "verification_history": {
+        "last_successful_check": "2026-11-24T01:30:00.000Z",
+        "last_detected_change": null,
+        "previous_verified_date": null,
+        "current_verified_date": "2027-03-31"
+      }
     },
     {
       "id": "dl_ucd_global_excellence",
@@ -661,7 +816,12 @@
       "original_timezone": "Europe/Dublin",
       "verification_status": "verified",
       "source_url": "https://www.ucd.ie/global/study-at-ucd/scholarshipsfinances/scholarships/globalexcellencescholarships/",
-      "verification_history": { "last_successful_check": "2026-11-24T01:30:00.000Z", "last_detected_change": null, "previous_verified_date": null, "current_verified_date": "2027-03-31" }
+      "verification_history": {
+        "last_successful_check": "2026-11-24T01:30:00.000Z",
+        "last_detected_change": null,
+        "previous_verified_date": null,
+        "current_verified_date": "2027-03-31"
+      }
     },
     {
       "id": "dl_cbse_cs",
@@ -675,7 +835,12 @@
       "original_timezone": "Asia/Kolkata",
       "verification_status": "verified",
       "source_url": "https://www.cbse.gov.in/cbsenew/documents/Datesheet_ClassX%20_XII_2027_Main_06112026.pdf",
-      "verification_history": { "last_successful_check": "2026-11-24T01:30:00.000Z", "last_detected_change": null, "previous_verified_date": null, "current_verified_date": "2027-03-31" }
+      "verification_history": {
+        "last_successful_check": "2026-11-24T01:30:00.000Z",
+        "last_detected_change": null,
+        "previous_verified_date": null,
+        "current_verified_date": "2027-03-31"
+      }
     },
     {
       "id": "dl_unsw_t3_schol_open",
@@ -689,7 +854,12 @@
       "original_timezone": "Australia/Sydney",
       "verification_status": "verified",
       "source_url": "https://www.scholarships.unsw.edu.au/faqs",
-      "verification_history": { "last_successful_check": "2026-11-24T01:30:00.000Z", "last_detected_change": null, "previous_verified_date": null, "current_verified_date": "2027-04-01" }
+      "verification_history": {
+        "last_successful_check": "2026-11-24T01:30:00.000Z",
+        "last_detected_change": null,
+        "previous_verified_date": null,
+        "current_verified_date": "2027-04-01"
+      }
     },
     {
       "id": "dl_jeem_s2_exam",
@@ -703,7 +873,12 @@
       "original_timezone": "Asia/Kolkata",
       "verification_status": "announced",
       "source_url": "https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2026/10/202610241890224107.pdf",
-      "verification_history": { "last_successful_check": "2026-11-24T01:30:00.000Z", "last_detected_change": null, "previous_verified_date": null, "current_verified_date": "2027-04-02" }
+      "verification_history": {
+        "last_successful_check": "2026-11-24T01:30:00.000Z",
+        "last_detected_change": null,
+        "previous_verified_date": null,
+        "current_verified_date": "2027-04-02"
+      }
     },
     {
       "id": "dl_srmjeee_p1_reg_close",
@@ -717,7 +892,12 @@
       "original_timezone": "Asia/Kolkata",
       "verification_status": "announced",
       "source_url": "https://applications.srmist.edu.in/btech",
-      "verification_history": { "last_successful_check": "2026-11-24T01:30:00.000Z", "last_detected_change": null, "previous_verified_date": null, "current_verified_date": "2027-04-02" }
+      "verification_history": {
+        "last_successful_check": "2026-11-24T01:30:00.000Z",
+        "last_detected_change": null,
+        "previous_verified_date": null,
+        "current_verified_date": "2027-04-02"
+      }
     },
     {
       "id": "dl_srmjeee_p1_exam",
@@ -731,7 +911,12 @@
       "original_timezone": "Asia/Kolkata",
       "verification_status": "announced",
       "source_url": "https://applications.srmist.edu.in/btech",
-      "verification_history": { "last_successful_check": "2026-11-24T01:30:00.000Z", "last_detected_change": null, "previous_verified_date": null, "current_verified_date": "2027-04-17" }
+      "verification_history": {
+        "last_successful_check": "2026-11-24T01:30:00.000Z",
+        "last_detected_change": null,
+        "previous_verified_date": null,
+        "current_verified_date": "2027-04-17"
+      }
     },
     {
       "id": "dl_nthu_r3_close",
@@ -745,7 +930,12 @@
       "original_timezone": "Asia/Taipei",
       "verification_status": "verified",
       "source_url": "https://ibp.nthu.edu.tw/news-132.html",
-      "verification_history": { "last_successful_check": "2026-11-24T01:30:00.000Z", "last_detected_change": null, "previous_verified_date": null, "current_verified_date": "2027-04-22" }
+      "verification_history": {
+        "last_successful_check": "2026-11-24T01:30:00.000Z",
+        "last_detected_change": null,
+        "previous_verified_date": null,
+        "current_verified_date": "2027-04-22"
+      }
     },
     {
       "id": "dl_viteee_exam",
@@ -759,7 +949,12 @@
       "original_timezone": "Asia/Kolkata",
       "verification_status": "announced",
       "source_url": "https://viteee.vit.ac.in/",
-      "verification_history": { "last_successful_check": "2026-11-24T01:30:00.000Z", "last_detected_change": null, "previous_verified_date": null, "current_verified_date": "2027-04-27" }
+      "verification_history": {
+        "last_successful_check": "2026-11-24T01:30:00.000Z",
+        "last_detected_change": null,
+        "previous_verified_date": null,
+        "current_verified_date": "2027-04-27"
+      }
     },
     {
       "id": "dl_tue_ee_close",
@@ -773,7 +968,12 @@
       "original_timezone": "Europe/Amsterdam",
       "verification_status": "verified",
       "source_url": "https://www.tue.nl/en/education/become-a-tue-student/admission-and-enrollment/programtype/bachelor-1/program/industrial-engineering/country/india",
-      "verification_history": { "last_successful_check": "2026-11-24T01:30:00.000Z", "last_detected_change": null, "previous_verified_date": null, "current_verified_date": "2027-05-01" }
+      "verification_history": {
+        "last_successful_check": "2026-11-24T01:30:00.000Z",
+        "last_detected_change": null,
+        "previous_verified_date": null,
+        "current_verified_date": "2027-05-01"
+      }
     },
     {
       "id": "dl_us_commit_day",
@@ -787,7 +987,12 @@
       "original_timezone": "America/Detroit",
       "verification_status": "verified",
       "source_url": "https://admissions.umich.edu/apply/first-year-applicants/selection-process/ea-admission-decisions-faq",
-      "verification_history": { "last_successful_check": "2026-11-24T01:30:00.000Z", "last_detected_change": null, "previous_verified_date": null, "current_verified_date": "2027-05-01" }
+      "verification_history": {
+        "last_successful_check": "2026-11-24T01:30:00.000Z",
+        "last_detected_change": null,
+        "previous_verified_date": null,
+        "current_verified_date": "2027-05-01"
+      }
     },
     {
       "id": "dl_tcd_e3_b3",
@@ -801,7 +1006,12 @@
       "original_timezone": "Europe/Dublin",
       "verification_status": "verified",
       "source_url": "https://www.tcd.ie/e3/education/scholarships/",
-      "verification_history": { "last_successful_check": "2026-11-24T01:30:00.000Z", "last_detected_change": null, "previous_verified_date": null, "current_verified_date": "2027-05-01" }
+      "verification_history": {
+        "last_successful_check": "2026-11-24T01:30:00.000Z",
+        "last_detected_change": null,
+        "previous_verified_date": null,
+        "current_verified_date": "2027-05-01"
+      }
     },
     {
       "id": "dl_jeea_2027_exam",
@@ -815,7 +1025,12 @@
       "original_timezone": "Asia/Kolkata",
       "verification_status": "verified",
       "source_url": "https://jeeadv.ac.in/documents/JEEAdv2027PressRelease.pdf",
-      "verification_history": { "last_successful_check": "2026-11-24T01:30:00.000Z", "last_detected_change": null, "previous_verified_date": null, "current_verified_date": "2027-05-23" }
+      "verification_history": {
+        "last_successful_check": "2026-11-24T01:30:00.000Z",
+        "last_detected_change": null,
+        "previous_verified_date": null,
+        "current_verified_date": "2027-05-23"
+      }
     },
     {
       "id": "dl_unimelb_s2_2027",
@@ -829,7 +1044,12 @@
       "original_timezone": "Australia/Melbourne",
       "verification_status": "verified",
       "source_url": "https://study.unimelb.edu.au/how-to-apply/undergraduate-study/international-applications/applications",
-      "verification_history": { "last_successful_check": "2026-11-24T01:30:00.000Z", "last_detected_change": null, "previous_verified_date": null, "current_verified_date": "2027-05-31" }
+      "verification_history": {
+        "last_successful_check": "2026-11-24T01:30:00.000Z",
+        "last_detected_change": null,
+        "previous_verified_date": null,
+        "current_verified_date": "2027-05-31"
+      }
     },
     {
       "id": "dl_tcd_tr032_close",
@@ -843,7 +1063,12 @@
       "original_timezone": "Europe/Dublin",
       "verification_status": "verified",
       "source_url": "https://www.tcd.ie/courses/undergraduate/courses/engineering/",
-      "verification_history": { "last_successful_check": "2026-11-24T01:30:00.000Z", "last_detected_change": null, "previous_verified_date": null, "current_verified_date": "2027-05-31" }
+      "verification_history": {
+        "last_successful_check": "2026-11-24T01:30:00.000Z",
+        "last_detected_change": null,
+        "previous_verified_date": null,
+        "current_verified_date": "2027-05-31"
+      }
     },
     {
       "id": "dl_sheffield_schol_accept",
@@ -857,7 +1082,12 @@
       "original_timezone": "Europe/London",
       "verification_status": "verified",
       "source_url": "https://sheffield.ac.uk/global/agent-training",
-      "verification_history": { "last_successful_check": "2026-11-24T01:30:00.000Z", "last_detected_change": null, "previous_verified_date": null, "current_verified_date": "2027-06-02" }
+      "verification_history": {
+        "last_successful_check": "2026-11-24T01:30:00.000Z",
+        "last_detected_change": null,
+        "previous_verified_date": null,
+        "current_verified_date": "2027-06-02"
+      }
     },
     {
       "id": "dl_srmjeee_p2_reg_close",
@@ -871,7 +1101,12 @@
       "original_timezone": "Asia/Kolkata",
       "verification_status": "announced",
       "source_url": "https://applications.srmist.edu.in/btech",
-      "verification_history": { "last_successful_check": "2026-11-24T01:30:00.000Z", "last_detected_change": null, "previous_verified_date": null, "current_verified_date": "2027-06-04" }
+      "verification_history": {
+        "last_successful_check": "2026-11-24T01:30:00.000Z",
+        "last_detected_change": null,
+        "previous_verified_date": null,
+        "current_verified_date": "2027-06-04"
+      }
     },
     {
       "id": "dl_unsw_t3_2027_offshore",
@@ -885,7 +1120,12 @@
       "original_timezone": "Australia/Sydney",
       "verification_status": "verified",
       "source_url": "https://www.unsw.edu.au/study/international-students/admissions-info",
-      "verification_history": { "last_successful_check": "2026-11-24T01:30:00.000Z", "last_detected_change": null, "previous_verified_date": null, "current_verified_date": "2027-06-10" }
+      "verification_history": {
+        "last_successful_check": "2026-11-24T01:30:00.000Z",
+        "last_detected_change": null,
+        "previous_verified_date": null,
+        "current_verified_date": "2027-06-10"
+      }
     },
     {
       "id": "dl_unsw_t3_schol_close",
@@ -899,7 +1139,12 @@
       "original_timezone": "Australia/Sydney",
       "verification_status": "verified",
       "source_url": "https://www.scholarships.unsw.edu.au/faqs",
-      "verification_history": { "last_successful_check": "2026-11-24T01:30:00.000Z", "last_detected_change": null, "previous_verified_date": null, "current_verified_date": "2027-06-18" }
+      "verification_history": {
+        "last_successful_check": "2026-11-24T01:30:00.000Z",
+        "last_detected_change": null,
+        "previous_verified_date": null,
+        "current_verified_date": "2027-06-18"
+      }
     },
     {
       "id": "dl_srmjeee_p2_exam",
@@ -913,7 +1158,12 @@
       "original_timezone": "Asia/Kolkata",
       "verification_status": "announced",
       "source_url": "https://applications.srmist.edu.in/btech",
-      "verification_history": { "last_successful_check": "2026-11-24T01:30:00.000Z", "last_detected_change": null, "previous_verified_date": null, "current_verified_date": "2027-06-19" }
+      "verification_history": {
+        "last_successful_check": "2026-11-24T01:30:00.000Z",
+        "last_detected_change": null,
+        "previous_verified_date": null,
+        "current_verified_date": "2027-06-19"
+      }
     },
     {
       "id": "dl_ucas_intl_final",
@@ -927,7 +1177,12 @@
       "original_timezone": "Europe/London",
       "verification_status": "verified",
       "source_url": "https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications",
-      "verification_history": { "last_successful_check": "2026-11-24T01:30:00.000Z", "last_detected_change": null, "previous_verified_date": null, "current_verified_date": "2027-06-30" }
+      "verification_history": {
+        "last_successful_check": "2026-11-24T01:30:00.000Z",
+        "last_detected_change": null,
+        "previous_verified_date": null,
+        "current_verified_date": "2027-06-30"
+      }
     },
     {
       "id": "dl_ucd_rec_deadline",
@@ -941,7 +1196,12 @@
       "original_timezone": "Europe/Dublin",
       "verification_status": "announced",
       "source_url": "https://www.ucd.ie/global/study-at-ucd/faqs/",
-      "verification_history": { "last_successful_check": "2026-11-24T01:30:00.000Z", "last_detected_change": null, "previous_verified_date": null, "current_verified_date": "2027-07-01" }
+      "verification_history": {
+        "last_successful_check": "2026-11-24T01:30:00.000Z",
+        "last_detected_change": null,
+        "previous_verified_date": null,
+        "current_verified_date": "2027-07-01"
+      }
     }
   ]
 }

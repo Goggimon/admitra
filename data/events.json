@@ -1,13 +1,27 @@
 {
   "last_run": {
-    "started_at": "2026-11-24T01:30:00.000Z",
-    "finished_at": "2026-11-24T01:30:02.000Z",
-    "duration_ms": 2000,
+    "started_at": "2026-11-24T12:44:06.503Z",
+    "finished_at": "2026-11-24T12:44:15.213Z",
+    "duration_ms": 8710,
     "sources_checked": 10,
-    "sources_failed": 0,
-    "changes_detected": 0
+    "sources_failed": 1,
+    "changes_detected": 1
   },
   "events": [
+    {
+      "id": "evt_c6548547226d0763bb15",
+      "entity_type": "examination",
+      "entity_id": "exam_jeem",
+      "entity_name": "JEE Main",
+      "event_type": "reg_portal_opened",
+      "title": "Registration Portal Opened: Clarification regarding submission of a fresh Online Application Form for JEE (Main) – 2027 (Session",
+      "date": "2026-11-24",
+      "date_only": true,
+      "verification_status": "verified",
+      "source_url": "https://jeemain.nta.nic.in/public-notices/",
+      "evidence": "+ Clarification regarding submission of a fresh Online Application Form for JEE (Main) – 2027 (Session 1) | https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2026/10/202610302102025182.pdf | Advisory and Instructions regarding registration process for Joint Entrance Examination (Main) – 2027 (Session 1) | https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2026/10/202610281658843201.pdf | Inviting Online Application form for the Joint Entrance Examination (JEE)-2027 (Session 1) – Reg. | https://cdnbbsr.s3waas.gov.in/s3f8e59f4b2fe7c5705bf878bbd494ccdf/uploads/2026/10/20261024390682350.pdf\n- Inviting Online Application form for the Joint Entrance Examination (JEE)-2027 (Session 1) – Reg. | Late fee window open through 2026-11-26.",
+      "detected_at": "2026-11-24T12:44:06.503Z"
+    },
     {
       "id": "evt_sat_dec2026_urgent",
       "entity_type": "supplementary",
