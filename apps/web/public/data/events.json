@@ -1,11 +1,11 @@
 {
   "last_run": {
-    "started_at": "2026-11-24T12:44:06.503Z",
-    "finished_at": "2026-11-24T12:44:15.213Z",
-    "duration_ms": 8710,
+    "started_at": "2026-11-25T11:30:08.282Z",
+    "finished_at": "2026-11-25T11:30:16.352Z",
+    "duration_ms": 8070,
     "sources_checked": 10,
     "sources_failed": 1,
-    "changes_detected": 1
+    "changes_detected": 0
   },
   "events": [
     {
