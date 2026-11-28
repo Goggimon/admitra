@@ -1,6 +1,6 @@
 {
   "schema_version": "2.0.0-github-native",
-  "generated_at": "2026-11-27T11:03:56.278Z",
+  "generated_at": "2026-11-28T10:40:43.144Z",
   "timezone": "Asia/Kolkata",
   "sources": [
     {
@@ -18,7 +18,7 @@
       "consecutive_failures": 0,
       "last_error": null,
       "verification_history": {
-        "last_successful_check": "2026-11-27T11:03:47.215Z",
+        "last_successful_check": "2026-11-28T10:40:34.918Z",
         "last_detected_change": null,
         "previous_verified_date": null,
         "current_verified_date": "2027-06-10"
@@ -39,7 +39,7 @@
       "consecutive_failures": 0,
       "last_error": null,
       "verification_history": {
-        "last_successful_check": "2026-11-27T11:03:47.215Z",
+        "last_successful_check": "2026-11-28T10:40:34.918Z",
         "last_detected_change": "2026-11-24T12:44:06.503Z",
         "previous_verified_date": null,
         "current_verified_date": "2026-11-26"
@@ -60,7 +60,7 @@
       "consecutive_failures": 0,
       "last_error": null,
       "verification_history": {
-        "last_successful_check": "2026-11-27T11:03:47.215Z",
+        "last_successful_check": "2026-11-28T10:40:34.918Z",
         "last_detected_change": null,
         "previous_verified_date": null,
         "current_verified_date": "2027-05-23"
@@ -81,7 +81,7 @@
       "consecutive_failures": 0,
       "last_error": null,
       "verification_history": {
-        "last_successful_check": "2026-11-27T11:03:47.215Z",
+        "last_successful_check": "2026-11-28T10:40:34.918Z",
         "last_detected_change": null,
         "previous_verified_date": null,
         "current_verified_date": null
@@ -102,7 +102,7 @@
       "consecutive_failures": 0,
       "last_error": null,
       "verification_history": {
-        "last_successful_check": "2026-11-27T11:03:47.215Z",
+        "last_successful_check": "2026-11-28T10:40:34.918Z",
         "last_detected_change": null,
         "previous_verified_date": null,
         "current_verified_date": "2027-03-31"
@@ -123,7 +123,7 @@
       "consecutive_failures": 0,
       "last_error": null,
       "verification_history": {
-        "last_successful_check": "2026-11-27T11:03:47.215Z",
+        "last_successful_check": "2026-11-28T10:40:34.918Z",
         "last_detected_change": null,
         "previous_verified_date": null,
         "current_verified_date": null
@@ -141,7 +141,7 @@
       "http_status": "ERR_FETCH",
       "content_hash": null,
       "last_excerpt": "Awaiting IAT 2027 notification (currently displaying 2026 cycle).",
-      "consecutive_failures": 4,
+      "consecutive_failures": 5,
       "last_error": "fetch failed",
       "verification_history": {
         "last_successful_check": "2026-11-24T01:30:00.000Z",
@@ -165,7 +165,7 @@
       "consecutive_failures": 0,
       "last_error": null,
       "verification_history": {
-        "last_successful_check": "2026-11-27T11:03:47.215Z",
+        "last_successful_check": "2026-11-28T10:40:34.918Z",
         "last_detected_change": null,
         "previous_verified_date": null,
         "current_verified_date": "2027-01-13"
@@ -186,7 +186,7 @@
       "consecutive_failures": 0,
       "last_error": null,
       "verification_history": {
-        "last_successful_check": "2026-11-27T11:03:47.215Z",
+        "last_successful_check": "2026-11-28T10:40:34.918Z",
         "last_detected_change": null,
         "previous_verified_date": null,
         "current_verified_date": "2027-01-22"
@@ -207,7 +207,7 @@
       "consecutive_failures": 0,
       "last_error": null,
       "verification_history": {
-        "last_successful_check": "2026-11-27T11:03:47.215Z",
+        "last_successful_check": "2026-11-28T10:40:34.918Z",
         "last_detected_change": null,
         "previous_verified_date": null,
         "current_verified_date": "2026-12-11"
